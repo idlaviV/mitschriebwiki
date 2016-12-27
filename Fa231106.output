@@ -1,0 +1,310 @@
+
+Running /usr/bin/pdflatex Fa231106.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Fa231106.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/euscript.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def))
+No file Fa231106.aux.
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/m
+ap/pdftex/updmap/pdftex.map}] [2] (./Fa231106.aux) )</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Fa231106.pdf (2 pages, 47369 bytes).
+Transcript written on Fa231106.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Fa231106.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Fa231106.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/euscript.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def)) (./Fa231106.aux)
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Fa231106.out)
+(./Fa231106.out) (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/m
+ap/pdftex/updmap/pdftex.map}] [2] (./Fa231106.aux) )</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Fa231106.pdf (2 pages, 47369 bytes).
+Transcript written on Fa231106.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Fa231106.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Fa231106.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/euscript.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def)) (./Fa231106.aux)
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Fa231106.out)
+(./Fa231106.out) (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd) [1{/var/lib/texmf/fonts/m
+ap/pdftex/updmap/pdftex.map}] [2] (./Fa231106.aux) )</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Fa231106.pdf (2 pages, 47369 bytes).
+Transcript written on Fa231106.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose Fa231106.pdf[0] -resize 70x Fa231106.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-TnUjGcI5-%08d" "-f/tmp/magick-6cBzCFex" "-f/tmp/magick-1QH6ycLY"
+/tmp/magick-TnUjGcI5-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 8.76KB 0.010u 0:00.010
+Fa231106.pdf[0]=>Fa231106.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 8.76KB 0.000u 0:00.000
+Fa231106.pdf[0]=>Fa231106.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 0.290u 0:00.080
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose Fa231106.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: Fa231106.png
+70x99 pixels, 2x8 bits/pixel, grayscale+alpha
+Reducing image to 8 bits/pixel, 43 colors (42 transparent) in palette
+Input IDAT size = 220 bytes
+Input file size = 2850 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 154
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 153
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 140
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Fa231106.png is already optimized.
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

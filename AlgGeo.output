@@ -1,0 +1,1408 @@
+
+Running /usr/bin/pdflatex AlgGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2009/07/24 v3.04a KOMA-Script document class (report)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex))) (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/index/index.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Values of option `pdfpagemode':
+(hyperref)                * `UseNone'
+(hyperref)                * `UseOutlines'
+(hyperref)                * `UseThumbs'
+(hyperref)                * `FullScreen'
+(hyperref)                * `UseOC' (PDF 1.5)
+(hyperref)                * `UseAttachments' (PDF 1.6)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `None' on input line 58.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.sty
+(/usr/share/texmf-texlive/tex/generic/pictex/prepictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/postpictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/picmore.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/piccorr.sty))
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+)
+No file AlgGeo.aux.
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd) [1{/var/lib/texmf/fonts/map/pdftex/up
+dmap/pdftex.map}]
+** Generating table of Satz,SatzDef,Def,DefBem,BemDef,Prop,PropDef,Bsp,DefProp
+No file AlgGeo.thm.
+[2pdfTeX warning (ext4): destination with the same identifier (name{contents.1}
+) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.207 \chapter
+              {Vorwort}] [3]
+Kapitel 1.
+
+Overfull \hbox (1.087pt too wide) in paragraph at lines 228--230
+\T1/lmr/m/n/12 Ist $\OML/lmm/m/it/12 A$ \T1/lmr/m/n/12 ei-ne $\OML/lmm/m/it/12 
+k$\T1/lmr/m/n/12 -Algebra und sind $\OML/lmm/m/it/12 a[]; [] ; a[] \OMS/lmsy/m/
+n/12 2 \OML/lmm/m/it/12 A$\T1/lmr/m/n/12 , so gibt es ge-nau einen $\OML/lmm/m/
+it/12 k$\T1/lmr/m/n/12 -Algebra-Homomorphismus
+[4] <xymatrix 2x2 127> [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+<xymatrix 2x2 168> [9] <xymatrix 2x2 168> [10] <xymatrix 2x2 168>
+Underfull \hbox (badness 10000) in paragraph at lines 587--593
+
+[11]
+
+LaTeX Warning: Reference `bem:6.5' on page 12 undefined on input line 614.
+
+[12] <xymatrix 3x5 530> [13]
+
+LaTeX Warning: Reference `bem:5.3' on page 14 undefined on input line 681.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+[14]
+Overfull \hbox (3.00328pt too wide) in paragraph at lines 748--751
+[]$\OMS/lmsy/m/n/12 ^^X$ \T1/lmr/m/n/12 ist tran-si-tiv: Sei-en $\OT1/lmr/m/n/1
+2 (\OML/lmm/m/it/12 U; f\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12
+ (\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , dann folgt: $\OML
+/lmm/m/it/12 f\OMS/lmsy/m/n/12 j[] \OT1/lmr/m/n/12 =
+[15]
+
+LaTeX Warning: Reference `prop:6.6' on page 16 undefined on input line 808.
+
+
+LaTeX Warning: Reference `satz:HNSaffin' on page 16 undefined on input line 808
+.
+
+
+LaTeX Warning: Reference `prop:6.6' on page 16 undefined on input line 808.
+
+
+LaTeX Warning: Reference `satz:HNSaffin' on page 16 undefined on input line 808
+.
+
+
+LaTeX Warning: Reference `satz:HNSaffin' on page 16 undefined on input line 817
+.
+
+[16]
+Kapitel 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Overfull \hbox (3.86916pt too wide) in paragraph at lines 874--875
+[]$\U/msb/m/n/12 P[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/l
+mr/m/n/12 ist dis-junk-te Ver-ei-ni-gung von $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/lmr/m/n/12 und $\U/msb/m/n/12 P[]\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , oder auch von
+ $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )\OML/lmm
+/m/it/12 ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 
+)\OML/lmm/m/it/12 ; [] ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\O
+T1/lmr/m/n/12 )$\T1/lmr/m/n/12 . 
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+
+[18]
+
+LaTeX Warning: Reference `defbem:8.6' on page 19 undefined on input line 932.
+
+
+LaTeX Warning: Reference `defbem:8.10' on page 19 undefined on input line 971.
+
+
+LaTeX Warning: Reference `defbem:8.10' on page 19 undefined on input line 971.
+
+
+LaTeX Warning: Reference `satz:HNS' on page 19 undefined on input line 971.
+
+[19]
+
+LaTeX Warning: Reference `bem:2.7' on page 20 undefined on input line 1005.
+
+[20]
+
+LaTeX Warning: Reference `bem:9.5' on page 21 undefined on input line 1055.
+
+
+LaTeX Warning: Reference `bem:2.7' on page 21 undefined on input line 1070.
+
+[21]
+
+LaTeX Warning: Reference `def:6.2' on page 22 undefined on input line 1097.
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+[23] [24]
+
+LaTeX Warning: Reference `bem:10.3' on page 25 undefined on input line 1214.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
+
+[25]
+
+LaTeX Warning: Reference `defbem:11.1' on page 26 undefined on input line 1269.
+
+
+
+LaTeX Warning: Reference `prop:6.6' on page 26 undefined on input line 1269.
+
+
+LaTeX Warning: Reference `defbem:11.1' on page 26 undefined on input line 1283.
+
+
+[26]
+
+LaTeX Warning: Reference `bem:11.5' on page 27 undefined on input line 1323.
+
+[27]
+Overfull \hbox (0.37965pt too wide) detected at line 1352
+[] [] \OMS/lmsy/m/n/12 $ [] []
+[28] [29]
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1472.
+
+[30] [31] <xymatrix 3x3 215> [32]
+Kapitel 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1644
+
+<xymatrix 4x4 312> <xymatrix 4x4 312>
+
+LaTeX Warning: Reference `bem:14.1' on page 33 undefined on input line 1658.
+
+[33]
+
+LaTeX Warning: Reference `prop:3.3' on page 34 undefined on input line 1727.
+
+
+LaTeX Warning: Reference `satz:HNSaffin' on page 34 undefined on input line 172
+8.
+
+[34] [35]
+Overfull \hbox (7.10385pt too wide) in paragraph at lines 1817--1824
+\T1/lmr/m/n/12 Schreibe $\OML/lmm/m/it/12 g[] \OT1/lmr/m/n/12 = [][] \OML/lmm/m
+/it/12 a[]Y[];  [] []a[] \OMS/lmsy/m/n/12 2 \OML/lmm/m/it/12 k \OT1/lmr/m/n/12 
+= (\OML/lmm/m/it/12 d[]'\OT1/lmr/m/n/12 )[](\OML/lmm/m/it/12 f\OT1/lmr/m/n/12 )
+ = [][] \OML/lmm/m/it/12 a[] [][] []\OT1/lmr/m/n/12 (0) \OMS/lmsy/m/n/12 ^^A \O
+ML/lmm/m/it/12 X[] \OT1/lmr/m/n/12 = [][]([][] \OML/lmm/m/it/12 a[][]\OT1/lmr/m
+/n/12 (0)) \OMS/lmsy/m/n/12 ^^A
+
+Underfull \hbox (badness 10000) in paragraph at lines 1845--1846
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+[37] [38] [39] (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 2021.
+
+[40] [41]
+Kapitel 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2112--2114
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2133--2135
+
+<xymatrix 4x5 116>
+Underfull \hbox (badness 10000) in paragraph at lines 2161--2163
+
+
+LaTeX Warning: Reference `prop:18.3' on page 43 undefined on input line 2172.
+
+
+LaTeX Warning: Reference `prop:18.5' on page 43 undefined on input line 2174.
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2212
+
+[44] [45] [46] [47]
+
+LaTeX Warning: Reference `defbem:19.3' on page 48 undefined on input line 2400.
+
+
+
+LaTeX Warning: Reference `defbem:19.3' on page 48 undefined on input line 2400.
+
+
+
+LaTeX Warning: Reference `defprop:19.4' on page 48 undefined on input line 2403
+.
+
+[48]
+
+LaTeX Warning: Reference `bsp:19.1' on page 49 undefined on input line 2460.
+
+
+LaTeX Warning: Reference `satz:8' on page 49 undefined on input line 2477.
+
+[49]
+Overfull \hbox (5.57727pt too wide) in paragraph at lines 2507--2510
+\T1/lmr/bx/n/12 denn: \T1/lmr/m/n/12 Sei $\OML/lmm/m/it/12 f[]; [] ; f[]$ \T1/l
+mr/m/n/12 ei-ne Ba-sis von $\OML/lmm/m/it/12 L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12
+ D \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 P\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 . Wie o
+ben sei $\OML/lmm/m/it/12 f[]; [] ; f[] [] L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 D
+\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; f[]; [] ; f[] \OMS/lmsy/m/n/12 2
+
+LaTeX Warning: Reference `defbem:20.1' on page 50 undefined on input line 2521.
+
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2618--2625
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2645
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd) [52] [53]
+No file AlgGeo.ind.
+[54] (./AlgGeo.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmbsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmmib10.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-texl
+ive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/xypic/xyatip10.pfb></usr/share/texmf-texlive/fonts/type1/public/x
+ypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/type1/public/xypic/xydash10.p
+fb>
+Output written on AlgGeo.pdf (54 pages, 665085 bytes).
+Transcript written on AlgGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/makeindex AlgGeo.idx in an env with 4 entries:
+This is makeindex, version 2.15 [TeX Live 2009] (kpathsea + Thai support).
+Scanning input file AlgGeo.idx....done (70 entries accepted, 0 rejected).
+Sorting entries....done (427 comparisons).
+Generating output file AlgGeo.ind....done (119 lines written, 0 warnings).
+Output written in AlgGeo.ind.
+Transcript written in AlgGeo.ilg.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex AlgGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2009/07/24 v3.04a KOMA-Script document class (report)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex))) (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/index/index.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Values of option `pdfpagemode':
+(hyperref)                * `UseNone'
+(hyperref)                * `UseOutlines'
+(hyperref)                * `UseThumbs'
+(hyperref)                * `FullScreen'
+(hyperref)                * `UseOC' (PDF 1.5)
+(hyperref)                * `UseAttachments' (PDF 1.6)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `None' on input line 58.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.sty
+(/usr/share/texmf-texlive/tex/generic/pictex/prepictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/postpictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/picmore.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/piccorr.sty))
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (./AlgGeo.aux) (/usr/share/texmf/tex/latex/lm/t1lmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./AlgGeo.out)
+(./AlgGeo.out) (/usr/share/texmf/tex/latex/lm/t1lmss.fd)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd) [1{/var/lib/texmf/fonts/map/pdftex/up
+dmap/pdftex.map}] (./AlgGeo.toc)
+** Generating table of Satz,SatzDef,Def,DefBem,BemDef,Prop,PropDef,Bsp,DefProp
+(./AlgGeo.thm) [2pdfTeX warning (ext4): destination with the same identifier (n
+ame{contents.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.207 \chapter
+              {Vorwort}] [3]
+Kapitel 1.
+
+Overfull \hbox (1.087pt too wide) in paragraph at lines 228--230
+\T1/lmr/m/n/12 Ist $\OML/lmm/m/it/12 A$ \T1/lmr/m/n/12 ei-ne $\OML/lmm/m/it/12 
+k$\T1/lmr/m/n/12 -Algebra und sind $\OML/lmm/m/it/12 a[]; [] ; a[] \OMS/lmsy/m/
+n/12 2 \OML/lmm/m/it/12 A$\T1/lmr/m/n/12 , so gibt es ge-nau einen $\OML/lmm/m/
+it/12 k$\T1/lmr/m/n/12 -Algebra-Homomorphismus
+[4] <xymatrix 2x2 127> [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+<xymatrix 2x2 168> [9] <xymatrix 2x2 168> [10] <xymatrix 2x2 168>
+Underfull \hbox (badness 10000) in paragraph at lines 587--593
+
+[11] [12] <xymatrix 3x5 530> [13]
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+[14]
+Overfull \hbox (3.00328pt too wide) in paragraph at lines 748--751
+[]$\OMS/lmsy/m/n/12 ^^X$ \T1/lmr/m/n/12 ist tran-si-tiv: Sei-en $\OT1/lmr/m/n/1
+2 (\OML/lmm/m/it/12 U; f\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12
+ (\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , dann folgt: $\OML
+/lmm/m/it/12 f\OMS/lmsy/m/n/12 j[] \OT1/lmr/m/n/12 =
+[15] [16]
+Kapitel 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Overfull \hbox (3.86916pt too wide) in paragraph at lines 874--875
+[]$\U/msb/m/n/12 P[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/l
+mr/m/n/12 ist dis-junk-te Ver-ei-ni-gung von $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/lmr/m/n/12 und $\U/msb/m/n/12 P[]\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , oder auch von
+ $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )\OML/lmm
+/m/it/12 ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 
+)\OML/lmm/m/it/12 ; [] ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\O
+T1/lmr/m/n/12 )$\T1/lmr/m/n/12 . 
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+
+[18] [19] [20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
+
+[25] [26] [27]
+Overfull \hbox (0.37965pt too wide) detected at line 1352
+[] [] \OMS/lmsy/m/n/12 $ [] []
+[28] [29]
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1472.
+
+[30] [31] <xymatrix 3x3 215> [32]
+Kapitel 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1644
+
+<xymatrix 4x4 312> <xymatrix 4x4 312> [33] [34] [35]
+Overfull \hbox (7.10385pt too wide) in paragraph at lines 1817--1824
+\T1/lmr/m/n/12 Schreibe $\OML/lmm/m/it/12 g[] \OT1/lmr/m/n/12 = [][] \OML/lmm/m
+/it/12 a[]Y[];  [] []a[] \OMS/lmsy/m/n/12 2 \OML/lmm/m/it/12 k \OT1/lmr/m/n/12 
+= (\OML/lmm/m/it/12 d[]'\OT1/lmr/m/n/12 )[](\OML/lmm/m/it/12 f\OT1/lmr/m/n/12 )
+ = [][] \OML/lmm/m/it/12 a[] [][] []\OT1/lmr/m/n/12 (0) \OMS/lmsy/m/n/12 ^^A \O
+ML/lmm/m/it/12 X[] \OT1/lmr/m/n/12 = [][]([][] \OML/lmm/m/it/12 a[][]\OT1/lmr/m
+/n/12 (0)) \OMS/lmsy/m/n/12 ^^A
+
+Underfull \hbox (badness 10000) in paragraph at lines 1845--1846
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+[37] [38] [39] (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 2021.
+
+[40] [41]
+Kapitel 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2112--2114
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2133--2135
+
+<xymatrix 4x5 116>
+Underfull \hbox (badness 10000) in paragraph at lines 2161--2163
+
+
+LaTeX Warning: Reference `prop:18.3' on page 43 undefined on input line 2172.
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2212
+
+[44] [45] [46] [47] [48] [49]
+Overfull \hbox (5.57727pt too wide) in paragraph at lines 2507--2510
+\T1/lmr/bx/n/12 denn: \T1/lmr/m/n/12 Sei $\OML/lmm/m/it/12 f[]; [] ; f[]$ \T1/l
+mr/m/n/12 ei-ne Ba-sis von $\OML/lmm/m/it/12 L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12
+ D \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 P\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 . Wie o
+ben sei $\OML/lmm/m/it/12 f[]; [] ; f[] [] L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 D
+\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; f[]; [] ; f[] \OMS/lmsy/m/n/12 2
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2618--2625
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2645
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd) [52] [53] (./AlgGeo.ind [54] [55])
+(./AlgGeo.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmbsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmtt12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/xypic/xyatip10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/xypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/xypic/xydash10.pfb>
+Output written on AlgGeo.pdf (55 pages, 678555 bytes).
+Transcript written on AlgGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex AlgGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2009/07/24 v3.04a KOMA-Script document class (report)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex))) (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/index/index.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 58.
+
+
+Package hyperref Warning: Values of option `pdfpagemode':
+(hyperref)                * `UseNone'
+(hyperref)                * `UseOutlines'
+(hyperref)                * `UseThumbs'
+(hyperref)                * `FullScreen'
+(hyperref)                * `UseOC' (PDF 1.5)
+(hyperref)                * `UseAttachments' (PDF 1.6)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `None' on input line 58.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.sty
+(/usr/share/texmf-texlive/tex/generic/pictex/prepictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/postpictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/picmore.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/piccorr.sty))
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (./AlgGeo.aux) (/usr/share/texmf/tex/latex/lm/t1lmr.fd)
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./AlgGeo.out)
+(./AlgGeo.out) (/usr/share/texmf/tex/latex/lm/t1lmss.fd)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd) [1{/var/lib/texmf/fonts/map/pdftex/up
+dmap/pdftex.map}] (./AlgGeo.toc)
+** Generating table of Satz,SatzDef,Def,DefBem,BemDef,Prop,PropDef,Bsp,DefProp
+(./AlgGeo.thm) [2pdfTeX warning (ext4): destination with the same identifier (n
+ame{contents.1}) has been already used, duplicate ignored
+
+\@EveryShipout@Output ...@Org@Shipout \box \@cclv 
+                                                  
+l.207 \chapter
+              {Vorwort}] [3]
+Kapitel 1.
+
+Overfull \hbox (1.087pt too wide) in paragraph at lines 228--230
+\T1/lmr/m/n/12 Ist $\OML/lmm/m/it/12 A$ \T1/lmr/m/n/12 ei-ne $\OML/lmm/m/it/12 
+k$\T1/lmr/m/n/12 -Algebra und sind $\OML/lmm/m/it/12 a[]; [] ; a[] \OMS/lmsy/m/
+n/12 2 \OML/lmm/m/it/12 A$\T1/lmr/m/n/12 , so gibt es ge-nau einen $\OML/lmm/m/
+it/12 k$\T1/lmr/m/n/12 -Algebra-Homomorphismus
+[4] <xymatrix 2x2 127> [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--478
+
+<xymatrix 2x2 168> [9] <xymatrix 2x2 168> [10] <xymatrix 2x2 168>
+Underfull \hbox (badness 10000) in paragraph at lines 587--593
+
+[11] [12] <xymatrix 3x5 530> [13]
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 716--718
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+[14]
+Overfull \hbox (3.00328pt too wide) in paragraph at lines 748--751
+[]$\OMS/lmsy/m/n/12 ^^X$ \T1/lmr/m/n/12 ist tran-si-tiv: Sei-en $\OT1/lmr/m/n/1
+2 (\OML/lmm/m/it/12 U; f\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X \OT1/lmr/m/n/12
+ (\OML/lmm/m/it/12 U[]; f[]\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , dann folgt: $\OML
+/lmm/m/it/12 f\OMS/lmsy/m/n/12 j[] \OT1/lmr/m/n/12 =
+[15] [16]
+Kapitel 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 830.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 830.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--853
+
+
+Overfull \hbox (3.86916pt too wide) in paragraph at lines 874--875
+[]$\U/msb/m/n/12 P[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/l
+mr/m/n/12 ist dis-junk-te Ver-ei-ni-gung von $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/lmr/m/n/12 und $\U/msb/m/n/12 P[]\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 , oder auch von
+ $\U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )\OML/lmm
+/m/it/12 ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 
+)\OML/lmm/m/it/12 ; [] ; \U/msb/m/n/12 A[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\O
+T1/lmr/m/n/12 )$\T1/lmr/m/n/12 . 
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
+
+[18] [19] [20] [21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1161
+
+[23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
+
+[25] [26] [27]
+Overfull \hbox (0.37965pt too wide) detected at line 1352
+[] [] \OMS/lmsy/m/n/12 $ [] []
+[28] [29]
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1472.
+
+[30] [31] <xymatrix 3x3 215> [32]
+Kapitel 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1644
+
+<xymatrix 4x4 312> <xymatrix 4x4 312> [33] [34] [35]
+Overfull \hbox (7.10385pt too wide) in paragraph at lines 1817--1824
+\T1/lmr/m/n/12 Schreibe $\OML/lmm/m/it/12 g[] \OT1/lmr/m/n/12 = [][] \OML/lmm/m
+/it/12 a[]Y[];  [] []a[] \OMS/lmsy/m/n/12 2 \OML/lmm/m/it/12 k \OT1/lmr/m/n/12 
+= (\OML/lmm/m/it/12 d[]'\OT1/lmr/m/n/12 )[](\OML/lmm/m/it/12 f\OT1/lmr/m/n/12 )
+ = [][] \OML/lmm/m/it/12 a[] [][] []\OT1/lmr/m/n/12 (0) \OMS/lmsy/m/n/12 ^^A \O
+ML/lmm/m/it/12 X[] \OT1/lmr/m/n/12 = [][]([][] \OML/lmm/m/it/12 a[][]\OT1/lmr/m
+/n/12 (0)) \OMS/lmsy/m/n/12 ^^A
+
+Underfull \hbox (badness 10000) in paragraph at lines 1845--1846
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1905
+
+[37] [38] [39] (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 2021.
+
+[40] [41]
+Kapitel 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2091--2108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2112--2114
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 2133--2135
+
+<xymatrix 4x5 116>
+Underfull \hbox (badness 10000) in paragraph at lines 2161--2163
+
+
+LaTeX Warning: Reference `prop:18.3' on page 43 undefined on input line 2172.
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2212
+
+[44] [45] [46] [47] [48] [49]
+Overfull \hbox (5.57727pt too wide) in paragraph at lines 2507--2510
+\T1/lmr/bx/n/12 denn: \T1/lmr/m/n/12 Sei $\OML/lmm/m/it/12 f[]; [] ; f[]$ \T1/l
+mr/m/n/12 ei-ne Ba-sis von $\OML/lmm/m/it/12 L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12
+ D \OT1/lmr/m/n/12 + \OML/lmm/m/it/12 P\OT1/lmr/m/n/12 )$\T1/lmr/m/n/12 . Wie o
+ben sei $\OML/lmm/m/it/12 f[]; [] ; f[] [] L\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 D
+\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; f[]; [] ; f[] \OMS/lmsy/m/n/12 2
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2564--2579
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2610--2618
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2618--2625
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2643--2645
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd) [52] [53] (./AlgGeo.ind [54] [55])
+(./AlgGeo.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmbsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmmib10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmtt12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></
+usr/share/texmf-texlive/fonts/type1/public/xypic/xyatip10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/xypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/xypic/xydash10.pfb>
+Output written on AlgGeo.pdf (55 pages, 679010 bytes).
+Transcript written on AlgGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose AlgGeo.pdf[0] -resize 70x AlgGeo.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-SdMmS5lX-%08d" "-f/tmp/magick-hlYWFJpb" "-f/tmp/magick-mV6ZSqtp"
+/tmp/magick-SdMmS5lX-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 13.7KB 0.010u 0:00.010
+AlgGeo.pdf[0]=>AlgGeo.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 13.7KB 0.000u 0:00.000
+AlgGeo.pdf[0]=>AlgGeo.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 4.1KB 0.300u 0:00.080
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose AlgGeo.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: AlgGeo.png
+70x99 pixels, 4x16 bits/pixel, RGB+alpha
+Input IDAT size = 1681 bytes
+Input file size = 4315 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1557
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1557
+
+Output IDAT size = 1557 bytes (124 bytes decrease)
+Output file size = 4191 bytes (124 bytes = 2.87% decrease)
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

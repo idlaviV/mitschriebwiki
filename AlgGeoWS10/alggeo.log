@@ -1,0 +1,1591 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.12.27)  27 DEC 2016 08:51
+entering extended mode
+ %&-line parsing enabled.
+**alggeo.tex
+(../data/AlgGeoWS10/alggeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
+
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2009/06/08 v3.03b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 117.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 118.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 119.
+Package scrbook Info: You've used obsolete option `12pt'.
+(scrbook)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrbook)             used instead.
+(scrbook)             You may simply replace `12pt'
+(scrbook)             by `fontsize=12pt'.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 1272.
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2009/07/24 v3.04a KOMA-Script font size class option (12p
+t)
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package: typearea 2009/07/24 v3.04a KOMA-Script package (type area)
+
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internaly I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = -22.47766pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1115.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (../data/latexki.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/germanb.ldf
+Language: germanb 2008/06/01 v2.6m German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+)
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 102.
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(../data/AlgGeoWS10/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count91
+)
+\etb@tempcnta=\count92
+)
+(/usr/share/texmf-texlive/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2009/09/23 v4.4c context-sensitive quotations
+\csq@reset=\count93
+\csq@gtype=\count94
+\csq@glevel=\count95
+\csq@qlevel=\count96
+\csq@maxlvl=\count97
+\csq@tshold=\count98
+\csq@ltx@everypar=\toks20
+
+(/usr/share/texmf-texlive/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2009/09/23 v4.4c csquotes generic definitions
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texmf-texlive/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 2009/05/30 v4.4 csquotes configuration
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks22
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks23
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks24
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2009/05/18 v2.2 Customized lists
+\enit@toks=\toks26
+\labelindent=\skip50
+\enit@outerparindent=\dimen113
+\enitdp@desc=\count111
+)
+(../data/AlgGeoWS10/gabistyle.sty
+Package: gabistyle 
+ (../data/AlgGeoWS10/coolthms.sty
+Package: coolthms 2012/04/01 v1.1 Theorem markup and advanced referencing
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen114
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count114
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+\Field@toks=\toks27
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count115
+\c@Item=\count116
+\c@Hfootnote=\count117
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count118
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/xargs/xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+
+(/usr/share/texmf-texlive/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-texlive/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+\XKV@depth=\count119
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+\xargs@max=\count120
+\xargs@toksa=\toks30
+\xargs@toksb=\toks31
+)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+Package: ntheorem 2005/07/07 1.25
+\theorem@style=\toks32
+\theorem@@style=\toks33
+\theorembodyfont=\toks34
+\theoremnumbering=\toks35
+\theorempreskipamount=\skip51
+\theorempostskipamount=\skip52
+\theoremindent=\dimen117
+\theorem@indent=\dimen118
+\theoremheaderfont=\toks36
+\theoremseparator=\toks37
+\theoremprework=\toks38
+\theorempostwork=\toks39
+\theoremsymbol=\toks40
+\qedsymbol=\toks41
+\theoremkeyword=\toks42
+\qedsymbol=\toks43
+\thm@topsepadd=\skip53
+Package ntheorem Info: Option `thmmarks' loaded on input line 1029.
+\c@endNonectr=\count121
+\c@currNonectr=\count122
+\mysavskip=\skip54
+Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
+ line 1029.
+\thm@amstmpdepth=\dimen119
+) (/usr/share/texmf-texlive/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2009/09/22 v0.14.2 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 1607.
+LaTeX Info: Redefining \cref on input line 1607.
+LaTeX Info: Redefining \Cref on input line 1607.
+LaTeX Info: Redefining \crefrange on input line 1607.
+LaTeX Info: Redefining \Crefrange on input line 1607.
+Package cleveref Info: `ntheorem' support loaded on input line 1635.
+Package cleveref Info: loaded `english' language definitions on input line 3148
+.
+)
+\c@currproofctr=\count123
+\c@endproofctr=\count124
+\c@proof=\count125
+)
+\c@currthmcntctr=\count126
+\c@endthmcntctr=\count127
+\c@thmcnt=\count128
+\c@currdfnctr=\count129
+\c@enddfnctr=\count130
+\c@currndfnctr=\count131
+\c@endndfnctr=\count132
+\c@currbspctr=\count133
+\c@endbspctr=\count134
+\c@currnbspctr=\count135
+\c@endnbspctr=\count136
+\c@currlemctr=\count137
+\c@endlemctr=\count138
+\c@currnlemctr=\count139
+\c@endnlemctr=\count140
+\c@currpropctr=\count141
+\c@endpropctr=\count142
+\c@currnpropctr=\count143
+\c@endnpropctr=\count144
+\c@currkorctr=\count145
+\c@endkorctr=\count146
+\c@currnkorctr=\count147
+\c@endnkorctr=\count148
+\c@currbemctr=\count149
+\c@endbemctr=\count150
+\c@currnbemctr=\count151
+\c@endnbemctr=\count152
+\c@currerinnerungctr=\count153
+\c@enderinnerungctr=\count154
+\c@currnerinnerungctr=\count155
+\c@endnerinnerungctr=\count156
+\c@currdbctr=\count157
+\c@enddbctr=\count158
+\c@currndbctr=\count159
+\c@endndbctr=\count160
+\c@currdefpropctr=\count161
+\c@enddefpropctr=\count162
+\c@currndefpropctr=\count163
+\c@endndefpropctr=\count164
+\c@currdectr=\count165
+\c@enddectr=\count166
+\c@currndectr=\count167
+\c@endndectr=\count168
+\c@currdlctr=\count169
+\c@enddlctr=\count170
+\c@currndlctr=\count171
+\c@endndlctr=\count172
+\c@currebctr=\count173
+\c@endebctr=\count174
+\c@currnebctr=\count175
+\c@endnebctr=\count176
+\c@currsatzcounterctr=\count177
+\c@endsatzcounterctr=\count178
+\c@satzcounter=\count179
+\c@currsatzctr=\count180
+\c@endsatzctr=\count181
+\c@currnsatzctr=\count182
+\c@endnsatzctr=\count183
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks44
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box29
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count184
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks45
+\pgfkeys@temptoks=\toks46
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks47
+))
+\pgf@x=\dimen122
+\pgf@y=\dimen123
+\pgf@xa=\dimen124
+\pgf@ya=\dimen125
+\pgf@xb=\dimen126
+\pgf@yb=\dimen127
+\pgf@xc=\dimen128
+\pgf@yc=\dimen129
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count185
+\c@pgf@countb=\count186
+\c@pgf@countc=\count187
+\c@pgf@countd=\count188
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count189
+\pgfsyssoftpath@bigbuffer@items=\count190
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen130
+\pgfmath@count=\count191
+\pgfmath@box=\box30
+\pgfmath@toks=\toks48
+\pgfmath@stack@operand=\toks49
+\pgfmath@stack@operation=\toks50
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count192
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen131
+\pgf@picmaxx=\dimen132
+\pgf@picminy=\dimen133
+\pgf@picmaxy=\dimen134
+\pgf@pathminx=\dimen135
+\pgf@pathmaxx=\dimen136
+\pgf@pathminy=\dimen137
+\pgf@pathmaxy=\dimen138
+\pgf@xx=\dimen139
+\pgf@xy=\dimen140
+\pgf@yx=\dimen141
+\pgf@yy=\dimen142
+\pgf@zx=\dimen143
+\pgf@zy=\dimen144
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen145
+\pgf@path@lasty=\dimen146
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen147
+\pgf@shorten@start@additional=\dimen148
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count193
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen149
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen150
+\pgf@pt@y=\dimen151
+\pgf@pt@temp=\dimen152
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen153
+\pgf@sys@shading@range@num=\count194
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box34
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box35
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen154
+\pgf@nodesepend=\dimen155
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen156
+\pgffor@skip=\dimen157
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count195
+\pgfplotmarksize=\dimen158
+)
+\tikz@lastx=\dimen159
+\tikz@lasty=\dimen160
+\tikz@lastxsaved=\dimen161
+\tikz@lastysaved=\dimen162
+\tikzleveldistance=\dimen163
+\tikzsiblingdistance=\dimen164
+\tikz@figbox=\box36
+\tikz@tempbox=\box37
+\tikztreelevel=\count196
+\tikznumberofchildren=\count197
+\tikznumberofcurrentchild=\count198
+\tikz@fig@count=\count199
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count200
+\pgfmatrixcurrentcolumn=\count201
+\pgf@matrix@numberofcolumns=\count202
+)
+\tikz@expandcount=\count203
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatri
+x.code.tex
+File: tikzlibrarymatrix.code.tex 2008/06/18 v2.10 (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen165
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+)
+\c@currzielctr=\count204
+\c@endzielctr=\count205
+\c@ziel=\count206
+\c@currmotivationctr=\count207
+\c@endmotivationctr=\count208
+\c@motivation=\count209
+\c@currzeigectr=\count210
+\c@endzeigectr=\count211
+\c@zeige=\count212
+\c@currqctr=\count213
+\c@endqctr=\count214
+\c@q=\count215
+ (/usr/share/texmf-texlive/tex/latex/manfnt/manfnt.sty
+Package: manfnt 1999/07/010.2LaTeX2e manfnt package
+\dbend@height=\skip55
+)
+(/usr/share/texmf-texlive/tex/latex/environ/environ.sty
+Package: environ 2008/06/18 v0.2 A new way to define environments
+)
+(/usr/share/texmf-texlive/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip56
+\RaggedLeftLeftskip=\skip57
+\RaggedRightLeftskip=\skip58
+\CenteringRightskip=\skip59
+\RaggedLeftRightskip=\skip60
+\RaggedRightRightskip=\skip61
+\CenteringParfillskip=\skip62
+\RaggedLeftParfillskip=\skip63
+\RaggedRightParfillskip=\skip64
+\JustifyingParfillskip=\skip65
+\CenteringParindent=\skip66
+\RaggedLeftParindent=\skip67
+\RaggedRightParindent=\skip68
+\JustifyingParindent=\skip69
+)
+(/usr/share/texmf-texlive/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texmf-texlive/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(../data/AlgGeoWS10/tikzpfeile.sty
+Package: tikzpfeile 2011/08/03
+) (../data/AlgGeoWS10/quotienten.sty
+Package: quotienten 2011/08/09
+)
+\c@prooflisti=\count216
+\c@prooflistii=\count217
+\enitdp@prooflist=\count218
+
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `alggeo.idx'.
+
+
+Writing index file alggeo.idx
+Package csquotes Info: Adjusting default style on input line 234.
+Package csquotes Info: Redefining alias 'default' -> 'german' on input line 234
+.
+(./alggeo.aux)
+\openout1 = `alggeo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 234.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 234.
+
+ (/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 234.
+
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+Package hyperref Info: Link coloring OFF on input line 234.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count219
+)
+LaTeX Info: Redefining \ref on input line 234.
+LaTeX Info: Redefining \pageref on input line 234.
+ (./alggeo.out)
+(./alggeo.out)
+\@outlinefile=\write5
+\openout5 = `alggeo.out'.
+
+\AtBeginShipoutBox=\box38
+LaTeX Info: Redefining \ref on input line 234.
+LaTeX Info: Redefining \ref on input line 234.
+ ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count220
+\scratchdimen=\dimen166
+\scratchbox=\box39
+\nofMPsegments=\count221
+\nofMParguments=\count222
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count223
+\MPscratchDim=\dimen167
+\MPnumerator=\count224
+\everyMPtoPDFconversion=\toks54
+)
+LaTeX Info: Redefining \selectfont on input line 234.
+ <kitlogo.pdf, id=118, 196.735pt x 91.34125pt>
+File: kitlogo.pdf Graphic file (type pdf)
+ <use kitlogo.pdf>
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 244.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 244.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 244.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+) [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../data/AlgGeoWS10/kitlogo
+.pdf>] [2
+
+]
+(./alggeo.toc
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 2.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/bx/sc' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 2.
+
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 10.
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 17.
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 23.
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 28.
+Class scrbook Info: You've told me to use the font selection of the element
+(scrbook)           `sectioning' that is an alias of element `disposition'
+(scrbook)            on input line 29.
+)
+\tf@toc=\write6
+\openout6 = `alggeo.toc'.
+
+ [3
+
+
+] [4
+
+
+]
+Underfull \hbox (badness 10000) detected at line 251
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+Package hyperref Info: bookmark level for unknown ziel defaults to 0 on input l
+ine 251.
+Package hyperref Info: bookmark level for unknown nbsp defaults to 0 on input l
+ine 259.
+[5] [6
+
+
+]
+Kapitel {\scshape i}.
+Package hyperref Info: bookmark level for unknown dfn defaults to 0 on input li
+ne 283.
+LaTeX Font Info:    Try loading font information for U+euf on input line 285.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
+)
+Package hyperref Info: bookmark level for unknown bsp defaults to 0 on input li
+ne 288.
+Package hyperref Info: bookmark level for unknown q defaults to 0 on input line
+ 295.
+Package hyperref Info: bookmark level for unknown bem defaults to 0 on input li
+ne 304.
+Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
+line 315.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{thmcnt.1.1
+.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.322 \item[\ref{1.1.3d}]
+                          Nach \ref{1.1.3b} gilt $\V(\F)=\V((\F))$ und nach ...
+]
+Package hyperref Info: bookmark level for unknown db defaults to 0 on input lin
+e 327.
+ [8]
+Package hyperref Info: bookmark level for unknown zeige defaults to 0 on input 
+line 372.
+ [9]
+Package hyperref Info: bookmark level for unknown de defaults to 0 on input lin
+e 423.
+ [10]
+Package hyperref Info: bookmark level for unknown prop defaults to 0 on input l
+ine 478.
+ [11]
+Package hyperref Info: bookmark level for unknown satz defaults to 0 on input l
+ine 498.
+
+Overfull \hbox (0.54205pt too wide) in paragraph at lines 507--509
+\T1/cmr/m/n/12 Wir neh-men an, $\OMS/cmsy/m/n/12 B$ \T1/cmr/m/n/12 wä-re nicht 
+leer. Dann ist auch $\OMS/cmsy/m/n/12 J$ \T1/cmr/m/n/12 nicht leer. Da $\OML/cm
+m/m/it/12 k\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 X[];  :::; X[]\OT1/cmr/m/n/12 ]$
+ []
+
+[12]
+Package hyperref Info: bookmark level for unknown motivation defaults to 0 on i
+nput line 517.
+
+Overfull \hbox (5.67831pt too wide) detected at line 519
+\OMS/cmsy/m/n/12 V[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 V \OM
+S/cmsy/m/n/12 ^^R \OML/cmm/m/it/12 k[] \OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 V[]\
+OMS/cmsy/m/n/12 g[]J[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 I \
+OMS/cmsy/m/n/12 ^^R \OML/cmm/m/it/12 k\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 X[];  :
+::; X[]\OT1/cmr/m/n/12 ] \OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 I[]\OMS/cmsy/m/n/1
+2 g
+ []
+
+
+Overfull \hbox (3.87752pt too wide) in paragraph at lines 540--542
+[]\T1/cmr/bx/n/12 Schwacher Hil-bert-scher Null-stel-len-satz:[] \T1/cmr/m/it/1
+2 Ist $\OML/cmm/m/it/12 k$ \T1/cmr/m/it/12 ein al-ge-bra-isch ab-ge-schlos-
+ []
+
+Package hyperref Info: bookmark level for unknown lem defaults to 0 on input li
+ne 555.
+[13]
+Overfull \hbox (7.93373pt too wide) in paragraph at lines 598--600
+\T1/cmr/m/n/12 (das ist ein $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 -Algebrenhomomor
+phismus). Die-ser steigt ge-nau dann auf $\OML/cmm/m/it/12 A \OT1/cmr/m/n/12 = 
+\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 X[];  :::; X[]\OT1/cmr/m/n/
+12 ]/[]\OML/cmm/m/it/12 I$
+ []
+
+
+Overfull \hbox (24.43123pt too wide) in paragraph at lines 600--603
+\T1/cmr/m/n/12 Kör-perer-wei-te-rung von $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 . I
+n die-sem Fall exi-stiert ge-nau dann ein $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 -A
+lgebrenhomomorphismus
+ []
+
+[14]
+Overfull \hbox (3.3002pt too wide) in paragraph at lines 616--617
+[]\T1/cmr/m/n/12 Der []star-ke Hil-bert-sche Null-stel-len-satz[] folgt aus
+ []
+
+Package hyperref Info: bookmark level for unknown kor defaults to 0 on input li
+ne 638.
+
+Underfull \hbox (badness 10000) detected at line 645
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+[15]
+LaTeX Font Info:    Try loading font information for OT1+pzc on input line 655.
+
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1pzc.fd
+File: ot1pzc.fd 2001/06/04 font definitions for OT1/pzc.
+)
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <12> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 655.
+
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <8> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 655.
+
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <6> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 655.
+
+ [16]
+Overfull \hbox (6.04521pt too wide) detected at line 688
+\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12 (\OML
+/cmm/m/it/12 Z\OT1/cmr/m/n/12 )  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 f\OT1/
+cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 2 \OML/cmm/m/i
+t/12 Z  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 g[]f\OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 x\OT1/cmr/m/n/12 )[] = 0[]\OML/cmm/m/it/12 g \OMS/cmsy/m/n/12 2 \OML/cmm
+/m/it/12 J  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 2 \U/euf
+/m/n/12 V\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :
+
+ []
+
+
+Overfull \hbox (1.10913pt too wide) in paragraph at lines 709--710
+[]\T1/cmr/m/n/12 Der Ko-or-di-na-ten-ring $\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 [\
+OML/cmm/m/it/12 V\OT1/cmr/m/n/12 ]$ \T1/cmr/m/n/12 ist ei-ne \T1/cmr/m/it/12 re
+-du-zier-te[] $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 -Algebra, das heiÿt
+ []
+
+
+Overfull \hbox (0.62708pt too wide) in paragraph at lines 716--717
+[]\T1/cmr/m/n/12 folgt aus [](b)[], wo-bei Ad-di-ti-on, Mul-ti-pli-ka-ti-on und
+ Sk-a-lar-mul-ti-pli-ka-ti-on kom-
+ []
+
+
+Overfull \hbox (3.47752pt too wide) in paragraph at lines 727--728
+[]\T1/cmr/m/n/12 Jeder Mor-phis-mus $\OML/cmm/m/it/12 f [] [] V[]W$ \T1/cmr/m/n
+/12 in-du-ziert einen $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 -Algebrenhomomorphismu
+s 
+ []
+
+[17]
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <5> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 758.
+
+ [18] [19] [20] [21pdfTeX warning (ext4): destination with the same identifier 
+(name{thmcnt.1.5.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.908 ...o^{U_j}_{U_i\cap U_j}(f_j)\end{equation*}
+                                                  ]
+Underfull \hbox (badness 10000) detected at line 954
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+[22] [23] [24]
+Overfull \hbox (5.94717pt too wide) in paragraph at lines 1074--1075
+[]\T1/cmr/m/n/12 Eine \T1/cmr/m/it/12 quasi-affine Va-rie-tät[] $\OML/cmm/m/it/
+12 W$ \T1/cmr/m/n/12 ist ei-ne Zariski-offene
+ []
+
+[25]
+Overfull \hbox (5.43639pt too wide) in paragraph at lines 1116--1117
+[]\T1/cmr/m/n/12 Die ra-tio-na-len Funk-tio-nen auf $\OML/cmm/m/it/12 V$ \T1/cm
+r/m/n/12 bil-den ei-ne $\OML/cmm/m/it/12 K$\T1/cmr/m/n/12 -Algebra. Schreib-wei
+-se: $[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 V\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 . 
+ []
+
+[26] [27] [28]pdfTeX warning (ext4): destination with the same identifier (name
+{thmcnt.1.6.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1210 \begin{nbem}
+                   
+Package hyperref Info: bookmark level for unknown nbem defaults to 0 on input l
+ine 1211.
+ [29]
+Package hyperref Info: bookmark level for unknown erinnerung defaults to 0 on i
+nput line 1250.
+\breite=\skip70
+Package hyperref Info: bookmark level for unknown eb defaults to 0 on input lin
+e 1264.
+ [30] [31] [32]
+Overfull \hbox (4.19711pt too wide) detected at line 1401
+\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 2 \U/euf/m/n/12 V\OT1/cmr/m/n/12 (\OML/cmm/
+m/it/12 I\OT1/cmr/m/n/12 )  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 f\OT1/cmr/m
+/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = 0[]\OML/cmm/m/it/12 f \OMS/cmsy/m/
+n/12 2 \OML/cmm/m/it/12 I  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 f \OMS/cmsy/
+m/n/12 2 \U/euf/m/n/12 m[][]\OML/cmm/m/it/12 f \OMS/cmsy/m/n/12 2 \OML/cmm/m/it
+/12 I  \OMS/cmsy/m/n/12 ([])  \OML/cmm/m/it/12 I \OMS/cmsy/m/n/12 ^^R \U/euf/m/
+n/12 m[]\OML/cmm/m/it/12 :
+ []
+
+[33]
+Underfull \hbox (badness 10000) detected at line 1450
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+[34]
+Overfull \hbox (8.7124pt too wide) detected at line 1527
+\OMS/cmsy/m/n/12 F[] \OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 F\OT1/cmr/m/n/12 ([]
+) = []\OML/cmm/m/it/12 f[] \OMS/cmsy/m/n/12 2 [] F\OT1/cmr/m/n/12 ([]) [] \OML/
+cmm/m/it/12 ^^Z[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f[]\OT1/cmr/m/n/12 ) = \OML/
+cmm/m/it/12 f[][][]; [] \OMS/cmsy/m/n/12 2 B[][] ^^R [] ^^R \OML/cmm/m/it/12 U[
+]:
+ []
+
+[35] [36] [37] [38
+
+
+]
+Kapitel {\scshape ii}.
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <17.28> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 1622
+.
+LaTeX Font Info:    Font shape `OT1/pzc/m/it' in size <10> not available
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 1622
+.
+
+Overfull \hbox (10.28944pt too wide) in paragraph at lines 1627--1628
+[]\T1/cmr/m/n/12 Der $\OML/cmm/m/it/12 n$\T1/cmr/m/it/12 -dimensionale pro-jek-
+ti-ve Raum[] \T1/cmr/m/n/12 über $\OML/cmm/m/it/12 k$ \T1/cmr/m/n/12 be-steht a
+us al-len Ursprungs-
+ []
+
+[39] [40] [41]
+Overfull \hbox (3.91982pt too wide) in paragraph at lines 1730--1735
+[] 
+ []
+
+
+Overfull \hbox (15.74622pt too wide) in paragraph at lines 1736--1737
+[]$\OML/cmm/m/it/12 S$ \T1/cmr/m/n/12 ist so-gar ei-ne \T1/cmr/m/it/12 gra-du-i
+er-te $\OML/cmm/m/it/12 k$\T1/cmr/m/it/12 -Algebra[]\T1/cmr/m/n/12 , d.h. $\OML
+/cmm/m/it/12 k \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 S[]$ \T1/cmr/m/n/12 und die $
+\OML/cmm/m/it/12 S[]$ \T1/cmr/m/n/12 sind $\OML/cmm/m/it/12 k$\T1/cmr/m/n/12 -V
+ektorräume. 
+ []
+
+[42]
+Overfull \hbox (8.68343pt too wide) in paragraph at lines 1764--1765
+[]\T1/cmr/m/n/12 Hier wir-ken die Ar-gu-men-te aus []Ka-pi-tel \T1/cmr/m/sc/12 
+i[]\T1/cmr/m/n/12 , []Be-mer-kung 1.3[] und []Be-mer-kung 1.5[]. $\U/msa/m/n/12
+ ^^C$[] 
+ []
+
+
+Overfull \hbox (7.72992pt too wide) in paragraph at lines 1778--1779
+\T1/cmr/m/n/12 ge-schlos-se-nen Men-gen ei-ner To-po-lo-gie auf $\U/msb/m/n/12 
+P[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 . Die-se
+ heiÿt \T1/cmr/m/it/12 Zariski-Topologie[]\T1/cmr/m/n/12 . 
+ []
+
+[43]
+Package hyperref Info: bookmark level for unknown dl defaults to 0 on input lin
+e 1789.
+ [44]pdfTeX warning (ext4): destination with the same identifier (name{thmcnt.2
+.2.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1841 \begin{ndfn}
+                   \hypertarget{2.3.8.5}{
+Package hyperref Info: bookmark level for unknown ndfn defaults to 0 on input l
+ine 1841.
+ [45] [46] [47pdfTeX warning (ext4): destination with the same identifier (name
+{thmcnt.2.2.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1944 ...ogen von Grad }i\text{)} \end{equation*}
+                                                   dann gilt $f_i\in\I(\schl...
+]
+Overfull \hbox (32.23914pt too wide) in paragraph at lines 1955--1959
+\U/euf/m/n/12 V[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )$ \T1/cmr/
+m/n/12 und da-mit nach dem []af-fi-nen Hil-bert-schen Null-stel-len-satz[] $[] 
+\OT1/cmr/m/n/12 = \U/euf/m/n/12 I\OT1/cmr/m/n/12 (\U/euf/m/n/12 V[]\OT1/cmr/m/n
+/12 (\OML/cmm/m/it/12 I\OT1/cmr/m/n/12 )) =
+ []
+
+[48] [49] [50]
+Overfull \hbox (3.49445pt too wide) in paragraph at lines 2067--2068
+[]\T1/cmr/m/n/12 Damit liegt $\OML/cmm/m/it/12 F[]$ \T1/cmr/m/n/12 in $\OT1/cmr
+/m/n/12 (\OML/cmm/m/it/12 F \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 X[];  :::; F 
+\OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 , al-
+so fin-den wir $\OML/cmm/m/it/12 h[] \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 K\OT1/
+cmr/m/n/12 [\OML/cmm/m/it/12 X[];  :::; X[]\OT1/cmr/m/n/12 ]$\T1/cmr/m/n/12 ,
+ []
+
+[51] [52] [53] [54]
+Overfull \hbox (15.18254pt too wide) detected at line 2190
+\OML/cmm/m/it/12 f[]  \OMS/cmsy/m/n/12 ([])   []
+ []
+
+
+Overfull \hbox (3.4893pt too wide) in paragraph at lines 2193--2195
+\T1/cmr/m/n/12 können wir sie als quasi-projektive Va-rie-tä-ten auf-fas-sen. D
+ann ist $\OML/cmm/m/it/12 f [] [] W[][]
+ []
+
+[55]
+Overfull \hbox (1.98857pt too wide) detected at line 2220
+\OML/cmm/m/it/12 E \OMS/cmsy/m/n/12 \ \U/euf/m/n/12 U[] \OT1/cmr/m/n/12 = \OMS/
+cmsy/m/n/12 f\OT1/cmr/m/n/12 (1 : \OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 : \OML/c
+mm/m/it/12 x[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 2 \U/euf/m/n/12 U[] \OMS/cmsy/
+m/n/12 j \OML/cmm/m/it/12 x[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 x[] \OT1/cm
+r/m/n/12 + \OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 = 0\OMS/cmsy/m/n/12 g[]f\OT1/cm
+r/m/n/12 (\OML/cmm/m/it/12 x; y\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 2 \U/msb/m/n/
+12 A[] \OMS/cmsy/m/n/12 j \OML/cmm/m/it/12 y[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/
+12 x[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 x\OMS/cmsy/m/n/12 g
+ []
+
+
+Overfull \hbox (7.55179pt too wide) detected at line 2226
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 x[]\OT
+1/cmr/m/n/12 ) = (\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[] \OT
+1/cmr/m/n/12 + \OML/cmm/m/it/12 x[]x[]\OT1/cmr/m/n/12 ) : \OML/cmm/m/it/12 x[]\
+OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 x[]x[]\
+OT1/cmr/m/n/12 )) = (\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 x[
+]x[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 x[]x[]\OT1/cmr/m/n/12 ) = (\OML/cmm/m/i
+t/12 x[] \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 + \OML/cmm/m/it
+/12 x[]x[]\OT1/cmr/m/n/12 )
+ []
+
+[56] [57]
+Overfull \hbox (41.88626pt too wide) in paragraph at lines 2273--2275
+\T1/cmr/m/n/12 fi-ni-ton der Äqui-va-lenz-re-la-ti-on auch in-jek-tiv. Jetzt fo
+lgt aus []De-fi-ni-ti-on/Bemerkung 6.1[]
+ []
+
+\zweitebreite=\skip71
+
+Overfull \hbox (0.3858pt too wide) in paragraph at lines 2291--2292
+[]\T1/cmr/m/n/12 Die Zu-ord-nung $\OML/cmm/m/it/12 W[]K\OT1/cmr/m/n/12 (\OML/cm
+m/m/it/12 W\OT1/cmr/m/n/12 ) = [](\OML/cmm/m/it/12 W\OT1/cmr/m/n/12 )$ \T1/cmr/
+m/n/12 de-fi-niert ei-ne kon-tra-va-ri-an-te Äqui-
+ []
+
+
+Overfull \hbox (3.92654pt too wide) detected at line 2300
+[] [] []
+ []
+
+
+Overfull \hbox (14.46803pt too wide) in paragraph at lines 2306--2307
+[]\T1/cmr/m/n/12 folgt aus dem Af-fi-nen (vgl. []Satz 4[]) be-zie-hungs-wei-se 
+[]De-fi-ni-ti-on/Bemerkung 5.5[]. 
+ []
+
+[58]
+Overfull \hbox (37.08424pt too wide) in paragraph at lines 2313--2315
+[]\T1/cmr/m/n/12 Satz 4[] den Mor-phis-men zwi-schen $\OML/cmm/m/it/12 K\OT1/cm
+r/m/n/12 (\OML/cmm/m/it/12 U[]\OT1/cmr/m/n/12 )$ \T1/cmr/m/n/12 und $\OML/cmm/m
+/it/12 K\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 U[]\OT1/cmr/m/n/12 )$\T1/cmr/m/n/12 .
+ Nach []De-fi-ni-ti-on/Bemerkung 5.5[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 2328
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+Package hyperref Info: bookmark level for unknown nerinnerung defaults to 0 on 
+input line 2339.
+[59pdfTeX warning (ext4): destination with the same identifier (name{thmcnt.2.6
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2350 ...\sum_{j=1}^{d}a_{ij}v_{j}\end{equation*}
+                                                  ] [60]
+Overfull \hbox (11.48059pt too wide) detected at line 2412
+\OML/cmm/m/it/12 w \OMS/cmsy/m/n/12 2 [] \OT1/cmr/m/n/12 	   \OMS/cmsy/m/n/12 (
+[])   []\OT1/cmr/m/n/12 ([] \OML/cmm/m/it/12 '[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n
+/12 ^^U \OML/cmm/m/it/12 d  \OMS/cmsy/m/n/12 ([])  [] \OML/cmm/m/it/12 '[] \OMS
+/cmsy/m/n/12 ^^T \OML/cmm/m/it/12 n \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 d  \O
+MS/cmsy/m/n/12 ([])  []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 l[]\OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 w\OT1/cmr/m/n/12 ))[] = 0\OML/cmm/m/it/12 ;
+ []
+
+[61] [62
+
+
+]
+Kapitel {\scshape iii}.
+[63] [64]
+Overfull \hbox (9.31874pt too wide) in paragraph at lines 2551--2555
+[] \OMS/cmsy/m/n/12 ^^R \OML/cmm/m/it/12 U[]$\T1/cmr/m/n/12 ) mit $\OML/cmm/m/i
+t/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 q
+$\T1/cmr/m/n/12 , $\OML/cmm/m/it/12 g[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 '[] 
+[] [] K\OT1/cmr/m/n/12 [[]][]\OML/cmm/m/it/12 K\OT1/cmr/m/n/12 [[]]$ \T1/cmr/m/
+n/12 und $\OML/cmm/m/it/12 g[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 '[] [] [] \OM
+S/cmsy/m/n/12 O[][]
+ []
+
+[65]
+Overfull \hbox (10.13568pt too wide) detected at line 2593
+[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ) := []\OMS/cmsy/m/n/12 f\
+OML/cmm/m/it/12 d \OMS/cmsy/m/n/12 2 \U/msb/m/n/12 N[] \OMS/cmsy/m/n/12 j 9[]\U
+/msb/m/n/12 ? \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 X[] \U/msb/m
+/n/12 ( [] ( \OML/cmm/m/it/12 X[][]\OMS/cmsy/m/n/12 g
+ []
+
+[66] [67] [68]
+Overfull \hbox (14.86008pt too wide) in paragraph at lines 2707--2709
+\T1/cmr/m/n/12 eine Ket-te von ab-ge-schlos-sen, ir-re-du-ziblen Teil-men-gen v
+on $\OML/cmm/m/it/12 U$ \T1/cmr/m/n/12 ist, denn $[] \OT1/cmr/m/n/12 =
+ []
+
+[69]
+Overfull \hbox (2.37515pt too wide) detected at line 2786
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 h \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 f\OT1
+/cmr/m/n/12 )[] =   [] [](\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 
+^^A \OML/cmm/m/it/12 X[] \OT1/cmr/m/n/12 =   [] [](\OML/cmm/m/it/12 p\OT1/cmr/m
+/n/12 ) \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/1
+2 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 X[] \OT1/cmr/m/n/12 
++ [] [](\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/
+12 h\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \
+OML/cmm/m/it/12 X[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 h\OT1/cmr/m/n/12 (\OML/c
+mm/m/it/12 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 f[];
+ []
+
+[70] [71] [72]
+Overfull \hbox (4.48073pt too wide) in paragraph at lines 2880--2881
+\T1/cmr/m/n/12 des von der Ein-bet-tung $\OML/cmm/m/it/12 i [] [] V[]\U/msb/m/n
+/12 A[]$ \T1/cmr/m/n/12 in-du-zier-ten Mor-phis-mus $\OML/cmm/m/it/12 i[] [] []
+ \OMS/cmsy/m/n/12 O[][]
+ []
+
+Package hyperref Info: bookmark level for unknown defprop defaults to 0 on inpu
+t line 2894.
+[73] [74] [75] [76] [77] [78pdfTeX warning (ext4): destination with the same id
+entifier (name{thmcnt.3.4.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3078 ... \in K[X_1,\dotsc,X_d,Y],\end{equation*}
+                                                  ]
+Underfull \hbox (badness 10000) detected at line 3088
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+[79]
+Overfull \hbox (9.72316pt too wide) in paragraph at lines 3155--3156
+[]\T1/cmr/m/n/12 Alle mi-ni-ma-len Er-zeu-gen-den-sy-ste-me von $\U/euf/m/n/12 
+m$ \T1/cmr/m/n/12 ha-ben die-sel-be An-zahl: $[][] \U/euf/m/n/12 m\OT1/cmr/m/n/
+12 /[]\U/euf/m/n/12 m[]$\T1/cmr/m/n/12 . 
+ []
+
+[80] [81] [82
+
+
+]
+Kapitel {\scshape iv}.
+
+Underfull \hbox (badness 10000) detected at line 3211
+[] | \T1/cmr/bx/n/12 Ziel:[]
+ []
+
+[83] [84] [85]
+Overfull \hbox (4.89389pt too wide) in paragraph at lines 3346--3347
+[]\T1/cmr/m/n/12 Wir de-fi-nie-ren einen Grup-pen-ho-mo-mor-phis-mus $\OML/cmm/
+m/it/12 f[] [] []  [] \OMS/cmsy/m/n/12 C[][] [] C[]$ \T1/cmr/m/n/12 durch 
+ []
+
+[86] [87]
+Overfull \hbox (2.60278pt too wide) in paragraph at lines 3422--3424
+\T1/cmr/m/n/12 Insgesamt er-hal-ten wir so, nach []De-fi-ni-ti-on von $\OML/cmm
+/m/it/12 f[]$[] \T1/cmr/m/n/12 und mit Hil-fe von []Satz 7 (b)[], 
+ []
+
+[88pdfTeX warning (ext4): destination with the same identifier (name{thmcnt.4.2
+.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3428 \end{proof}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{thmcnt.4.2.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3428 \end{proof}
+                  ]pdfTeX warning (ext4): destination with the same identifier 
+(name{thmcnt.4.2.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3431 \begin{nerinnerung}
+                           [89] [90] [91] [92] [93] [94] [95]
+Overfull \hbox (21.34514pt too wide) in paragraph at lines 3700--3702
+[]\T1/cmr/m/n/12 Sei $\OT1/cmr/m/n/12 
+[] = 
+[]$ \T1/cmr/m/n/12 der $\OML/cmm/m/it/12 K\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 C\O
+T1/cmr/m/n/12 )$\T1/cmr/m/n/12 -Vektorraum der $\OML/cmm/m/it/12 K$\T1/cmr/m/n/
+12 -Differentiale
+ []
+
+[96] [97] [98
+
+
+]
+Kapitel {\scshape v}.
+** Generating table of satz
+(./alggeo.thm) (./alggeo.ind [99] [100
+
+
+] [101
+
+
+
+] [102
+
+])
+\tf@thm=\write7
+\openout7 = `alggeo.thm'.
+
+ (./alggeo.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23653 strings out of 493857
+ 406807 string characters out of 1153304
+ 547063 words of memory out of 3000000
+ 25733 multiletter control sequences out of 15000+50000
+ 28887 words of font info for 74 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 61i,18n,71p,783b,1073s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-
+texlive/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/
+cm-super-ts1.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex1
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/euler/e
+ufm10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwater/manfnt/manfnt.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfsx1728.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfsx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pf
+b></usr/share/texmf-texlive/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on alggeo.pdf (102 pages, 1052291 bytes).
+PDF statistics:
+ 1999 PDF objects out of 2073 (max. 8388607)
+ 747 named destinations out of 1000 (max. 500000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+

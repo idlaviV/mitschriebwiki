@@ -1,0 +1,1689 @@
+
+Running /usr/bin/pdflatex sicherheit.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(../data/sicherheit/sicherheit.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (../data/sicherheit/info.sty (../data/sicherheit/latexki.sty)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/germanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def))
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/clrscode/clrscode.sty
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.geometric.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.c
+ode.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.misc.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.t
+ex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.symbols.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.cod
+e.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.arrows.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code
+.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.callouts.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.co
+de.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.multipart.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.c
+ode.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.c
+ode.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryposit
+ioning.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautom
+ata.code.tex)
+Writing index file sicherheit.idx
+No file sicherheit.aux.
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 23.
+
+[3] [4]
+Kapitel I.
+[5] [6]
+Kapitel II.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [7] [8]
+Kapitel III.
+(./graphics/stromchiffre.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+[10]
+Overfull \hbox (0.2054pt too wide) in paragraph at lines 212--213
+[]\OT1/cmr/m/n/10.95 perfekt par-al-le-li-sier-bar (zum Ver- und Ent-schl[]usse
+ln der Bl[]ocke ist je-weils nur der Schl[]ussel
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+[11] [12]
+Kapitel IV.
+
+LaTeX Warning: Reference `digitale_signaturen' on page 13 undefined on input li
+ne 285.
+
+
+LaTeX Warning: Reference `rsa-es-oaep' on page 13 undefined on input line 286.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+[13] [14]
+Kapitel V.
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+
+LaTeX Warning: Reference `mac' on page 16 undefined on input line 423.
+
+
+LaTeX Warning: Reference `digitale_signaturen' on page 16 undefined on input li
+ne 424.
+
+[16]
+Kapitel VI.
+
+LaTeX Warning: Reference `mathe' on page 17 undefined on input line 431.
+
+[17] [18]
+Kapitel VII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
+
+[21] [22]
+Kapitel VIII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+
+[23] [24]
+Kapitel IX.
+
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--756
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+[26]
+Kapitel X.
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
+
+[28] [29] [30]
+Kapitel XI.
+[31] [32]
+Kapitel XII.
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+
+Overfull \hbox (1.35367pt too wide) in paragraph at lines 1022--1023
+[]\OT1/cmr/m/n/10.95 Das Ge-heim-nis $\OML/cmm/m/it/10.95 S$ \OT1/cmr/m/n/10.95
+ soll nicht aus $\OML/cmm/m/it/10.95 c$ \OT1/cmr/m/n/10.95 und $\OML/cmm/m/it/1
+0.95 c\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 r; s\OT1/cmr/m/n/10.95 )$ re-kon-
+stru-ier-bar ein (selbst bei b[]oswillig gew[]ahltem
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+
+[35] [36]
+Kapitel XIII.
+[37] [38]
+Kapitel XIV.
+[39] [40]
+Kapitel XV.
+[41] [42]
+Kapitel XVI.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1161
+
+[43] [44]
+Kapitel XVII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1192
+
+[45]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+[46] (./sicherheit.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on sicherheit.pdf (46 pages, 374600 bytes).
+Transcript written on sicherheit.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex sicherheit.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(../data/sicherheit/sicherheit.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (../data/sicherheit/info.sty (../data/sicherheit/latexki.sty)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/germanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def))
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/clrscode/clrscode.sty
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.geometric.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.c
+ode.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.misc.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.t
+ex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.symbols.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.cod
+e.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.arrows.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code
+.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.callouts.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.co
+de.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.multipart.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.c
+ode.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.c
+ode.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryposit
+ioning.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautom
+ata.code.tex)
+Writing index file sicherheit.idx
+(./sicherheit.aux) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./sicherheit.out)
+(./sicherheit.out) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 23.
+
+(./sicherheit.toc [3]
+Overfull \hbox (2.52458pt too wide) detected at line 58
+\OT1/cmss/bx/n/10.95 VII. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 59
+\OT1/cmr/m/n/10.95 VII.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 60
+\OT1/cmr/m/n/10.95 VII.2. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 61
+\OT1/cmr/m/n/10.95 VII.3. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 62
+\OT1/cmr/m/n/10.95 VII.4. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 63
+\OT1/cmr/m/n/10.95 VII.5. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 64
+\OT1/cmr/m/n/10.95 VII.5.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 65
+\OT1/cmr/m/n/10.95 VII.6. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 66
+\OT1/cmr/m/n/10.95 VII.7. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 67
+\OT1/cmr/m/n/10.95 VII.8. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 68
+\OT1/cmr/m/n/10.95 VII.8.1. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 71
+\OT1/cmr/m/n/10.95 VII.8.2. 
+
+Overfull \hbox (6.47874pt too wide) detected at line 73
+\OT1/cmss/bx/n/10.95 VIII. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 74
+\OT1/cmr/m/n/10.95 VIII.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 75
+\OT1/cmr/m/n/10.95 VIII.1.1. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 76
+\OT1/cmr/m/n/10.95 VIII.2. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 77
+\OT1/cmr/m/n/10.95 VIII.3. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 78
+\OT1/cmr/m/n/10.95 VIII.4. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 79
+\OT1/cmr/m/n/10.95 VIII.5. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 80
+\OT1/cmr/m/n/10.95 VIII.5.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 81
+\OT1/cmr/m/n/10.95 VIII.5.2. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 82
+\OT1/cmr/m/n/10.95 VIII.6. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 83
+\OT1/cmr/m/n/10.95 VIII.6.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 84
+\OT1/cmr/m/n/10.95 VIII.6.2. 
+[4]
+Overfull \hbox (2.52458pt too wide) detected at line 113
+\OT1/cmss/bx/n/10.95 XII. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 114
+\OT1/cmr/m/n/10.95 XII.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 115
+\OT1/cmr/m/n/10.95 XII.2. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 116
+\OT1/cmr/m/n/10.95 XII.3. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 117
+\OT1/cmr/m/n/10.95 XII.4. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 118
+\OT1/cmr/m/n/10.95 XII.5. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 119
+\OT1/cmr/m/n/10.95 XII.5.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 120
+\OT1/cmr/m/n/10.95 XII.6. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 121
+\OT1/cmr/m/n/10.95 XII.7. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 122
+\OT1/cmr/m/n/10.95 XII.8. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 123
+\OT1/cmr/m/n/10.95 XII.8.1. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 124
+\OT1/cmr/m/n/10.95 XII.8.2. 
+
+Overfull \hbox (6.47874pt too wide) detected at line 131
+\OT1/cmss/bx/n/10.95 XIII. 
+
+Overfull \hbox (6.60045pt too wide) detected at line 132
+\OT1/cmss/bx/n/10.95 XIV. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 133
+\OT1/cmr/m/n/10.95 XIV.1. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 134
+\OT1/cmr/m/n/10.95 XIV.2. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 135
+\OT1/cmr/m/n/10.95 XIV.3. 
+
+Overfull \hbox (2.98087pt too wide) detected at line 136
+\OT1/cmss/bx/n/10.95 XV. 
+
+Overfull \hbox (2.79828pt too wide) detected at line 137
+\OT1/cmr/m/n/10.95 XV.1. 
+
+Overfull \hbox (2.79828pt too wide) detected at line 138
+\OT1/cmr/m/n/10.95 XV.2. 
+
+Overfull \hbox (1.45999pt too wide) detected at line 139
+\OT1/cmr/m/n/10.95 XV.2.1. 
+
+Overfull \hbox (6.60045pt too wide) detected at line 140
+\OT1/cmss/bx/n/10.95 XVI. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 141
+\OT1/cmr/m/n/10.95 XVI.1. 
+
+Overfull \hbox (5.41415pt too wide) detected at line 142
+\OT1/cmr/m/n/10.95 XVI.1.1. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 143
+\OT1/cmr/m/n/10.95 XVI.2. 
+
+Overfull \hbox (10.55461pt too wide) detected at line 144
+\OT1/cmss/bx/n/10.95 XVII. 
+
+Overfull \hbox (11.01077pt too wide) detected at line 145
+\OT1/cmr/m/n/10.95 XVII.1. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 146
+\OT1/cmr/m/n/10.95 XVII.1.1. 
+
+Overfull \hbox (11.01077pt too wide) detected at line 148
+\OT1/cmr/m/n/10.95 XVII.2. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 149
+\OT1/cmr/m/n/10.95 XVII.2.1. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 150
+\OT1/cmr/m/n/10.95 XVII.2.2. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 151
+\OT1/cmr/m/n/10.95 XVII.2.3. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 153
+\OT1/cmr/m/n/10.95 XVII.2.4. 
+) [5] [6]
+Kapitel I.
+[7] [8]
+Kapitel II.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [9] [10]
+Kapitel III.
+(./graphics/stromchiffre.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+[12]
+Overfull \hbox (0.2054pt too wide) in paragraph at lines 212--213
+[]\OT1/cmr/m/n/10.95 perfekt par-al-le-li-sier-bar (zum Ver- und Ent-schl[]usse
+ln der Bl[]ocke ist je-weils nur der Schl[]ussel
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+[13] [14]
+Kapitel IV.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+[15] [16]
+Kapitel V.
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+[18]
+Kapitel VI.
+
+LaTeX Warning: Reference `mathe' on page 19 undefined on input line 431.
+
+[19] [20]
+Kapitel VII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
+
+[23] [24]
+Kapitel VIII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+
+[25] [26]
+Kapitel IX.
+
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--756
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+[28]
+Kapitel X.
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
+
+[30] [31] [32]
+Kapitel XI.
+[33] [34]
+Kapitel XII.
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+
+Overfull \hbox (1.35367pt too wide) in paragraph at lines 1022--1023
+[]\OT1/cmr/m/n/10.95 Das Ge-heim-nis $\OML/cmm/m/it/10.95 S$ \OT1/cmr/m/n/10.95
+ soll nicht aus $\OML/cmm/m/it/10.95 c$ \OT1/cmr/m/n/10.95 und $\OML/cmm/m/it/1
+0.95 c\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 r; s\OT1/cmr/m/n/10.95 )$ re-kon-
+stru-ier-bar ein (selbst bei b[]oswillig gew[]ahltem
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+
+[37] [38]
+Kapitel XIII.
+[39] [40]
+Kapitel XIV.
+[41] [42]
+Kapitel XV.
+[43] [44]
+Kapitel XVI.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1161
+
+[45] [46]
+Kapitel XVII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1192
+
+[47]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+[48] (./sicherheit.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on sicherheit.pdf (48 pages, 436217 bytes).
+Transcript written on sicherheit.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex sicherheit.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(../data/sicherheit/sicherheit.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (../data/sicherheit/info.sty (../data/sicherheit/latexki.sty)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/germanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def))
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/clrscode/clrscode.sty
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)))
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex))
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.geometric.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.c
+ode.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.misc.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.t
+ex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.symbols.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.cod
+e.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.arrows.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code
+.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.callouts.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.co
+de.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshape
+s.multipart.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.c
+ode.tex)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.c
+ode.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryposit
+ioning.code.tex)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautom
+ata.code.tex)
+Writing index file sicherheit.idx
+(./sicherheit.aux) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./sicherheit.out)
+(./sicherheit.out) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 23.
+
+(./sicherheit.toc [3]
+Overfull \hbox (2.52458pt too wide) detected at line 58
+\OT1/cmss/bx/n/10.95 VII. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 59
+\OT1/cmr/m/n/10.95 VII.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 60
+\OT1/cmr/m/n/10.95 VII.2. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 61
+\OT1/cmr/m/n/10.95 VII.3. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 62
+\OT1/cmr/m/n/10.95 VII.4. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 63
+\OT1/cmr/m/n/10.95 VII.5. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 64
+\OT1/cmr/m/n/10.95 VII.5.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 65
+\OT1/cmr/m/n/10.95 VII.6. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 66
+\OT1/cmr/m/n/10.95 VII.7. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 67
+\OT1/cmr/m/n/10.95 VII.8. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 68
+\OT1/cmr/m/n/10.95 VII.8.1. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 71
+\OT1/cmr/m/n/10.95 VII.8.2. 
+
+Overfull \hbox (6.47874pt too wide) detected at line 73
+\OT1/cmss/bx/n/10.95 VIII. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 74
+\OT1/cmr/m/n/10.95 VIII.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 75
+\OT1/cmr/m/n/10.95 VIII.1.1. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 76
+\OT1/cmr/m/n/10.95 VIII.2. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 77
+\OT1/cmr/m/n/10.95 VIII.3. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 78
+\OT1/cmr/m/n/10.95 VIII.4. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 79
+\OT1/cmr/m/n/10.95 VIII.5. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 80
+\OT1/cmr/m/n/10.95 VIII.5.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 81
+\OT1/cmr/m/n/10.95 VIII.5.2. 
+
+Overfull \hbox (7.0566pt too wide) detected at line 82
+\OT1/cmr/m/n/10.95 VIII.6. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 83
+\OT1/cmr/m/n/10.95 VIII.6.1. 
+
+Overfull \hbox (5.7183pt too wide) detected at line 84
+\OT1/cmr/m/n/10.95 VIII.6.2. 
+[4]
+Overfull \hbox (2.52458pt too wide) detected at line 113
+\OT1/cmss/bx/n/10.95 XII. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 114
+\OT1/cmr/m/n/10.95 XII.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 115
+\OT1/cmr/m/n/10.95 XII.2. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 116
+\OT1/cmr/m/n/10.95 XII.3. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 117
+\OT1/cmr/m/n/10.95 XII.4. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 118
+\OT1/cmr/m/n/10.95 XII.5. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 119
+\OT1/cmr/m/n/10.95 XII.5.1. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 120
+\OT1/cmr/m/n/10.95 XII.6. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 121
+\OT1/cmr/m/n/10.95 XII.7. 
+
+Overfull \hbox (2.79826pt too wide) detected at line 122
+\OT1/cmr/m/n/10.95 XII.8. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 123
+\OT1/cmr/m/n/10.95 XII.8.1. 
+
+Overfull \hbox (1.45998pt too wide) detected at line 124
+\OT1/cmr/m/n/10.95 XII.8.2. 
+
+Overfull \hbox (6.47874pt too wide) detected at line 131
+\OT1/cmss/bx/n/10.95 XIII. 
+
+Overfull \hbox (6.60045pt too wide) detected at line 132
+\OT1/cmss/bx/n/10.95 XIV. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 133
+\OT1/cmr/m/n/10.95 XIV.1. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 134
+\OT1/cmr/m/n/10.95 XIV.2. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 135
+\OT1/cmr/m/n/10.95 XIV.3. 
+
+Overfull \hbox (2.98087pt too wide) detected at line 136
+\OT1/cmss/bx/n/10.95 XV. 
+
+Overfull \hbox (2.79828pt too wide) detected at line 137
+\OT1/cmr/m/n/10.95 XV.1. 
+
+Overfull \hbox (2.79828pt too wide) detected at line 138
+\OT1/cmr/m/n/10.95 XV.2. 
+
+Overfull \hbox (1.45999pt too wide) detected at line 139
+\OT1/cmr/m/n/10.95 XV.2.1. 
+
+Overfull \hbox (6.60045pt too wide) detected at line 140
+\OT1/cmss/bx/n/10.95 XVI. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 141
+\OT1/cmr/m/n/10.95 XVI.1. 
+
+Overfull \hbox (5.41415pt too wide) detected at line 142
+\OT1/cmr/m/n/10.95 XVI.1.1. 
+
+Overfull \hbox (6.75244pt too wide) detected at line 143
+\OT1/cmr/m/n/10.95 XVI.2. 
+
+Overfull \hbox (10.55461pt too wide) detected at line 144
+\OT1/cmss/bx/n/10.95 XVII. 
+
+Overfull \hbox (11.01077pt too wide) detected at line 145
+\OT1/cmr/m/n/10.95 XVII.1. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 146
+\OT1/cmr/m/n/10.95 XVII.1.1. 
+
+Overfull \hbox (11.01077pt too wide) detected at line 148
+\OT1/cmr/m/n/10.95 XVII.2. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 149
+\OT1/cmr/m/n/10.95 XVII.2.1. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 150
+\OT1/cmr/m/n/10.95 XVII.2.2. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 151
+\OT1/cmr/m/n/10.95 XVII.2.3. 
+
+Overfull \hbox (9.67249pt too wide) detected at line 153
+\OT1/cmr/m/n/10.95 XVII.2.4. 
+) [5] [6]
+Kapitel I.
+[7] [8]
+Kapitel II.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [9] [10]
+Kapitel III.
+(./graphics/stromchiffre.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+[12]
+Overfull \hbox (0.2054pt too wide) in paragraph at lines 212--213
+[]\OT1/cmr/m/n/10.95 perfekt par-al-le-li-sier-bar (zum Ver- und Ent-schl[]usse
+ln der Bl[]ocke ist je-weils nur der Schl[]ussel
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+[13] [14]
+Kapitel IV.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+[15] [16]
+Kapitel V.
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+[18]
+Kapitel VI.
+
+LaTeX Warning: Reference `mathe' on page 19 undefined on input line 431.
+
+[19] [20]
+Kapitel VII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
+
+[23] [24]
+Kapitel VIII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
+
+[25] [26]
+Kapitel IX.
+
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--756
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+[28]
+Kapitel X.
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--881
+
+[30] [31] [32]
+Kapitel XI.
+[33] [34]
+Kapitel XII.
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1019
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
+
+
+Overfull \hbox (1.35367pt too wide) in paragraph at lines 1022--1023
+[]\OT1/cmr/m/n/10.95 Das Ge-heim-nis $\OML/cmm/m/it/10.95 S$ \OT1/cmr/m/n/10.95
+ soll nicht aus $\OML/cmm/m/it/10.95 c$ \OT1/cmr/m/n/10.95 und $\OML/cmm/m/it/1
+0.95 c\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 r; s\OT1/cmr/m/n/10.95 )$ re-kon-
+stru-ier-bar ein (selbst bei b[]oswillig gew[]ahltem
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+
+[37] [38]
+Kapitel XIII.
+[39] [40]
+Kapitel XIV.
+[41] [42]
+Kapitel XV.
+[43] [44]
+Kapitel XVI.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1161
+
+[45] [46]
+Kapitel XVII.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1192
+
+[47]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1217.
+
+[48] (./sicherheit.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb>
+Output written on sicherheit.pdf (48 pages, 436213 bytes).
+Transcript written on sicherheit.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose sicherheit/sicherheit.pdf[0] -resize 70x sicherheit/sicherheit.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-sFBuNZKP-%08d" "-f/tmp/magick-xKw3hraB" "-f/tmp/magick-MA4DxWzm"
+/tmp/magick-sFBuNZKP-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 10.5KB 0.010u 0:00.010
+sicherheit/sicherheit.pdf[0]=>sicherheit/sicherheit.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 10.5KB 0.000u 0:00.000
+sicherheit/sicherheit.pdf[0]=>sicherheit/sicherheit.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 0.320u 0:00.129
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose sicherheit/sicherheit.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: sicherheit/sicherheit.png
+70x99 pixels, 4x16 bits/pixel, RGB+alpha
+Input IDAT size = 1065 bytes
+Input file size = 3699 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 955
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 953
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 953
+
+Output IDAT size = 953 bytes (112 bytes decrease)
+Output file size = 3587 bytes (112 bytes = 3.03% decrease)
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

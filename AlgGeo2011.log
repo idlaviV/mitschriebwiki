@@ -1,0 +1,2916 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.12.27)  27 DEC 2016 08:51
+entering extended mode
+ %&-line parsing enabled.
+**AlgGeo2011.tex
+(data/AlgGeo2011.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
+
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2009/06/08 v3.03b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 117.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 118.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 119.
+Package scrbook Info: You've used obsolete option `12pt'.
+(scrbook)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrbook)             used instead.
+(scrbook)             You may simply replace `12pt'
+(scrbook)             by `fontsize=12pt'.
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+ne 1272.
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2009/07/24 v3.04a KOMA-Script font size class option (12p
+t)
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package: typearea 2009/07/24 v3.04a KOMA-Script package (type area)
+
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internaly I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = -22.47766pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 606.5pt
+(typearea)              \topmargin      = -1.84941pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1115.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) (data/latexki.sty) (/usr/share/texmf-texlive/tex/generic/german/ngerman.sty
+v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen103
+ngerman -- \language number for naustrian undefined, default 17 used.
+) (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@dimlist=\toks17
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/index/index.sty
+Package: index 2004/01/20 v4.2beta Improved index support (dmj)
+\@indexbox=\insert233
+\indexproofstyle=\toks18
+)
+\idxtitle@default=\toks19
+\tf@default=\write3
+\openout3 = `AlgGeo2011.idx'.
+
+Package index Info: Writing index file AlgGeo2011.idx on input line 85.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count92
+))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen108
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count95
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
+\Field@toks=\toks20
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 110.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 110.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 110.
+
+
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 110.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 110.
+
+
+Package hyperref Warning: Values of option `pdfpagemode':
+(hyperref)                * `UseNone'
+(hyperref)                * `UseOutlines'
+(hyperref)                * `UseThumbs'
+(hyperref)                * `FullScreen'
+(hyperref)                * `UseOC' (PDF 1.5)
+(hyperref)                * `UseAttachments' (PDF 1.6)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `None' on input line 110.
+
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count100
+\lst@gtempboxa=\box27
+\lst@token=\toks21
+\lst@length=\count101
+\lst@currlwidth=\dimen111
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen112
+\lst@width=\dimen113
+\lst@newlines=\count104
+\lst@lineno=\count105
+\lst@maxwidth=\dimen114
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
+\lst@framebox=\box28
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen115
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip11
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks24
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks25
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks26
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box31
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen126
+\pgf@y=\dimen127
+\pgf@xa=\dimen128
+\pgf@ya=\dimen129
+\pgf@xb=\dimen130
+\pgf@yb=\dimen131
+\pgf@xc=\dimen132
+\pgf@yc=\dimen133
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count120
+\c@pgf@countb=\count121
+\c@pgf@countc=\count122
+\c@pgf@countd=\count123
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count124
+\pgfsyssoftpath@bigbuffer@items=\count125
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen134
+\pgfmath@count=\count126
+\pgfmath@box=\box32
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count127
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen135
+\pgf@picmaxx=\dimen136
+\pgf@picminy=\dimen137
+\pgf@picmaxy=\dimen138
+\pgf@pathminx=\dimen139
+\pgf@pathmaxx=\dimen140
+\pgf@pathminy=\dimen141
+\pgf@pathmaxy=\dimen142
+\pgf@xx=\dimen143
+\pgf@xy=\dimen144
+\pgf@yx=\dimen145
+\pgf@yy=\dimen146
+\pgf@zx=\dimen147
+\pgf@zy=\dimen148
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen149
+\pgf@path@lasty=\dimen150
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen151
+\pgf@shorten@start@additional=\dimen152
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count128
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen153
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen154
+\pgf@pt@y=\dimen155
+\pgf@pt@temp=\dimen156
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen157
+\pgf@sys@shading@range@num=\count129
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box36
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box37
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen158
+\pgf@nodesepend=\dimen159
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen160
+\pgffor@skip=\dimen161
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count130
+\pgfplotmarksize=\dimen162
+)
+\tikz@lastx=\dimen163
+\tikz@lasty=\dimen164
+\tikz@lastxsaved=\dimen165
+\tikz@lastysaved=\dimen166
+\tikzleveldistance=\dimen167
+\tikzsiblingdistance=\dimen168
+\tikz@figbox=\box38
+\tikz@tempbox=\box39
+\tikztreelevel=\count131
+\tikznumberofchildren=\count132
+\tikznumberofcurrentchild=\count133
+\tikz@fig@count=\count134
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count135
+\pgfmatrixcurrentcolumn=\count136
+\pgf@matrix@numberofcolumns=\count137
+)
+\tikz@expandcount=\count138
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatri
+x.code.tex
+File: tikzlibrarymatrix.code.tex 2008/06/18 v2.10 (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen169
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+)
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.text.code.tex
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecor
+ations.code.tex
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen170
+\pgfdecoratedremainingdistance=\dimen171
+\pgfdecoratedinputsegmentcompleteddistance=\dimen172
+\pgfdecoratedinputsegmentremainingdistance=\dimen173
+\pgf@decorate@distancetomove=\dimen174
+\pgf@decorate@repeatstate=\count139
+\pgfdecorationsegmentamplitude=\dimen175
+\pgfdecorationsegmentlength=\dimen176
+)
+\tikz@lib@dec@box=\box40
+)
+(/usr/share/texmf/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.t
+ext.code.tex
+\pgf@lib@dec@text@box=\box41
+)) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks37
+)
+(/usr/share/texmf-texlive/tex/latex/expdlist/expdlist.sty
+Document Substyle `EXPDLIST'. Released 22.09.1999 (V 2.4)
+English Documentation  22.09.99
+\listpartsep=\skip50
+) (/usr/share/texmf-texlive/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip51
+\L@UnitsRaiseTextstyle=\skip52
+\L@UnitsRaiseScriptstyle=\skip53
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/ulem.sty
+\UL@box=\box42
+\UL@hyphenbox=\box43
+\UL@skip=\skip54
+\UL@hook=\toks38
+\UL@pe=\count140
+\UL@pixel=\dimen177
+\ULC@box=\box44
+Package: ulem 2000/05/26
+\ULdepth=\dimen178
+)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen179
+\Y@c=\dimen180
+\U@c=\dimen181
+\D@c=\dimen182
+\L@c=\dimen183
+\R@c=\dimen184
+\Edge@c=\toks39
+\X@p=\dimen185
+\Y@p=\dimen186
+\U@p=\dimen187
+\D@p=\dimen188
+\L@p=\dimen189
+\R@p=\dimen190
+\Edge@p=\toks40
+\X@origin=\dimen191
+\Y@origin=\dimen192
+\X@xbase=\dimen193
+\Y@xbase=\dimen194
+\X@ybase=\dimen195
+\Y@ybase=\dimen196
+\X@min=\dimen197
+\Y@min=\dimen198
+\X@max=\dimen199
+\Y@max=\dimen200
+\lastobjectbox@=\box45
+\zerodotbox@=\box46
+\almostz@=\dimen201
+ direction,
+\d@X=\dimen202
+\d@Y=\dimen203
+\K@=\count141
+\KK@=\count142
+\Direction=\count143
+\K@dXdY=\dimen204
+\K@dYdX=\dimen205
+\xyread@=\read2
+\xywrite@=\write5
+\csp@=\count144
+\quotPTK@=\dimen206
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks41
+\connectobjectbox@@=\box47
+ objects,
+\styletoks@=\toks42
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+Package: xy 1999/02/16 Xy-pic version 3.7
+
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4
+\Row=\count145
+\Col=\count146
+\queue@=\toks43
+\queue@@=\toks44
+\qcount@=\count147
+\qcount@@=\count148
+\matrixsize@=\count149
+ loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve,
+\crv@cnt@=\count150
+\crvpts@=\toks45
+\splinebox@=\box48
+\splineval@=\dimen207
+\splinedepth@=\dimen208
+\splinetol@=\dimen209
+\splinelength@=\dimen210
+ circles,
+\L@=\dimen211
+ loaded))
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count151
+)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.sty
+(/usr/share/texmf-texlive/tex/generic/pictex/prepictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/pictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/postpictex.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/picmore.tex)
+(/usr/share/texmf-texlive/tex/generic/pictex/piccorr.sty))
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+Package: ntheorem 2005/07/07 1.25
+\theorem@style=\toks49
+\theorem@@style=\toks50
+\theorembodyfont=\toks51
+\theoremnumbering=\toks52
+\theorempreskipamount=\skip55
+\theorempostskipamount=\skip56
+\theoremindent=\dimen345
+\theorem@indent=\dimen346
+\theoremheaderfont=\toks53
+\theoremseparator=\toks54
+\theoremprework=\toks55
+\theorempostwork=\toks56
+\theoremsymbol=\toks57
+\qedsymbol=\toks58
+\theoremkeyword=\toks59
+\qedsymbol=\toks60
+\thm@topsepadd=\skip57
+Package ntheorem Info: Option `thmmarks' loaded on input line 1029.
+\c@endNonectr=\count168
+\c@currNonectr=\count169
+\mysavskip=\skip58
+Package ntheorem Info: Option `thref' loaded on input line 1029.
+\mysavskip=\skip59
+Package ntheorem Info: option `amsmath' handling for `thref' loaded on input li
+ne 1029.
+Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
+ line 1029.
+\thm@amstmpdepth=\dimen347
+) (/usr/share/texmf-texlive/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2008/05/15 v1.0b Some extensible arrows
+)
+\c@currSatzctr=\count170
+\c@endSatzctr=\count171
+\c@Satz=\count172
+\c@currSatzDefctr=\count173
+\c@endSatzDefctr=\count174
+\c@currUnterSatzctr=\count175
+\c@endUnterSatzctr=\count176
+\c@UnterSatz=\count177
+\c@currDefctr=\count178
+\c@endDefctr=\count179
+\c@Def=\count180
+\c@currDefBemctr=\count181
+\c@endDefBemctr=\count182
+\c@currDefErinnctr=\count183
+\c@endDefErinnctr=\count184
+\c@currErinnDefBemctr=\count185
+\c@endErinnDefBemctr=\count186
+\c@currErinnDefctr=\count187
+\c@endErinnDefctr=\count188
+\c@currErinnctr=\count189
+\c@endErinnctr=\count190
+\c@currDefSatzctr=\count191
+\c@endDefSatzctr=\count192
+\c@currBemctr=\count193
+\c@endBemctr=\count194
+\c@currBemDefctr=\count195
+\c@endBemDefctr=\count196
+\c@currBemErinnctr=\count197
+\c@endBemErinnctr=\count198
+\c@currPropctr=\count199
+\c@endPropctr=\count200
+\c@currPropDefctr=\count201
+\c@endPropDefctr=\count202
+\c@currFolgctr=\count203
+\c@endFolgctr=\count204
+\c@currFolgDefctr=\count205
+\c@endFolgDefctr=\count206
+\c@currBspctr=\count207
+\c@endBspctr=\count208
+\c@currBspectr=\count209
+\c@endBspectr=\count210
+\c@currDefPropctr=\count211
+\c@endDefPropctr=\count212
+\c@curranBewctr=\count213
+\c@endanBewctr=\count214
+\c@currKorctr=\count215
+\c@endKorctr=\count216
+\c@currEinschctr=\count217
+\c@endEinschctr=\count218
+\c@currLemmactr=\count219
+\c@endLemmactr=\count220
+\c@Lemma=\count221
+\c@currAufgctr=\count222
+\c@endAufgctr=\count223
+\c@Aufg=\count224
+\c@currLoesctr=\count225
+\c@endLoesctr=\count226
+\c@Loes=\count227
+\c@currnnBemctr=\count228
+\c@endnnBemctr=\count229
+\c@nnBem=\count230
+\c@currnnBspctr=\count231
+\c@endnnBspctr=\count232
+Normal \count register pool exhausted, switching to extended pool.
+\c@nnBsp=\count277
+\c@currnnBspectr=\count278
+\c@endnnBspectr=\count279
+\c@nnBspe=\count280
+\c@currnnSatzctr=\count281
+\c@endnnSatzctr=\count282
+\c@nnSatz=\count283
+\c@currnnErinnctr=\count284
+\c@endnnErinnctr=\count285
+\c@nnErinn=\count286
+\c@currnnSatz1ctr=\count287
+\c@endnnSatz1ctr=\count288
+\c@nnSatz1=\count289
+\c@currnnSatz3ctr=\count290
+\c@endnnSatz3ctr=\count291
+\c@nnSatz3=\count292
+\c@currnnFolgctr=\count293
+\c@endnnFolgctr=\count294
+\c@nnFolg=\count295
+\c@currBeoctr=\count296
+\c@endBeoctr=\count297
+\c@Beo=\count298
+\c@currErictr=\count299
+\c@endErictr=\count300
+\c@Eri=\count301
+\c@currBehctr=\count302
+\c@endBehctr=\count303
+\c@Beh=\count304
+\c@currFragctr=\count305
+\c@endFragctr=\count306
+\c@Frag=\count307
+\c@currZielctr=\count308
+\c@endZielctr=\count309
+\c@Ziel=\count310
+\c@currStratctr=\count311
+\c@endStratctr=\count312
+\c@Strat=\count313
+\c@currgastctr=\count314
+\c@endgastctr=\count315
+\c@gast=\count316
+\c@currkommctr=\count317
+\c@endkommctr=\count318
+\c@komm=\count319
+\c@currkorrctr=\count320
+\c@endkorrctr=\count321
+\c@korr=\count322
+\c@currBewctr=\count323
+\c@endBewctr=\count324
+\c@Bew=\count325
+
+(./AlgGeo2011.aux)
+\openout1 = `AlgGeo2011.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 365.
+LaTeX Font Info:    ... okay on input line 365.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 365.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 56.9055pt, 483.69687pt, 56.9055pt
+v-parts: 56.9055pt, 702.7831pt, 85.35825pt
+hmarginratio: --
+vmarginratio: 2:3
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  483.69687pt
+\textheight 702.7831pt
+\oddsidemargin  -15.36449pt
+\evensidemargin -15.36449pt
+\topmargin  -55.23949pt
+\headheight 18.125pt
+\headsep    21.75pt
+\footskip   50.75pt
+\marginparwidth 74.68849pt
+\marginparsep   12.8401pt
+\columnsep  10.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen348
+\scratchbox=\box55
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen349
+\MPnumerator=\count330
+\everyMPtoPDFconversion=\toks62
+)
+Package hyperref Info: Link coloring ON on input line 365.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count331
+)
+LaTeX Info: Redefining \ref on input line 365.
+LaTeX Info: Redefining \pageref on input line 365.
+ (./AlgGeo2011.out)
+(./AlgGeo2011.out)
+\@outlinefile=\write7
+\openout7 = `AlgGeo2011.out'.
+
+\AtBeginShipoutBox=\box56
+\c@lstlisting=\count332
+ ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 367.
+
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 367.
+
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 367
+.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 367
+.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 367.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 367.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 367.
+LaTeX Font Info:    Try loading font information for U+msa on input line 367.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 367.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 367.
+
+
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 367.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 367.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 367.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 367.
+ [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] (./AlgGeo2011.toc
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 11.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 20.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 22.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 25.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 30.
+
+
+Package xcolor Warning: Incompatible color definition on input line 31.
+
+
+Package xcolor Warning: Incompatible color definition on input line 32.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 34.
+
+
+Package xcolor Warning: Incompatible color definition on input line 35.
+
+
+Package xcolor Warning: Incompatible color definition on input line 36.
+
+
+Package xcolor Warning: Incompatible color definition on input line 37.
+
+
+Package xcolor Warning: Incompatible color definition on input line 38.
+
+
+Package xcolor Warning: Incompatible color definition on input line 39.
+
+[3
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 40.
+
+
+Package xcolor Warning: Incompatible color definition on input line 41.
+
+
+Package xcolor Warning: Incompatible color definition on input line 42.
+
+
+Package xcolor Warning: Incompatible color definition on input line 43.
+
+
+Package xcolor Warning: Incompatible color definition on input line 44.
+
+)
+\tf@toc=\write8
+\openout8 = `AlgGeo2011.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{contents.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.375 \pdfbookmark[1]{Benannte S\"atze}{contents}
+                                                 
+** Generating table of Satz,SatzDef,Def,DefBem,BemDef,Prop,PropDef,Bsp,DefProp
+(./AlgGeo2011.thm
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 119.
+
+
+Package xcolor Warning: Incompatible color definition on input line 216.
+
+
+Package xcolor Warning: Incompatible color definition on input line 218.
+
+
+Package xcolor Warning: Incompatible color definition on input line 221.
+
+
+Package xcolor Warning: Incompatible color definition on input line 228.
+
+
+Package xcolor Warning: Incompatible color definition on input line 277.
+
+)pdfTeX warning (ext4): destination with the same identifier (name{contents.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.382 \pdfbookmark[1]{S"atze}{contents}
+                                       
+** Generating table of Satz,SatzDef
+(./AlgGeo2011.thm
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 50.
+
+
+Package xcolor Warning: Incompatible color definition on input line 54.
+
+
+Package xcolor Warning: Incompatible color definition on input line 74.
+
+
+Package xcolor Warning: Incompatible color definition on input line 85.
+
+
+Package xcolor Warning: Incompatible color definition on input line 101.
+
+
+Package xcolor Warning: Incompatible color definition on input line 137.
+
+
+Package xcolor Warning: Incompatible color definition on input line 191.
+
+
+Package xcolor Warning: Incompatible color definition on input line 201.
+
+
+Package xcolor Warning: Incompatible color definition on input line 234.
+
+
+Package xcolor Warning: Incompatible color definition on input line 270.
+
+
+Package xcolor Warning: Incompatible color definition on input line 277.
+
+) [4]
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              You should use the features of package `tocbasic'
+(scrbook)              instead of \float@addtolists.
+(scrbook)              Support for \float@addtolists may be removed from
+(scrbook)              `scrbook' soon .
+
+
+Package xcolor Warning: Incompatible color definition on input line 400.
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 400.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package xcolor Warning: Incompatible color definition on input line 403.
+
+
+Package xcolor Warning: Incompatible color definition on input line 405.
+
+
+Package xcolor Warning: Incompatible color definition on input line 407.
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 410.
+
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 410.
+ [5
+
+
+] [6
+
+
+]
+Kapitel 1.
+Package hyperref Info: bookmark level for unknown BemErinn defaults to 0 on inp
+ut line 422.
+Package hyperref Info: bookmark level for unknown Folg defaults to 0 on input l
+ine 439.
+
+Package xcolor Warning: Incompatible color definition on input line 441.
+
+
+Package xcolor Warning: Incompatible color definition on input line 441.
+
+Package hyperref Info: bookmark level for unknown Erinn defaults to 0 on input 
+line 445.
+Package hyperref Info: bookmark level for unknown Bew defaults to 0 on input li
+ne 454.
+Package hyperref Info: bookmark level for unknown Prop defaults to 0 on input l
+ine 469.
+[7]
+
+Package xcolor Warning: Incompatible color definition on input line 473.
+
+Package hyperref Info: bookmark level for unknown Satz defaults to 0 on input l
+ine 478.
+Package hyperref Info: bookmark level for unknown Def defaults to 0 on input li
+ne 483.
+Package hyperref Info: bookmark level for unknown nnSatz1 defaults to 0 on inpu
+t line 486.
+
+Package xcolor Warning: Incompatible color definition on input line 487.
+
+
+Package xcolor Warning: Incompatible color definition on input line 490.
+
+Package hyperref Info: bookmark level for unknown Bem defaults to 0 on input li
+ne 500.
+
+Package xcolor Warning: Incompatible color definition on input line 513.
+
+
+Package xcolor Warning: Incompatible color definition on input line 513.
+
+
+Package xcolor Warning: Incompatible color definition on input line 513.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 520.
+
+[8] [9]
+Package hyperref Info: bookmark level for unknown nnBsp defaults to 0 on input 
+line 548.
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
+
+ []
+
+[10]
+
+Package xcolor Warning: Incompatible color definition on input line 602.
+
+Package hyperref Info: bookmark level for unknown DefBem defaults to 0 on input
+ line 617.
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
+
+ []
+
+Package hyperref Info: bookmark level for unknown Bsp defaults to 0 on input li
+ne 679.
+[12]
+Package hyperref Info: bookmark level for unknown DefErinn defaults to 0 on inp
+ut line 734.
+Package hyperref Info: bookmark level for unknown Frag defaults to 0 on input l
+ine 762.
+ [13] [14]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 817.
+
+[15]
+
+Package hyperref Warning: No autoref name for `Def' on input line 829.
+
+
+Package xcolor Warning: Incompatible color definition on input line 829.
+
+
+Package xcolor Warning: Incompatible color definition on input line 854.
+
+
+Package xcolor Warning: Incompatible color definition on input line 854.
+
+[16] [17]
+Package hyperref Info: bookmark level for unknown nnSatz3 defaults to 0 on inpu
+t line 898.
+ [18]
+
+Package xcolor Warning: Incompatible color definition on input line 968.
+
+
+Package xcolor Warning: Incompatible color definition on input line 976.
+
+
+Package xcolor Warning: Incompatible color definition on input line 976.
+
+[19]
+
+Package xcolor Warning: Incompatible color definition on input line 1003.
+
+[20]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 1035.
+
+[21]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: b) on input line 1086.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1087.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1087.
+
+[22] [23] [24]
+Package hyperref Info: bookmark level for unknown FolgDef defaults to 0 on inpu
+t line 1238.
+ [25] [26]
+
+Package hyperref Warning: No autoref name for `Def' on input line 1326.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1326.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 1354.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1356.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1362.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1362.
+
+[27]
+Overfull \hbox (43.079pt too wide) in paragraph at lines 1406--1406
+[][] 
+ []
+
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1385--1407
+[]$[]$ $[]$ 
+ []
+
+[28]
+Package hyperref Info: bookmark level for unknown BemDef defaults to 0 on input
+ line 1474.
+ [29]
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1495
+
+ []
+
+[30]
+
+Package xcolor Warning: Incompatible color definition on input line 1557.
+
+[31] [32
+
+
+]
+Kapitel 2.
+[33] [34]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1646.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1646.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1646.
+
+
+Overfull \hbox (11.07048pt too wide) in paragraph at lines 1690--1691
+[]\T1/lmr/m/n/12 Für $\OML/lmm/m/it/12 V \OMS/lmsy/m/n/12 ^^R \U/msb/m/n/12 P[]
+\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )$ \T1/lmr/m/n/12 sei $\OML/
+lmm/m/it/12 I\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 V\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n
+/12 ^^R \OML/lmm/m/it/12 k\OT1/lmr/m/n/12 [\OML/lmm/m/it/12 X[]; [] ; X[]\OT1/l
+mr/m/n/12 ]$ \T1/lmr/m/n/12 das von $\OML/lmm/m/it/12 I[]\OT1/lmr/m/n/12 (\OML/
+lmm/m/it/12 V\OT1/lmr/m/n/12 ) = \OMS/lmsy/m/n/12 f\OML/lmm/m/it/12 f \OMS/lmsy
+/m/n/12 2 \OML/lmm/m/it/12 k\OT1/lmr/m/n/12 [\OML/lmm/m/it/12 X[]; [] ; X[]\OT1
+/lmr/m/n/12 ][]\OML/lmm/m/it/12 ; f\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 x\OT1/lmr/
+m/n/12 ) =
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 1724.
+
+[35]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 1750.
+
+[36]
+
+Package xcolor Warning: Incompatible color definition on input line 1832.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1832.
+
+[37]
+Overfull \hbox (7.90631pt too wide) in paragraph at lines 1876--1877
+[]\T1/lmr/m/n/12 Sei $\OML/lmm/m/it/12 f \OT1/lmr/m/n/12 = [][] \OML/lmm/m/it/1
+2 f[]; g \OT1/lmr/m/n/12 = [][] \OML/lmm/m/it/12 g[] \OMS/lmsy/m/n/12 ) \OML/lm
+m/m/it/12 f \OMS/lmsy/m/n/12 ^^A \OML/lmm/m/it/12 g \OT1/lmr/m/n/12 = [][]([][]
+ \OML/lmm/m/it/12 f[]g[]\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ) \OML/lmm/m/it/12 H
+\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 f \OMS/lmsy/m/n/12 ^^A \OML/lmm/m/it/12 g\OT1
+/lmr/m/n/12 ) = [][] [][] \OML/lmm/m/it/12 f[]g[]X[]$ 
+ []
+
+
+Overfull \hbox (70.32689pt too wide) in paragraph at lines 1878--1879
+[]$\OML/lmm/m/it/12 H\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 f\OT1/lmr/m/n/12 ) \OMS/
+lmsy/m/n/12 ^^A \OML/lmm/m/it/12 H\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 g\OT1/lmr/m
+/n/12 ) = ([][] \OML/lmm/m/it/12 f[]X[]\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^A \
+OT1/lmr/m/n/12 ([][] \OML/lmm/m/it/12 g[]X[]\OT1/lmr/m/n/12 ) = [][]([][] \OML/
+lmm/m/it/12 f[]X[]g[]X[]\OT1/lmr/m/n/12 ) = [][] [][] \OML/lmm/m/it/12 f[]g[]X[
+]$ $\U/msa/m/n/12 ^^C$[] 
+ []
+
+
+Overfull \hbox (0.91675pt too wide) in paragraph at lines 1889--1890
+[]$\OML/lmm/m/it/12 % \OT1/lmr/m/n/12 := \OML/lmm/m/it/12 % \OT1/lmr/m/n/12 : [
+]$ \T1/lmr/m/n/12 und $\OML/lmm/m/it/12 ' \OT1/lmr/m/n/12 : []$
+ []
+
+[38]
+Package hyperref Info: bookmark level for unknown DefProp defaults to 0 on inpu
+t line 1918.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\subseteq $}: on input line 1933.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1965.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1965.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1965.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1968.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1968.
+
+[39]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 2003.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2007.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2011.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2043.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2043.
+
+[40]
+
+Package xcolor Warning: Incompatible color definition on input line 2061.
+
+[41] [42]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 2150.
+
+[43]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 2173.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2175.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2175.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2177.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2177.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2179.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2179.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2181.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2181.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2181.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2220.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2220.
+
+[44] [45]
+Package hyperref Info: bookmark level for unknown Einsch defaults to 0 on input
+ line 2280.
+ [46] [47]
+Package hyperref Info: bookmark level for unknown PropDef defaults to 0 on inpu
+t line 2378.
+ [48]
+Kapitel 3.
+LaTeX Font Info:    Try loading font information for U+euf on input line 2440.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
+)
+
+Package xcolor Warning: Incompatible color definition on input line 2446.
+
+[49
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 2498.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2535.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2535.
+
+[50]
+
+Package xcolor Warning: Incompatible color definition on input line 2554.
+
+[51]
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 2575--2585
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 2587--2596
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (2.61105pt too wide) in paragraph at lines 2598--2604
+[]$[]$ $[]$ 
+ []
+
+[52]
+Package hyperref Info: bookmark level for unknown nnErinn defaults to 0 on inpu
+t line 2689.
+ [53] [54]
+
+Package xcolor Warning: Incompatible color definition on input line 2725.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2748.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2748.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2752.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2752.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2763.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2763.
+
+[55]
+Package hyperref Info: bookmark level for unknown SatzDef defaults to 0 on inpu
+t line 2792.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2801
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 2809.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2811.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2811.
+
+[56]
+Overfull \hbox (3.99129pt too wide) in paragraph at lines 2829--2830
+[]\T1/lmr/m/n/12 Es ist $\OML/lmm/m/it/12 f[] [] \OT1/lmr/m/n/12 = [][] [](\OML
+/lmm/m/it/12 x\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 l\OT1/lmr/m/n/12 ([])$ $= \OML/
+lmm/m/it/12 l []$
+ []
+
+[57]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\subseteq $}: on input line 2882.
+
+[58]
+Package hyperref Info: bookmark level for unknown UnterSatz defaults to 0 on in
+put line 2938.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2953.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2953.
+
+[59]
+
+Package xcolor Warning: Incompatible color definition on input line 3008.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3008.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3037.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3037.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3037.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3037.
+
+[60]
+
+Package xcolor Warning: Incompatible color definition on input line 3075.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3093.
+
+[61]
+
+Package xcolor Warning: Incompatible color definition on input line 3114.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3114.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3155.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3157.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3169.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3169.
+
+[62]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \quot {$\Rightarrow $}: on input line 3174.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3192.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3223.
+
+[63]
+
+Package xcolor Warning: Incompatible color definition on input line 3228.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3233.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3241.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3245.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3249.
+
+[64]
+
+Package xcolor Warning: Incompatible color definition on input line 3324.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3325.
+
+[65] [66]
+Kapitel 4.
+[67
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 3429.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3437.
+
+[68] [69] [70]
+
+Package xcolor Warning: Incompatible color definition on input line 3575.
+
+Package hyperref Info: bookmark level for unknown Ziel defaults to 0 on input l
+ine 3609.
+Package hyperref Info: bookmark level for unknown Beo defaults to 0 on input li
+ne 3613.
+
+Package xcolor Warning: Incompatible color definition on input line 3613.
+
+Package hyperref Info: bookmark level for unknown Strat defaults to 0 on input 
+line 3616.
+[71]
+
+Package xcolor Warning: Incompatible color definition on input line 3673.
+
+[72]
+
+Package xcolor Warning: Incompatible color definition on input line 3683.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3701.
+
+[73] [74] [75]
+
+Package xcolor Warning: Incompatible color definition on input line 3865.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3865.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3869.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3869.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3872.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3887.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3887.
+
+[76] [77] [78
+
+
+]
+Anhang A.
+Package hyperref Info: bookmark level for unknown Aufg defaults to 0 on input l
+ine 3930.
+[79]pdfTeX warning (ext4): destination with the same identifier (name{Aufg.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3964 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3968 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3975 \begin{Aufg}
+                   [4 Punkte]
+
+Package xcolor Warning: Incompatible color definition on input line 3979.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 3979.
+
+Package xcolor Warning: Incompatible color definition on input line 3987.
+
+Package hyperref Info: bookmark level for unknown Loes defaults to 0 on input l
+ine 4004.
+[80] [81]pdfTeX warning (ext4): destination with the same identifier (name{Aufg
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4023 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4030 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4036 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4042 \begin{Aufg}
+                   [4 Punkte] [82]pdfTeX warning (ext4): destination with the s
+ame identifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4056 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4064 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4084 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4090 \begin{Aufg}
+                   [4 Punkte] [83] [84]pdfTeX warning (ext4): destination with 
+the same identifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4125 \begin{Aufg}
+                   [2 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4129 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4143 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4154 \begin{Aufg}
+                   [5 Punkte]
+
+Package amsmath Warning: Foreign command \atop;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 4158.
+
+[85]pdfTeX warning (ext4): destination with the same identifier (name{Loes.3}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4182 \begin{Loes}
+                   
+Underfull \hbox (badness 10000) in paragraph at lines 4183--4184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4191--4192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4207--4208
+
+ []
+
+[86]
+Overfull \hbox (19.99664pt too wide) in paragraph at lines 4232--4240
+[]$\OML/lmm/m/it/12 DV\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 g\OT1/lmr/m/n/12 (\OML/
+lmm/m/it/12 P[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] ; g\OT1/lmr/m/n/12 (\OML/
+lmm/m/it/12 P[]\OT1/lmr/m/n/12 )) = [] =
+ []
+
+[87]pdfTeX warning (ext4): destination with the same identifier (name{Aufg.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4253 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4267 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4273 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4279 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4289 \begin{Loes}
+                   \begin{enumerate}[a)] [88]pdfTeX warning (ext4): destination
+ with the same identifier (name{Loes.3}) has been already used, duplicate ignor
+ed
+<to be read again> 
+                   \relax 
+l.4340 \begin{Loes}
+                    [89] [90]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4364 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4372 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4378 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4389 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4406 \begin{Loes}
+                   \begin{enumerate}[a)] [91] [92]pdfTeX warning (ext4): destin
+ation with the same identifier (name{Aufg.1}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.4454 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4462 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4468 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4472 \begin{Aufg}
+                   [\textit{Veronese-Einbettung} 7 Punkte]pdfTeX warning (ext4)
+: destination with the same identifier (name{Loes.4}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.4491 \begin{Loes}
+                    [93] [94]
+Overfull \hbox (0.549pt too wide) in paragraph at lines 4534--4535
+[]$[]\OT1/lmr/m/n/12 (^^H[])$ \T1/lmr/m/n/12 ist ein Prim-ide-al, denn $[]\OT1/
+lmr/m/n/12 (^^H[]) \OMS/lmsy/m/n/12 ^^Z \OML/lmm/m/it/12 k\OT1/lmr/m/n/12 [\U/m
+sb/m/n/12 P[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 k\OT1/lmr/m/n/12 )]$ \T1/lmr/m/n
+/12 ist null-tei-ler-frei. So-mit ist $\OML/lmm/m/it/12 V\OT1/lmr/m/n/12 ([](^^
+H[]))$
+ []
+
+[95]pdfTeX warning (ext4): destination with the same identifier (name{Aufg.1}) 
+has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4552 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4563 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4575 \begin{Aufg}
+                   [7 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4590 \begin{Loes}
+                    [96] [97] [98]pdfTeX warning (ext4): destination with the s
+ame identifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4668 \begin{Aufg}
+                   [ unsch"atzbarem Wert, 4 Punkte]pdfTeX warning (ext4): desti
+nation with the same identifier (name{Aufg.2}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.4674 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4689 \begin{Aufg}
+                   [2 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4695 \begin{Aufg}
+                   [(Aufblasung der Ebene)6 Punkte] [99]pdfTeX warning (ext4): 
+destination with the same identifier (name{Loes.2}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.4727 \begin{Loes}
+                   \begin{enumerate}[a)]pdfTeX warning (ext4): destination with
+ the same identifier (name{Loes.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4741 \begin{Loes}
+                    [100]pdfTeX warning (ext4): destination with the same ident
+ifier (name{Loes.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4749 \begin{Loes}
+                   \begin{enumerate}[a)] [101] [102]pdfTeX warning (ext4): dest
+ination with the same identifier (name{Aufg.1}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.4802 \begin{Aufg}
+                   [2 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4806 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4821 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4827 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4835 \begin{Loes}
+                   \begin{enumerate}[a)]\item[b)]
+Overfull \hbox (5.83038pt too wide) in paragraph at lines 4844--4845
+[]\T1/lmr/m/n/12 Aus $[][] \OML/lmm/m/it/12 a[] dX[] \OT1/lmr/m/n/12 = 0$ \T1/l
+mr/m/n/12 folgt $\OT1/lmr/m/n/12 0 = \OML/lmm/m/it/12 '[]\OT1/lmr/m/n/12 ([][] 
+\OML/lmm/m/it/12 a[] dX[]\OT1/lmr/m/n/12 ) [] [][] \OML/lmm/m/it/12 a[] '[]\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 d\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 X[]\OT1/lmr/m/
+n/12 )) = [][] \OML/lmm/m/it/12 a[] [][]\OT1/lmr/m/n/12 ) =
+ []
+
+[103]pdfTeX warning (ext4): destination with the same identifier (name{Aufg.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4855 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4863 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4967 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4975 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4985 \begin{Loes}
+                   \begin{enumerate}[a)]\item [104]pdfTeX warning (ext4): desti
+nation with the same identifier (name{Loes.4}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.4991 \begin{Loes}
+                    [105] [106]pdfTeX warning (ext4): destination with the same
+ identifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5032 \begin{Aufg}
+                   [5 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5044 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5056 \begin{Aufg}
+                   [3 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5062 \begin{Aufg}
+                   [4 Punkte] [107]pdfTeX warning (ext4): destination with the 
+same identifier (name{Aufg.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5076 \begin{Aufg}
+                   [4 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5086 \begin{Aufg}
+                   [6 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Aufg.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5094 \begin{Aufg}
+                   [6 Punkte]pdfTeX warning (ext4): destination with the same i
+dentifier (name{Loes.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5112 \begin{Loes}
+                   \begin{enumerate}[a)] [108]
+Overfull \hbox (20.87848pt too wide) in alignment at lines 5128--5134
+ [][][] []
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 5154.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5154.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[109] [110]
+
+Package xcolor Warning: Incompatible color definition on input line 5265.
+
+(./AlgGeo2011.ind [111]
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+
+Package xcolor Warning: Incompatible color definition on input line 20.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 25.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 32.
+
+
+Package xcolor Warning: Incompatible color definition on input line 36.
+
+
+Package xcolor Warning: Incompatible color definition on input line 38.
+
+
+Package xcolor Warning: Incompatible color definition on input line 38.
+
+
+Package xcolor Warning: Incompatible color definition on input line 39.
+
+
+Package xcolor Warning: Incompatible color definition on input line 40.
+
+
+Package xcolor Warning: Incompatible color definition on input line 45.
+
+
+Package xcolor Warning: Incompatible color definition on input line 46.
+
+
+Package xcolor Warning: Incompatible color definition on input line 47.
+
+
+Package xcolor Warning: Incompatible color definition on input line 48.
+
+
+Package xcolor Warning: Incompatible color definition on input line 48.
+
+
+Package xcolor Warning: Incompatible color definition on input line 49.
+
+
+Package xcolor Warning: Incompatible color definition on input line 50.
+
+
+Package xcolor Warning: Incompatible color definition on input line 51.
+
+
+Package xcolor Warning: Incompatible color definition on input line 55.
+
+
+Package xcolor Warning: Incompatible color definition on input line 56.
+
+
+Package xcolor Warning: Incompatible color definition on input line 57.
+
+
+Package xcolor Warning: Incompatible color definition on input line 58.
+
+
+Package xcolor Warning: Incompatible color definition on input line 59.
+
+
+Package xcolor Warning: Incompatible color definition on input line 60.
+
+
+Package xcolor Warning: Incompatible color definition on input line 61.
+
+
+Package xcolor Warning: Incompatible color definition on input line 62.
+
+
+Package xcolor Warning: Incompatible color definition on input line 67.
+
+
+Package xcolor Warning: Incompatible color definition on input line 68.
+
+
+Package xcolor Warning: Incompatible color definition on input line 68.
+
+
+Package xcolor Warning: Incompatible color definition on input line 70.
+
+
+Package xcolor Warning: Incompatible color definition on input line 75.
+
+
+Package xcolor Warning: Incompatible color definition on input line 76.
+
+
+Package xcolor Warning: Incompatible color definition on input line 78.
+
+
+Package xcolor Warning: Incompatible color definition on input line 79.
+
+
+Package xcolor Warning: Incompatible color definition on input line 80.
+
+
+Package xcolor Warning: Incompatible color definition on input line 81.
+
+
+Package xcolor Warning: Incompatible color definition on input line 85.
+
+
+Package xcolor Warning: Incompatible color definition on input line 86.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 90.
+
+
+Package xcolor Warning: Incompatible color definition on input line 92.
+
+
+Package xcolor Warning: Incompatible color definition on input line 93.
+
+
+Package xcolor Warning: Incompatible color definition on input line 94.
+
+
+Package xcolor Warning: Incompatible color definition on input line 98.
+
+
+Package xcolor Warning: Incompatible color definition on input line 102.
+
+
+Package xcolor Warning: Incompatible color definition on input line 106.
+
+
+Package xcolor Warning: Incompatible color definition on input line 107.
+
+
+Package xcolor Warning: Incompatible color definition on input line 111.
+
+
+Package xcolor Warning: Incompatible color definition on input line 112.
+
+
+Package xcolor Warning: Incompatible color definition on input line 112.
+
+
+Package xcolor Warning: Incompatible color definition on input line 112.
+
+
+Package xcolor Warning: Incompatible color definition on input line 113.
+
+
+Package xcolor Warning: Incompatible color definition on input line 114.
+
+
+Package xcolor Warning: Incompatible color definition on input line 115.
+
+
+Package xcolor Warning: Incompatible color definition on input line 116.
+
+
+Package xcolor Warning: Incompatible color definition on input line 119.
+
+
+Package xcolor Warning: Incompatible color definition on input line 120.
+
+
+Package xcolor Warning: Incompatible color definition on input line 121.
+
+
+Package xcolor Warning: Incompatible color definition on input line 125.
+
+
+Package xcolor Warning: Incompatible color definition on input line 126.
+
+
+Package xcolor Warning: Incompatible color definition on input line 130.
+
+[112
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 132.
+
+
+Package xcolor Warning: Incompatible color definition on input line 133.
+
+
+Package xcolor Warning: Incompatible color definition on input line 134.
+
+
+Package xcolor Warning: Incompatible color definition on input line 134.
+
+
+Package xcolor Warning: Incompatible color definition on input line 134.
+
+
+Package xcolor Warning: Incompatible color definition on input line 135.
+
+
+Package xcolor Warning: Incompatible color definition on input line 137.
+
+
+Package xcolor Warning: Incompatible color definition on input line 142.
+
+
+Package xcolor Warning: Incompatible color definition on input line 143.
+
+
+Package xcolor Warning: Incompatible color definition on input line 144.
+
+
+Package xcolor Warning: Incompatible color definition on input line 145.
+
+
+Package xcolor Warning: Incompatible color definition on input line 149.
+
+[113
+
+]) [114
+
+
+
+]
+Anhang B.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5300--5302
+
+ []
+
+Package hyperref Info: bookmark level for unknown gast defaults to 0 on input l
+ine 5303.
+
+Package xcolor Warning: Incompatible color definition on input line 5309.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5318.
+
+[115]
+\tf@thm=\write9
+\openout9 = `AlgGeo2011.thm'.
+
+ (./AlgGeo2011.aux) ) 
+Here is how much of TeX's memory you used:
+ 24407 strings out of 493857
+ 392952 string characters out of 1153304
+ 511254 words of memory out of 3000000
+ 26270 multiletter control sequences out of 15000+50000
+ 109131 words of font info for 100 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 61i,15n,57p,829b,894s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mat
+hit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fo
+nts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/euler/eufm10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></usr/share/texm
+f-texlive/fonts/type1/hoekwater/stmaryrd/stmary8.pfb>
+Output written on AlgGeo2011.pdf (115 pages, 1036501 bytes).
+PDF statistics:
+ 1991 PDF objects out of 2073 (max. 8388607)
+ 904 named destinations out of 1000 (max. 500000)
+ 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+

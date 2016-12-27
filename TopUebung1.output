@@ -1,0 +1,191 @@
+
+Running /usr/bin/pdflatex TopUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/TopUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+No file TopUebung1.aux.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./TopUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb></usr/share/texmf-texlive/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on TopUebung1.pdf (2 pages, 131517 bytes).
+Transcript written on TopUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex TopUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/TopUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty) (./TopUebung1.aux)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./TopUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb></usr/share/texmf-texlive/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on TopUebung1.pdf (2 pages, 131517 bytes).
+Transcript written on TopUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex TopUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/TopUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty) (./TopUebung1.aux)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./TopUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msb
+m10.pfb></usr/share/texmf-texlive/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on TopUebung1.pdf (2 pages, 131517 bytes).
+Transcript written on TopUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose TopUebung1.pdf[0] -resize 70x TopUebung1.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-SGvHNkyY-%08d" "-f/tmp/magick-DocQkhBd" "-f/tmp/magick-PcjK6hEs"
+/tmp/magick-SGvHNkyY-00000001 PNG 612x792 612x792+0+0 8-bit DirectClass 38.6KB 0.000u 0:00.009
+TopUebung1.pdf[0]=>TopUebung1.pdf PDF 612x792 612x792+0+0 16-bit DirectClass 38.6KB 0.000u 0:00.000
+TopUebung1.pdf[0]=>TopUebung1.png PDF 612x792=>70x91 70x91+0+0 16-bit DirectClass 4.1KB 0.310u 0:00.089
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose TopUebung1.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: TopUebung1.png
+70x91 pixels, 2x8 bits/pixel, grayscale+alpha
+Reducing image to 8 bits/pixel, 55 colors (54 transparent) in palette
+Input IDAT size = 1731 bytes
+Input file size = 4354 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1280
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1280
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 1274
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 1274
+
+Output IDAT size = 1274 bytes (457 bytes decrease)
+Output file size = 4139 bytes (215 bytes = 4.94% decrease)
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

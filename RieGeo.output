@@ -1,0 +1,1784 @@
+
+Running /usr/bin/pdflatex RieGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/RieGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/mathe.sty (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/wasysym/wasysym.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/doublestroke/dsfont.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty))
+(data/saetze-leuzinger.sty) (/usr/share/texmf-texlive/tex/latex/skull/skull.sty
+) (data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+Writing index file RieGeo.idx
+No file RieGeo.aux.
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+(/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/wasysym/uwasy.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+kpathsea: Running mktextfm skull
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; nonstopmode; input skull
+This is METAFONT, Version 2.718281 (TeX Live 2009/Debian)
+
+(/usr/share/texmf-texlive/fonts/source/public/skull/skull.mf [65] )
+Font metrics written on skull.tfm.
+Output written on skull.600gf (1 character, 684 bytes).
+Transcript written on skull.log.
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm: successfully generated.
+
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 36.
+
+[3] [4]
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+Kapitel II.
+[5] [6]
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+Kapitel 1.
+[7]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 111--112
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+
+Overfull \hbox (22.12735pt too wide) detected at line 138
+\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; u[]\OT1/cmr/m/n/10.95 ) [] (\OML/c
+mm/m/it/10.95 u[]; u[]; []\OT1/cmr/m/n/10.95 ) [] (\OML/cmm/m/it/10.95 u[]; []\
+OT1/cmr/m/n/10.95 ) ((\OML/cmm/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] + (\OML/cmm
+/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] \OML/cmm/m/it/10.95 < \OT1/cmr/m/n/10.95 
+1)
+
+Overfull \hbox (34.17505pt too wide) in paragraph at lines 151--152
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+[8] [9]
+Overfull \hbox (32.26505pt too wide) in paragraph at lines 210--213
+\T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/10.95 n[]$\T1/cmr/m/n/10.95 -dimensi
+onale dif-fe-ren-zier-ba-re Man-nig-fal-tig-keit: $\U/msb/m/n/10.95 R[] \OT1/cm
+r/m/n/10.95 = \U/msb/m/n/10.95 R[]$ \T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/
+10.95 n[]$\T1/cmr/m/n/10.95 -differenzierbare
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 253--254
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+[10] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 270--271
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 285--286
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+[11]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 315--316
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 324--325
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+[12] [13]
+
+LaTeX Warning: Reference `lem2' on page 14 undefined on input line 400.
+
+
+LaTeX Warning: Reference `basissatz' on page 14 undefined on input line 407.
+
+
+LaTeX Warning: Reference `lem2' on page 14 undefined on input line 438.
+
+
+LaTeX Warning: Reference `lem2' on page 14 undefined on input line 438.
+
+[14]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 456--457
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+[15]
+
+LaTeX Warning: Reference `basissatz' on page 16 undefined on input line 489.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 504--505
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+
+LaTeX Warning: Reference `lem4' on page 16 undefined on input line 523.
+
+[16]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 554--555
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+[17] [18]
+
+LaTeX Warning: Reference `basissatz' on page 19 undefined on input line 658.
+
+[19]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 684--685
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--685
+
+
+LaTeX Warning: Reference `basissatz' on page 20 undefined on input line 697.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 708--709
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--709
+
+[20]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 750--751
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+
+[21]
+
+LaTeX Warning: Reference `satz4' on page 22 undefined on input line 776.
+
+[22]
+kpathsea: Running mktextfm skull
+mktextfm: /home/travis/.texmf-var/fonts/tfm/public/skull/skull.tfm already exists.
+
+Kapitel 2.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 810--811
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
+
+
+Overfull \hbox (17.67882pt too wide) in paragraph at lines 816--817
+[]\T1/cmr/m/n/10.95 Der Isometrie-Begriff auf Rie-mann'schen Man-nig-fal-tig-ke
+i-ten: Ein Dif-feo-mor-phis-mus $\OT1/cmr/m/n/10.95 ^^H : (\OML/cmm/m/it/10.95 
+M; \OMS/cmsy/m/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/c
+mr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 !
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+[23]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+[24]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 890--891
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+
+[25] [26]
+
+LaTeX Warning: Reference `einszerl' on page 27 undefined on input line 977.
+
+
+LaTeX Warning: Reference `einszerl' on page 27 undefined on input line 994.
+
+[27] [28]
+Kapitel 3.
+
+LaTeX Warning: Reference `basissatz' on page 29 undefined on input line 1018.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1048--1049
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
+
+[29]
+
+LaTeX Warning: Reference `basissatz' on page 30 undefined on input line 1062.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1078--1079
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
+
+[30]
+
+LaTeX Warning: Reference `eindpara' on page 31 undefined on input line 1093.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1102--1103
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1128--1129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+
+[31]
+Overfull \hbox (0.51794pt too wide) in paragraph at lines 1138--1139
+[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 ^^C\OT1/cmr/m/n/10.95 )  =[]\OMS/cms
+y/m/n/10.95 ) $ \T1/cmr/m/n/10.95 ver-träg-lich: $\OML/cmm/m/it/10.95 V$\T1/cmr
+/m/n/10.95 , $\OML/cmm/m/it/10.95 W$ \T1/cmr/m/n/10.95 par-al-lel ist äqui-va-l
+ent zu $\OML/cmm/m/it/10.95 D[]V \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 D[]W 
+\OT1/cmr/m/n/10.95 = 0$\T1/cmr/m/n/10.95 , al-so $[]\OMS/cmsy/m/n/10.95 h\OML/c
+mm/m/it/10.95 V\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OM
+L/cmm/m/it/10.95 ; W\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95
+ )\OMS/cmsy/m/n/10.95 i[] \OT1/cmr/m/n/10.95 =
+[32]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1168--1169
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+[33] [34]
+Kapitel 4.
+[35]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1299--1300
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1299--1300
+
+[36]
+
+LaTeX Warning: Reference `intkurv' on page 37 undefined on input line 1308.
+
+
+LaTeX Warning: Reference `intkurv' on page 37 undefined on input line 1315.
+
+
+LaTeX Warning: Reference `lokgeo' on page 37 undefined on input line 1332.
+
+
+LaTeX Warning: Reference `lokgeo' on page 37 undefined on input line 1335.
+
+
+LaTeX Warning: Reference `homgeo' on page 37 undefined on input line 1335.
+
+[37]
+
+LaTeX Warning: Reference `eindgeo' on page 38 undefined on input line 1345.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1354--1355
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
+
+
+LaTeX Warning: Reference `lokgeo' on page 38 undefined on input line 1357.
+
+
+LaTeX Warning: Reference `invfunk' on page 38 undefined on input line 1370.
+
+
+Overfull \hbox (8.63614pt too wide) in paragraph at lines 1370--1371
+[]\T1/cmr/m/n/10.95 Wir be-nut-zen den Um-kehrs-atz für Man-nig-fal-tig-keit (S
+atz []). Zu zei-gen ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.95 j[] \O
+T1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 T[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.
+95 B[]\OT1/cmr/m/n/10.95 (0)) []
+
+Overfull \hbox (13.99246pt too wide) in paragraph at lines 1372--1373
+[]\T1/cmr/m/n/10.95 Wähle da-zu die Kur-ve $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/1
+0.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 tv$ \T1/c
+mr/m/n/10.95 (mit $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 (0) = 0$\T1/cmr/m/n/
+10.95 , $\OML/cmm/m/it/10.95 c[]\OT1/cmr/m/n/10.95 (0) = \OML/cmm/m/it/10.95 v$
+\T1/cmr/m/n/10.95 ). Dann ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.95 
+j[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 v\OT1/cmr/m/n/10.95 ) = []\OMS/cmsy/
+m/n/10.95 j[]\OT1/cmr/m/n/10.95 ([][] \OMS/cmsy/m/n/10.95 ^^N\OML/cmm/m/it/10.9
+5 c\OT1/cmr/m/n/10.95 )(\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1381--1382
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+
+[38]
+Overfull \hbox (20.5402pt too wide) in paragraph at lines 1395--1396
+\T1/cmr/m/n/10.95 Die Pa-ra-me-ter-li-ni-en $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/
+10.95 (\OML/cmm/m/it/10.95 u; v[]\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 bzw. $
+\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; v\OT1/cmr/m/n
+/10.95 )$ \T1/cmr/m/n/10.95 mit $\OML/cmm/m/it/10.95 v[]$ \T1/cmr/m/n/10.95 bzw
+. $\OML/cmm/m/it/10.95 u[]$ \T1/cmr/m/n/10.95 fest de-fi-nie-ren die ^^RTangent
+ial-Vektorfelder^^P 
+[39]
+
+LaTeX Warning: Reference `lem3' on page 40 undefined on input line 1465.
+
+[40]
+
+LaTeX Warning: Reference `lem3' on page 41 undefined on input line 1487.
+
+
+LaTeX Warning: Reference `lem3' on page 41 undefined on input line 1487.
+
+[41]
+
+LaTeX Warning: Reference `gausslemma' on page 42 undefined on input line 1516.
+
+[42]
+
+LaTeX Warning: Reference `geolokmin' on page 43 undefined on input line 1547.
+
+
+LaTeX Warning: Reference `totnormumg' on page 43 undefined on input line 1547.
+
+
+LaTeX Warning: Reference `totnormumg' on page 43 undefined on input line 1547.
+
+
+LaTeX Warning: Reference `geolokmin' on page 43 undefined on input line 1559.
+
+
+LaTeX Warning: Reference `geolokmin' on page 43 undefined on input line 1559.
+
+
+LaTeX Warning: Reference `totnormumg' on page 43 undefined on input line 1572.
+
+[43] [44]
+Kapitel 5.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1602--1603
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+
+[45]
+
+LaTeX Warning: Reference `tensorfeld' on page 46 undefined on input line 1630.
+
+
+Overfull \hbox (38.7795pt too wide) in paragraph at lines 1632--1634
+[]\T1/cmr/m/n/10.95 Es ist $\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/
+m/n/10.95 (\OML/cmm/m/it/10.95 X; Y\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 W; W
+\OMS/cmsy/m/n/10.95 i \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/1
+0.95 D[]D[]W \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 D[]D[]W \OT1/cmr/m/n/1
+0.95 + \OML/cmm/m/it/10.95 D[]W; W\OMS/cmsy/m/n/10.95 i$\T1/cmr/m/n/10.95 , $\O
+MS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 D[]D[]W; W\OMS/cmsy/m/n/10.95 i  []
+
+LaTeX Warning: Reference `tensorfeld' on page 46 undefined on input line 1645.
+
+[46]
+
+LaTeX Warning: Reference `symeig' on page 47 undefined on input line 1667.
+
+
+Overfull \hbox (22.67302pt too wide) in paragraph at lines 1682--1683
+\T1/cmr/m/n/10.95 Sei $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m/n
+/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )$ 
+\T1/cmr/m/n/10.95 ei-ne Rie-mann'sche Man-nig-fal-tig-keit und $\OML/cmm/m/it/1
+0.95 D$ \T1/cmr/m/n/10.95 der zu-ge-hö-ri-ger Levi-Civita-Zusammenhang.
+[47]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1710--1711
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1711
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1719--1720
+\T1/cmr/m/n/10.95 ist $\OML/cmm/m/it/10.95 df\OMS/cmsy/m/n/10.95 j[]\OT1/cmr/m/
+n/10.95 (\OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^Z \O
+ML/cmm/m/it/10.95 T[]N$ \T1/cmr/m/n/10.95 ein 2-dimensionaler Un-ter-vek-tor-ra
+um und $\OML/cmm/m/it/10.95 K[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 p; ^^[\O
+T1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (14.78204pt too wide) in paragraph at lines 1749--1751
+\T1/cmr/m/n/10.95 ergänze zu ei-ner Or-tho-nor-mal-ba-sis $\OMS/cmsy/m/n/10.95 
+f\OML/cmm/m/it/10.95 f[]; [] ; f[]\OMS/cmsy/m/n/10.95 g$ \T1/cmr/m/n/10.95 von 
+$\U/msb/m/n/10.95 R[]$\T1/cmr/m/n/10.95 . Dann ist $\OML/cmm/m/it/10.95 A [] \O
+T1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 f[]; f[]; [] ; f[]\OT1/cmr/m/n/10.95 ] \O
+MS/cmsy/m/n/10.95 2
+[48] [49]
+Overfull \hbox (2.53008pt too wide) in paragraph at lines 1814--1815
+[]\T1/cmr/m/n/10.95 Eine Rie-mann'sche Man-nig-fal-tig-keit $\OT1/cmr/m/n/10.95
+ (\OML/cmm/m/it/10.95 M; g\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 heiÿt Einstei
+n-Raum falls $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x;
+ y\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 ^^Ug\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 x; y\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 x; y
+ \OMS/cmsy/m/n/10.95 2
+
+Overfull \hbox (74.15695pt too wide) in paragraph at lines 1817--1818
+[]\T1/cmr/m/n/10.95 Räume mit kon-stan-ter Krüm-mung sind Einstein-Räume: $\OML
+/cmm/m/it/10.95 K \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 c[]$ \T1/cmr/m/n/10.
+95 kon-stant. $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 X
+; X\OT1/cmr/m/n/10.95 ) = [][] \OML/cmm/m/it/10.95 k\OT1/cmr/m/n/10.95 ([\OML/c
+mm/m/it/10.95 x; e[]\OT1/cmr/m/n/10.95 ])\OML/cmm/m/it/10.95 g\OT1/cmr/m/n/10.9
+5 (\OML/cmm/m/it/10.95 x; x\OT1/cmr/m/n/10.95 ) =
+[50]
+Kapitel 6.
+
+Overfull \hbox (24.13937pt too wide) in paragraph at lines 1852--1854
+[]\OT1/cmr/m/n/10.95 ([][] \OML/cmm/m/it/10.95 u[]x[]\OT1/cmr/m/n/10.95 ) = [][
+] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] \OML/cmm/m/it/10.95 v[][]
+x[]$\T1/cmr/m/n/10.95 . $[]\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 V\OT1/cmr/
+m/n/10.95 ) = [][] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML
+/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML/cmm/m/it/10.95 x[]$
+
+Overfull \hbox (0.16272pt too wide) in paragraph at lines 1855--1856
+[]\T1/cmr/m/n/10.95 Berechne $[][]\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 : F
+ür $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u; v\OT1/cmr/m
+/n/10.95 ) = (\OML/cmm/m/it/10.95 x[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u;
+ v\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; [] ; x[]\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 u; v; \OT1/cmr/m/n/10.95 ))$ \T1/cmr/m/n/10.95 ist $[] \OT1/cmr/m/
+n/10.95 = [][] []\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 ; $[] \OT1/cmr/m/n/1
+0.95 = [][] []\OML/cmm/m/it/10.95 x[]$
+[51]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1878--1879
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1878--1879
+
+
+Overfull \hbox (8.92468pt too wide) in paragraph at lines 1886--1889
+[]\T1/cmr/m/n/10.95 Weiter sei $\OML/cmm/m/it/10.95 a[]\OT1/cmr/m/n/10.95 (\OML
+/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) [] \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.
+95 R\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr/m/n/10.95 (\OM
+L/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ))\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10
+.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr
+/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 i[]$\T
+1/cmr/m/n/10.95 . Dann gilt $\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/cmm/
+m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[] \OT1/cmr/m/n/1
+0.95 = [][]\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/c
+mm/m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[]; E[]\OMS/cm
+sy/m/n/10.95 i\OML/cmm/m/it/10.95 E[] \OT1/cmr/m/n/10.95 =
+[52] [53] [54] [55] [56]
+Kapitel 7.
+[57]
+Overfull \hbox (4.18315pt too wide) in paragraph at lines 2094--2095
+[]\T1/cmr/m/n/10.95 Da $\OT1/cmr/m/n/10.95 
+[]$ \T1/cmr/m/n/10.95 ei-ne Ober-men-ge der We-ge von $\OML/cmm/m/it/10.95 p$ \
+T1/cmr/m/n/10.95 nach $\OML/cmm/m/it/10.95 q$ \T1/cmr/m/n/10.95 über $\OML/cmm/
+m/it/10.95 r$ \T1/cmr/m/n/10.95 ist, gilt $[][] \OML/cmm/m/it/10.95 L\OT1/cmr/m
+/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^T [][
+] \OML/cmm/m/it/10.95 L\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10
+.95 ) +
+
+LaTeX Warning: Reference `geolokmin' on page 58 undefined on input line 2097.
+
+[58]
+
+LaTeX Warning: Reference `geolokmin' on page 59 undefined on input line 2111.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2128--2129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+
+[59]
+
+LaTeX Warning: Reference `eindgeo' on page 60 undefined on input line 2152.
+
+
+LaTeX Warning: Reference `totnormumg' on page 60 undefined on input line 2156.
+
+[60] [61]
+
+LaTeX Warning: Reference `totnormumg' on page 62 undefined on input line 2227.
+
+[62]
+Overfull \hbox (5.16235pt too wide) in paragraph at lines 2269--2270
+[]\T1/cmr/m/n/10.95 Ist $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m
+/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )
+$ \T1/cmr/m/n/10.95 ei-ne zu-sam-men-hän-gen-de kom-pak-te Riem-man'sche Man-ni
+g-fal-tig-keit mit $[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M\OT1/cmr/m/n/10.
+95 ) =
+[63]
+
+LaTeX Warning: Reference `zerlsatz' on page 64 undefined on input line 2306.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2314--2315
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2315
+
+
+Underfull \vbox (badness 1635) has occurred while \output is active [64]
+[65]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2379--2380
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2379--2380
+
+[66]
+
+LaTeX Warning: Reference `schnittort' on page 67 undefined on input line 2408.
+
+[67] [68]
+Anhang A.
+** Generating table of satz,wichtigedefinition
+No file RieGeo.thm.
+No file RieGeo.ind.
+[69] (./RieGeo.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}
+kpathsea: Running mktexpk --mfmode / --bdpi 600 --mag 0+548/600 --dpi 548 skull
+mktexpk: Running mf-nowin -progname=mf \mode:=ljfour; mag:=0+548/600; nonstopmode; input skull
+This is METAFONT, Version 2.718281 (TeX Live 2009/Debian)
+
+(/usr/share/texmf-texlive/fonts/source/public/skull/skull.mf [65] )
+Font metrics written on skull.tfm.
+Output written on skull.548gf (1 character, 628 bytes).
+Transcript written on skull.log.
+mktexpk: /home/travis/.texmf-var/fonts/pk/ljfour/public/skull/skull.548pk: successfully generated.
+ </home/travis/.texmf-var/fonts/pk/ljfour/publi
+c/skull/skull.548pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfbx0800.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on RieGeo.pdf (69 pages, 879218 bytes).
+Transcript written on RieGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/makeindex RieGeo.idx in an env with 4 entries:
+This is makeindex, version 2.15 [TeX Live 2009] (kpathsea + Thai support).
+Scanning input file RieGeo.idx....done (80 entries accepted, 0 rejected).
+Sorting entries....done (497 comparisons).
+Generating output file RieGeo.ind....done (148 lines written, 0 warnings).
+Output written in RieGeo.ind.
+Transcript written in RieGeo.ilg.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex RieGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/RieGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/mathe.sty (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/wasysym/wasysym.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/doublestroke/dsfont.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty))
+(data/saetze-leuzinger.sty) (/usr/share/texmf-texlive/tex/latex/skull/skull.sty
+) (data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+Writing index file RieGeo.idx
+(./RieGeo.aux) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./RieGeo.out)
+(./RieGeo.out) (/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/wasysym/uwasy.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 36.
+
+(./RieGeo.toc [3]) [4]
+Kapitel II.
+[5] [6]
+Kapitel 1.
+[7]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 111--112
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+
+Overfull \hbox (22.12735pt too wide) detected at line 138
+\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; u[]\OT1/cmr/m/n/10.95 ) [] (\OML/c
+mm/m/it/10.95 u[]; u[]; []\OT1/cmr/m/n/10.95 ) [] (\OML/cmm/m/it/10.95 u[]; []\
+OT1/cmr/m/n/10.95 ) ((\OML/cmm/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] + (\OML/cmm
+/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] \OML/cmm/m/it/10.95 < \OT1/cmr/m/n/10.95 
+1)
+
+Overfull \hbox (34.17505pt too wide) in paragraph at lines 151--152
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+[8] [9]
+Overfull \hbox (32.26505pt too wide) in paragraph at lines 210--213
+\T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/10.95 n[]$\T1/cmr/m/n/10.95 -dimensi
+onale dif-fe-ren-zier-ba-re Man-nig-fal-tig-keit: $\U/msb/m/n/10.95 R[] \OT1/cm
+r/m/n/10.95 = \U/msb/m/n/10.95 R[]$ \T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/
+10.95 n[]$\T1/cmr/m/n/10.95 -differenzierbare
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 253--254
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+[10] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 270--271
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 285--286
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+[11]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 315--316
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 324--325
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+[12] [13] [14]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 456--457
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+[15]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 504--505
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+[16]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 554--555
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+[17] [18] [19]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 684--685
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--685
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 708--709
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--709
+
+[20]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 750--751
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+
+[21] [22]
+Kapitel 2.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 810--811
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
+
+
+Overfull \hbox (17.67882pt too wide) in paragraph at lines 816--817
+[]\T1/cmr/m/n/10.95 Der Isometrie-Begriff auf Rie-mann'schen Man-nig-fal-tig-ke
+i-ten: Ein Dif-feo-mor-phis-mus $\OT1/cmr/m/n/10.95 ^^H : (\OML/cmm/m/it/10.95 
+M; \OMS/cmsy/m/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/c
+mr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 !
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+[23]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+[24]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 890--891
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+
+[25] [26] [27] [28]
+Kapitel 3.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1048--1049
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
+
+[29]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1078--1079
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
+
+[30]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1102--1103
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1128--1129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+
+[31]
+Overfull \hbox (0.51794pt too wide) in paragraph at lines 1138--1139
+[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 ^^C\OT1/cmr/m/n/10.95 )  =[]\OMS/cms
+y/m/n/10.95 ) $ \T1/cmr/m/n/10.95 ver-träg-lich: $\OML/cmm/m/it/10.95 V$\T1/cmr
+/m/n/10.95 , $\OML/cmm/m/it/10.95 W$ \T1/cmr/m/n/10.95 par-al-lel ist äqui-va-l
+ent zu $\OML/cmm/m/it/10.95 D[]V \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 D[]W 
+\OT1/cmr/m/n/10.95 = 0$\T1/cmr/m/n/10.95 , al-so $[]\OMS/cmsy/m/n/10.95 h\OML/c
+mm/m/it/10.95 V\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OM
+L/cmm/m/it/10.95 ; W\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95
+ )\OMS/cmsy/m/n/10.95 i[] \OT1/cmr/m/n/10.95 =
+[32]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1168--1169
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+[33] [34]
+Kapitel 4.
+[35]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1299--1300
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1299--1300
+
+[36] [37]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1354--1355
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
+
+
+Overfull \hbox (10.73517pt too wide) in paragraph at lines 1370--1371
+[]\T1/cmr/m/n/10.95 Wir be-nut-zen den Um-kehrs-atz für Man-nig-fal-tig-keit (S
+atz [][]1.2[][]). Zu zei-gen ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.
+95 j[] \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 T[]\OT1/cmr/m/n/10.95 (\OML/cmm
+/m/it/10.95 B[]\OT1/cmr/m/n/10.95 (0)) []
+
+Overfull \hbox (13.99246pt too wide) in paragraph at lines 1372--1373
+[]\T1/cmr/m/n/10.95 Wähle da-zu die Kur-ve $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/1
+0.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 tv$ \T1/c
+mr/m/n/10.95 (mit $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 (0) = 0$\T1/cmr/m/n/
+10.95 , $\OML/cmm/m/it/10.95 c[]\OT1/cmr/m/n/10.95 (0) = \OML/cmm/m/it/10.95 v$
+\T1/cmr/m/n/10.95 ). Dann ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.95 
+j[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 v\OT1/cmr/m/n/10.95 ) = []\OMS/cmsy/
+m/n/10.95 j[]\OT1/cmr/m/n/10.95 ([][] \OMS/cmsy/m/n/10.95 ^^N\OML/cmm/m/it/10.9
+5 c\OT1/cmr/m/n/10.95 )(\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1381--1382
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+
+[38]
+Overfull \hbox (20.5402pt too wide) in paragraph at lines 1395--1396
+\T1/cmr/m/n/10.95 Die Pa-ra-me-ter-li-ni-en $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/
+10.95 (\OML/cmm/m/it/10.95 u; v[]\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 bzw. $
+\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; v\OT1/cmr/m/n
+/10.95 )$ \T1/cmr/m/n/10.95 mit $\OML/cmm/m/it/10.95 v[]$ \T1/cmr/m/n/10.95 bzw
+. $\OML/cmm/m/it/10.95 u[]$ \T1/cmr/m/n/10.95 fest de-fi-nie-ren die ^^RTangent
+ial-Vektorfelder^^P 
+[39] [40] [41] [42] [43] [44]
+Kapitel 5.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1602--1603
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+
+[45]
+Overfull \hbox (38.7795pt too wide) in paragraph at lines 1632--1634
+[]\T1/cmr/m/n/10.95 Es ist $\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/
+m/n/10.95 (\OML/cmm/m/it/10.95 X; Y\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 W; W
+\OMS/cmsy/m/n/10.95 i \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/1
+0.95 D[]D[]W \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 D[]D[]W \OT1/cmr/m/n/1
+0.95 + \OML/cmm/m/it/10.95 D[]W; W\OMS/cmsy/m/n/10.95 i$\T1/cmr/m/n/10.95 , $\O
+MS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 D[]D[]W; W\OMS/cmsy/m/n/10.95 i  []
+[46]
+Overfull \hbox (22.67302pt too wide) in paragraph at lines 1682--1683
+\T1/cmr/m/n/10.95 Sei $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m/n
+/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )$ 
+\T1/cmr/m/n/10.95 ei-ne Rie-mann'sche Man-nig-fal-tig-keit und $\OML/cmm/m/it/1
+0.95 D$ \T1/cmr/m/n/10.95 der zu-ge-hö-ri-ger Levi-Civita-Zusammenhang.
+[47]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1710--1711
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1711
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1719--1720
+\T1/cmr/m/n/10.95 ist $\OML/cmm/m/it/10.95 df\OMS/cmsy/m/n/10.95 j[]\OT1/cmr/m/
+n/10.95 (\OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^Z \O
+ML/cmm/m/it/10.95 T[]N$ \T1/cmr/m/n/10.95 ein 2-dimensionaler Un-ter-vek-tor-ra
+um und $\OML/cmm/m/it/10.95 K[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 p; ^^[\O
+T1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (14.78204pt too wide) in paragraph at lines 1749--1751
+\T1/cmr/m/n/10.95 ergänze zu ei-ner Or-tho-nor-mal-ba-sis $\OMS/cmsy/m/n/10.95 
+f\OML/cmm/m/it/10.95 f[]; [] ; f[]\OMS/cmsy/m/n/10.95 g$ \T1/cmr/m/n/10.95 von 
+$\U/msb/m/n/10.95 R[]$\T1/cmr/m/n/10.95 . Dann ist $\OML/cmm/m/it/10.95 A [] \O
+T1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 f[]; f[]; [] ; f[]\OT1/cmr/m/n/10.95 ] \O
+MS/cmsy/m/n/10.95 2
+[48] [49]
+Overfull \hbox (2.53008pt too wide) in paragraph at lines 1814--1815
+[]\T1/cmr/m/n/10.95 Eine Rie-mann'sche Man-nig-fal-tig-keit $\OT1/cmr/m/n/10.95
+ (\OML/cmm/m/it/10.95 M; g\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 heiÿt Einstei
+n-Raum falls $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x;
+ y\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 ^^Ug\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 x; y\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 x; y
+ \OMS/cmsy/m/n/10.95 2
+
+Overfull \hbox (74.15695pt too wide) in paragraph at lines 1817--1818
+[]\T1/cmr/m/n/10.95 Räume mit kon-stan-ter Krüm-mung sind Einstein-Räume: $\OML
+/cmm/m/it/10.95 K \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 c[]$ \T1/cmr/m/n/10.
+95 kon-stant. $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 X
+; X\OT1/cmr/m/n/10.95 ) = [][] \OML/cmm/m/it/10.95 k\OT1/cmr/m/n/10.95 ([\OML/c
+mm/m/it/10.95 x; e[]\OT1/cmr/m/n/10.95 ])\OML/cmm/m/it/10.95 g\OT1/cmr/m/n/10.9
+5 (\OML/cmm/m/it/10.95 x; x\OT1/cmr/m/n/10.95 ) =
+[50]
+Kapitel 6.
+
+Overfull \hbox (24.13937pt too wide) in paragraph at lines 1852--1854
+[]\OT1/cmr/m/n/10.95 ([][] \OML/cmm/m/it/10.95 u[]x[]\OT1/cmr/m/n/10.95 ) = [][
+] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] \OML/cmm/m/it/10.95 v[][]
+x[]$\T1/cmr/m/n/10.95 . $[]\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 V\OT1/cmr/
+m/n/10.95 ) = [][] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML
+/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML/cmm/m/it/10.95 x[]$
+
+Overfull \hbox (0.16272pt too wide) in paragraph at lines 1855--1856
+[]\T1/cmr/m/n/10.95 Berechne $[][]\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 : F
+ür $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u; v\OT1/cmr/m
+/n/10.95 ) = (\OML/cmm/m/it/10.95 x[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u;
+ v\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; [] ; x[]\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 u; v; \OT1/cmr/m/n/10.95 ))$ \T1/cmr/m/n/10.95 ist $[] \OT1/cmr/m/
+n/10.95 = [][] []\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 ; $[] \OT1/cmr/m/n/1
+0.95 = [][] []\OML/cmm/m/it/10.95 x[]$
+[51]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1878--1879
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1878--1879
+
+
+Overfull \hbox (8.92468pt too wide) in paragraph at lines 1886--1889
+[]\T1/cmr/m/n/10.95 Weiter sei $\OML/cmm/m/it/10.95 a[]\OT1/cmr/m/n/10.95 (\OML
+/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) [] \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.
+95 R\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr/m/n/10.95 (\OM
+L/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ))\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10
+.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr
+/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 i[]$\T
+1/cmr/m/n/10.95 . Dann gilt $\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/cmm/
+m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[] \OT1/cmr/m/n/1
+0.95 = [][]\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/c
+mm/m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[]; E[]\OMS/cm
+sy/m/n/10.95 i\OML/cmm/m/it/10.95 E[] \OT1/cmr/m/n/10.95 =
+[52] [53] [54] [55] [56]
+Kapitel 7.
+[57]
+Overfull \hbox (4.18315pt too wide) in paragraph at lines 2094--2095
+[]\T1/cmr/m/n/10.95 Da $\OT1/cmr/m/n/10.95 
+[]$ \T1/cmr/m/n/10.95 ei-ne Ober-men-ge der We-ge von $\OML/cmm/m/it/10.95 p$ \
+T1/cmr/m/n/10.95 nach $\OML/cmm/m/it/10.95 q$ \T1/cmr/m/n/10.95 über $\OML/cmm/
+m/it/10.95 r$ \T1/cmr/m/n/10.95 ist, gilt $[][] \OML/cmm/m/it/10.95 L\OT1/cmr/m
+/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^T [][
+] \OML/cmm/m/it/10.95 L\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10
+.95 ) +
+[58]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2128--2129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+
+[59] [60] [61] [62]
+Overfull \hbox (5.16235pt too wide) in paragraph at lines 2269--2270
+[]\T1/cmr/m/n/10.95 Ist $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m
+/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )
+$ \T1/cmr/m/n/10.95 ei-ne zu-sam-men-hän-gen-de kom-pak-te Riem-man'sche Man-ni
+g-fal-tig-keit mit $[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M\OT1/cmr/m/n/10.
+95 ) =
+[63]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2314--2315
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2315
+
+
+Underfull \vbox (badness 1635) has occurred while \output is active [64]
+[65]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2379--2380
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2379--2380
+
+[66] [67] [68]
+Anhang A.
+** Generating table of satz,wichtigedefinition
+(./RieGeo.thm) (./RieGeo.ind [69] [70] [71] [72]) (./RieGeo.aux) )
+(see the transcript file for additional information) </home/travis/.texmf-var/f
+onts/pk/ljfour/public/skull/skull.548pk>{/usr/share/texmf/fonts/enc/dvips/cm-su
+per/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sftt1440.pfb>
+Output written on RieGeo.pdf (72 pages, 919675 bytes).
+Transcript written on RieGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex RieGeo.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/RieGeo.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/mathe.sty (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/usr/share/texmf-texlive/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.25 <2005/07/07>
+) (/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty)
+(/usr/share/texmf-texlive/tex/latex/pstricks/pstricks.sty
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.29  <2009/05/19> (tvz)
+(/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.con))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+(/etc/texmf/tex/latex/config/color.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/carlisle/slashed.sty)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+(/usr/share/texmf-texlive/tex/latex/wasysym/wasysym.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/doublestroke/dsfont.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty))
+(data/saetze-leuzinger.sty) (/usr/share/texmf-texlive/tex/latex/skull/skull.sty
+) (data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+Writing index file RieGeo.idx
+(./RieGeo.aux) (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./RieGeo.out)
+(./RieGeo.out) (/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+(/usr/share/texmf-texlive/tex/latex/wasysym/uwasy.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 36.
+
+(./RieGeo.toc [3]) [4]
+Kapitel II.
+[5] [6]
+Kapitel 1.
+[7]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 111--112
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+
+Overfull \hbox (22.12735pt too wide) detected at line 138
+\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; u[]\OT1/cmr/m/n/10.95 ) [] (\OML/c
+mm/m/it/10.95 u[]; u[]; []\OT1/cmr/m/n/10.95 ) [] (\OML/cmm/m/it/10.95 u[]; []\
+OT1/cmr/m/n/10.95 ) ((\OML/cmm/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] + (\OML/cmm
+/m/it/10.95 u[]\OT1/cmr/m/n/10.95 )[] \OML/cmm/m/it/10.95 < \OT1/cmr/m/n/10.95 
+1)
+
+Overfull \hbox (34.17505pt too wide) in paragraph at lines 151--152
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+[8] [9]
+Overfull \hbox (32.26505pt too wide) in paragraph at lines 210--213
+\T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/10.95 n[]$\T1/cmr/m/n/10.95 -dimensi
+onale dif-fe-ren-zier-ba-re Man-nig-fal-tig-keit: $\U/msb/m/n/10.95 R[] \OT1/cm
+r/m/n/10.95 = \U/msb/m/n/10.95 R[]$ \T1/cmr/m/n/10.95 ist ei-ne $\OML/cmm/m/it/
+10.95 n[]$\T1/cmr/m/n/10.95 -differenzierbare
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 253--254
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+[10] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 270--271
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 285--286
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+[11]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 315--316
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 324--325
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+[12] [13] [14]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 456--457
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+[15]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 504--505
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
+
+[16]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 554--555
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
+
+[17] [18] [19]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 684--685
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--685
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 708--709
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--709
+
+[20]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 750--751
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+
+[21] [22]
+Kapitel 2.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 810--811
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
+
+
+Overfull \hbox (17.67882pt too wide) in paragraph at lines 816--817
+[]\T1/cmr/m/n/10.95 Der Isometrie-Begriff auf Rie-mann'schen Man-nig-fal-tig-ke
+i-ten: Ein Dif-feo-mor-phis-mus $\OT1/cmr/m/n/10.95 ^^H : (\OML/cmm/m/it/10.95 
+M; \OMS/cmsy/m/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/c
+mr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 !
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 823.
+
+[23]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 826.
+
+[24]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 890--891
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+
+[25] [26] [27] [28]
+Kapitel 3.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1048--1049
+[][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
+
+[29]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1078--1079
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1079
+
+[30]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1102--1103
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1128--1129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+
+[31]
+Overfull \hbox (0.51794pt too wide) in paragraph at lines 1138--1139
+[]$\OT1/cmr/m/n/10.95 (\OMS/cmsy/m/n/10.95 ^^C\OT1/cmr/m/n/10.95 )  =[]\OMS/cms
+y/m/n/10.95 ) $ \T1/cmr/m/n/10.95 ver-träg-lich: $\OML/cmm/m/it/10.95 V$\T1/cmr
+/m/n/10.95 , $\OML/cmm/m/it/10.95 W$ \T1/cmr/m/n/10.95 par-al-lel ist äqui-va-l
+ent zu $\OML/cmm/m/it/10.95 D[]V \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 D[]W 
+\OT1/cmr/m/n/10.95 = 0$\T1/cmr/m/n/10.95 , al-so $[]\OMS/cmsy/m/n/10.95 h\OML/c
+mm/m/it/10.95 V\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OM
+L/cmm/m/it/10.95 ; W\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95
+ )\OMS/cmsy/m/n/10.95 i[] \OT1/cmr/m/n/10.95 =
+[32]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1168--1169
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+[33] [34]
+Kapitel 4.
+[35]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1274.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1299--1300
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1299--1300
+
+[36] [37]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1354--1355
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1354--1355
+
+
+Overfull \hbox (10.73517pt too wide) in paragraph at lines 1370--1371
+[]\T1/cmr/m/n/10.95 Wir be-nut-zen den Um-kehrs-atz für Man-nig-fal-tig-keit (S
+atz [][]1.2[][]). Zu zei-gen ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.
+95 j[] \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 T[]\OT1/cmr/m/n/10.95 (\OML/cmm
+/m/it/10.95 B[]\OT1/cmr/m/n/10.95 (0)) []
+
+Overfull \hbox (13.99246pt too wide) in paragraph at lines 1372--1373
+[]\T1/cmr/m/n/10.95 Wähle da-zu die Kur-ve $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/1
+0.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 tv$ \T1/c
+mr/m/n/10.95 (mit $\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 (0) = 0$\T1/cmr/m/n/
+10.95 , $\OML/cmm/m/it/10.95 c[]\OT1/cmr/m/n/10.95 (0) = \OML/cmm/m/it/10.95 v$
+\T1/cmr/m/n/10.95 ). Dann ist: $\OML/cmm/m/it/10.95 d [][] \OMS/cmsy/m/n/10.95 
+j[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 v\OT1/cmr/m/n/10.95 ) = []\OMS/cmsy/
+m/n/10.95 j[]\OT1/cmr/m/n/10.95 ([][] \OMS/cmsy/m/n/10.95 ^^N\OML/cmm/m/it/10.9
+5 c\OT1/cmr/m/n/10.95 )(\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1381--1382
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1381--1382
+
+[38]
+Overfull \hbox (20.5402pt too wide) in paragraph at lines 1395--1396
+\T1/cmr/m/n/10.95 Die Pa-ra-me-ter-li-ni-en $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/
+10.95 (\OML/cmm/m/it/10.95 u; v[]\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 bzw. $
+\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u[]; v\OT1/cmr/m/n
+/10.95 )$ \T1/cmr/m/n/10.95 mit $\OML/cmm/m/it/10.95 v[]$ \T1/cmr/m/n/10.95 bzw
+. $\OML/cmm/m/it/10.95 u[]$ \T1/cmr/m/n/10.95 fest de-fi-nie-ren die ^^RTangent
+ial-Vektorfelder^^P 
+[39] [40] [41] [42] [43] [44]
+Kapitel 5.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1602--1603
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+
+[45]
+Overfull \hbox (38.7795pt too wide) in paragraph at lines 1632--1634
+[]\T1/cmr/m/n/10.95 Es ist $\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/
+m/n/10.95 (\OML/cmm/m/it/10.95 X; Y\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 W; W
+\OMS/cmsy/m/n/10.95 i \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/1
+0.95 D[]D[]W \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 D[]D[]W \OT1/cmr/m/n/1
+0.95 + \OML/cmm/m/it/10.95 D[]W; W\OMS/cmsy/m/n/10.95 i$\T1/cmr/m/n/10.95 , $\O
+MS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 D[]D[]W; W\OMS/cmsy/m/n/10.95 i  []
+[46]
+Overfull \hbox (22.67302pt too wide) in paragraph at lines 1682--1683
+\T1/cmr/m/n/10.95 Sei $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m/n
+/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )$ 
+\T1/cmr/m/n/10.95 ei-ne Rie-mann'sche Man-nig-fal-tig-keit und $\OML/cmm/m/it/1
+0.95 D$ \T1/cmr/m/n/10.95 der zu-ge-hö-ri-ger Levi-Civita-Zusammenhang.
+[47]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1710--1711
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1710--1711
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 1719--1720
+\T1/cmr/m/n/10.95 ist $\OML/cmm/m/it/10.95 df\OMS/cmsy/m/n/10.95 j[]\OT1/cmr/m/
+n/10.95 (\OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^Z \O
+ML/cmm/m/it/10.95 T[]N$ \T1/cmr/m/n/10.95 ein 2-dimensionaler Un-ter-vek-tor-ra
+um und $\OML/cmm/m/it/10.95 K[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 p; ^^[\O
+T1/cmr/m/n/10.95 ) =
+
+Overfull \hbox (14.78204pt too wide) in paragraph at lines 1749--1751
+\T1/cmr/m/n/10.95 ergänze zu ei-ner Or-tho-nor-mal-ba-sis $\OMS/cmsy/m/n/10.95 
+f\OML/cmm/m/it/10.95 f[]; [] ; f[]\OMS/cmsy/m/n/10.95 g$ \T1/cmr/m/n/10.95 von 
+$\U/msb/m/n/10.95 R[]$\T1/cmr/m/n/10.95 . Dann ist $\OML/cmm/m/it/10.95 A [] \O
+T1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 f[]; f[]; [] ; f[]\OT1/cmr/m/n/10.95 ] \O
+MS/cmsy/m/n/10.95 2
+[48] [49]
+Overfull \hbox (2.53008pt too wide) in paragraph at lines 1814--1815
+[]\T1/cmr/m/n/10.95 Eine Rie-mann'sche Man-nig-fal-tig-keit $\OT1/cmr/m/n/10.95
+ (\OML/cmm/m/it/10.95 M; g\OT1/cmr/m/n/10.95 )$ \T1/cmr/m/n/10.95 heiÿt Einstei
+n-Raum falls $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x;
+ y\OT1/cmr/m/n/10.95 ) = \OML/cmm/m/it/10.95 ^^Ug\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 x; y\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 8\OML/cmm/m/it/10.95 x; y
+ \OMS/cmsy/m/n/10.95 2
+
+Overfull \hbox (74.15695pt too wide) in paragraph at lines 1817--1818
+[]\T1/cmr/m/n/10.95 Räume mit kon-stan-ter Krüm-mung sind Einstein-Räume: $\OML
+/cmm/m/it/10.95 K \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 c[]$ \T1/cmr/m/n/10.
+95 kon-stant. $\OML/cmm/m/it/10.95 Ric\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 X
+; X\OT1/cmr/m/n/10.95 ) = [][] \OML/cmm/m/it/10.95 k\OT1/cmr/m/n/10.95 ([\OML/c
+mm/m/it/10.95 x; e[]\OT1/cmr/m/n/10.95 ])\OML/cmm/m/it/10.95 g\OT1/cmr/m/n/10.9
+5 (\OML/cmm/m/it/10.95 x; x\OT1/cmr/m/n/10.95 ) =
+[50]
+Kapitel 6.
+
+Overfull \hbox (24.13937pt too wide) in paragraph at lines 1852--1854
+[]\OT1/cmr/m/n/10.95 ([][] \OML/cmm/m/it/10.95 u[]x[]\OT1/cmr/m/n/10.95 ) = [][
+] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] \OML/cmm/m/it/10.95 v[][]
+x[]$\T1/cmr/m/n/10.95 . $[]\OT1/cmr/m/n/10.95 ([]\OML/cmm/m/it/10.95 V\OT1/cmr/
+m/n/10.95 ) = [][] []\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML
+/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 + [][] [][]\OML/cmm/m/it/10.95 x[]$
+
+Overfull \hbox (0.16272pt too wide) in paragraph at lines 1855--1856
+[]\T1/cmr/m/n/10.95 Berechne $[][]\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 : F
+ür $\OML/cmm/m/it/10.95 f\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u; v\OT1/cmr/m
+/n/10.95 ) = (\OML/cmm/m/it/10.95 x[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 u;
+ v\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; [] ; x[]\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 u; v; \OT1/cmr/m/n/10.95 ))$ \T1/cmr/m/n/10.95 ist $[] \OT1/cmr/m/
+n/10.95 = [][] []\OML/cmm/m/it/10.95 x[]$\T1/cmr/m/n/10.95 ; $[] \OT1/cmr/m/n/1
+0.95 = [][] []\OML/cmm/m/it/10.95 x[]$
+[51]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1878--1879
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1878--1879
+
+
+Overfull \hbox (8.92468pt too wide) in paragraph at lines 1886--1889
+[]\T1/cmr/m/n/10.95 Weiter sei $\OML/cmm/m/it/10.95 a[]\OT1/cmr/m/n/10.95 (\OML
+/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ) [] \OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.
+95 R\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10.95 (\OML/cmm/m
+/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr/m/n/10.95 (\OM
+L/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 ))\OML/cmm/m/it/10.95 ^^M[]\OT1/cmr/m/n/10
+.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ; E[]\OT1/cmr
+/m/n/10.95 (\OML/cmm/m/it/10.95 t\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 i[]$\T
+1/cmr/m/n/10.95 . Dann gilt $\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/cmm/
+m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[] \OT1/cmr/m/n/1
+0.95 = [][]\OMS/cmsy/m/n/10.95 h\OML/cmm/m/it/10.95 R\OT1/cmr/m/n/10.95 (\OML/c
+mm/m/it/10.95 ^^M[]; J\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ^^M[]; E[]\OMS/cm
+sy/m/n/10.95 i\OML/cmm/m/it/10.95 E[] \OT1/cmr/m/n/10.95 =
+[52] [53] [54] [55] [56]
+Kapitel 7.
+[57]
+Overfull \hbox (4.18315pt too wide) in paragraph at lines 2094--2095
+[]\T1/cmr/m/n/10.95 Da $\OT1/cmr/m/n/10.95 
+[]$ \T1/cmr/m/n/10.95 ei-ne Ober-men-ge der We-ge von $\OML/cmm/m/it/10.95 p$ \
+T1/cmr/m/n/10.95 nach $\OML/cmm/m/it/10.95 q$ \T1/cmr/m/n/10.95 über $\OML/cmm/
+m/it/10.95 r$ \T1/cmr/m/n/10.95 ist, gilt $[][] \OML/cmm/m/it/10.95 L\OT1/cmr/m
+/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^T [][
+] \OML/cmm/m/it/10.95 L\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 c\OT1/cmr/m/n/10
+.95 ) +
+[58]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2128--2129
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
+
+[59] [60] [61] [62]
+Overfull \hbox (5.16235pt too wide) in paragraph at lines 2269--2270
+[]\T1/cmr/m/n/10.95 Ist $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M; \OMS/cmsy/m
+/n/10.95 h^^A\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95 ^^Ai\OT1/cmr/m/n/10.95 )
+$ \T1/cmr/m/n/10.95 ei-ne zu-sam-men-hän-gen-de kom-pak-te Riem-man'sche Man-ni
+g-fal-tig-keit mit $[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M\OT1/cmr/m/n/10.
+95 ) =
+[63]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2314--2315
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2314--2315
+
+
+Underfull \vbox (badness 1635) has occurred while \output is active [64]
+[65]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 2379--2380
+[][][][]
+
+Underfull \hbox (badness 10000) in paragraph at lines 2379--2380
+
+[66] [67] [68]
+Anhang A.
+** Generating table of satz,wichtigedefinition
+(./RieGeo.thm) (./RieGeo.ind [69] [70] [71] [72]) (./RieGeo.aux) )
+(see the transcript file for additional information) </home/travis/.texmf-var/f
+onts/pk/ljfour/public/skull/skull.548pk>{/usr/share/texmf/fonts/enc/dvips/cm-su
+per/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmmi9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><
+/usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fon
+ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sftt1095.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sftt1440.pfb>
+Output written on RieGeo.pdf (72 pages, 919675 bytes).
+Transcript written on RieGeo.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose RieGeo.pdf[0] -resize 70x RieGeo.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-8thEA2D7-%08d" "-f/tmp/magick-BJ6RKKg7" "-f/tmp/magick-cZbh6wT6"
+/tmp/magick-8thEA2D7-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 11.2KB 0.000u 0:00.019
+RieGeo.pdf[0]=>RieGeo.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 11.2KB 0.000u 0:00.000
+RieGeo.pdf[0]=>RieGeo.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 0.330u 0:00.079
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose RieGeo.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: RieGeo.png
+70x99 pixels, 4x16 bits/pixel, RGB+alpha
+Input IDAT size = 1204 bytes
+Input file size = 3838 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1114
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1108
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1108
+
+Output IDAT size = 1108 bytes (96 bytes decrease)
+Output file size = 3742 bytes (96 bytes = 2.50% decrease)
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

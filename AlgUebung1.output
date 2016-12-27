@@ -1,0 +1,365 @@
+
+Running /usr/bin/pdflatex AlgUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+No file AlgUebung1.aux.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 39.
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 41.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+
+Overfull \hbox (42.51389pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u \OM
+S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/c
+msy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pu \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^P[
+]v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^
+P[]u \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pv\OT1/cmr/m/n/10 ) = [] = \OML/cm
+m/m/it/10 Y[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u [] \
+OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 v [] []Y[][] 
+
+Overfull \hbox (110.93384pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] [] \OT1/cmr/m/n/
+10 +\OML/cmm/m/it/10 v[] [] \OT1/cmr/m/n/10 +3\OML/cmm/m/it/10 uv [] []Y \OT1/c
+mr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] \OMS/cmsy/m/n/10 ^^@ \
+OML/cmm/m/it/10 v[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 uv[] [] \OMS/cmsy/m/n
+/10 ^^@\OML/cmm/m/it/10 u[]v [] [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
+
+[2]
+Overfull \hbox (20.80125pt too wide) in paragraph at lines 82--84
+[]$\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 uv \OT1/cmr/m/n/10 = \
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][](\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 q
+ \OT1/cmr/m/n/10 + [][]) \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10
+ ^^@\OML/cmm/m/it/10 q \OMS/cmsy/m/n/10 ^^@ [][]\OT1/cmr/m/n/10 )[][] = \OMS/cm
+sy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][][]\OML/cmm/m/it/10 q[] \OMS/cmsy/m/n/10 ^^@ [
+]\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 D\OT1/c
+mr/m/n/10 )[][][] =
+[3] (./AlgUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texmf-texlive/fonts/typ
+e1/hoekwater/stmaryrd/stmary10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwa
+ter/stmaryrd/stmary7.pfb>
+Output written on AlgUebung1.pdf (3 pages, 158031 bytes).
+Transcript written on AlgUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex AlgUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty) (./AlgUebung1.aux)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 39.
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 41.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+
+Overfull \hbox (42.51389pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u \OM
+S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/c
+msy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pu \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^P[
+]v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^
+P[]u \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pv\OT1/cmr/m/n/10 ) = [] = \OML/cm
+m/m/it/10 Y[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u [] \
+OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 v [] []Y[][] 
+
+Overfull \hbox (110.93384pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] [] \OT1/cmr/m/n/
+10 +\OML/cmm/m/it/10 v[] [] \OT1/cmr/m/n/10 +3\OML/cmm/m/it/10 uv [] []Y \OT1/c
+mr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] \OMS/cmsy/m/n/10 ^^@ \
+OML/cmm/m/it/10 v[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 uv[] [] \OMS/cmsy/m/n
+/10 ^^@\OML/cmm/m/it/10 u[]v [] [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
+
+[2]
+Overfull \hbox (20.80125pt too wide) in paragraph at lines 82--84
+[]$\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 uv \OT1/cmr/m/n/10 = \
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][](\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 q
+ \OT1/cmr/m/n/10 + [][]) \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10
+ ^^@\OML/cmm/m/it/10 q \OMS/cmsy/m/n/10 ^^@ [][]\OT1/cmr/m/n/10 )[][] = \OMS/cm
+sy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][][]\OML/cmm/m/it/10 q[] \OMS/cmsy/m/n/10 ^^@ [
+]\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 D\OT1/c
+mr/m/n/10 )[][][] =
+[3] (./AlgUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texmf-texlive/fonts/typ
+e1/hoekwater/stmaryrd/stmary10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwa
+ter/stmaryrd/stmary7.pfb>
+Output written on AlgUebung1.pdf (3 pages, 158031 bytes).
+Transcript written on AlgUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex AlgUebung1.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/AlgUebung1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty) (./AlgUebung1.aux)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 39.
+
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 41.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+
+Overfull \hbox (42.51389pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u \OM
+S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/c
+msy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pu \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^P[
+]v\OT1/cmr/m/n/10 )(\OML/cmm/m/it/10 Y \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^
+P[]u \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 ^^Pv\OT1/cmr/m/n/10 ) = [] = \OML/cm
+m/m/it/10 Y[] \OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u [] \
+OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 v [] []Y[][] 
+
+Overfull \hbox (110.93384pt too wide) in paragraph at lines 71--81
+\OT1/cmr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] [] \OT1/cmr/m/n/
+10 +\OML/cmm/m/it/10 v[] [] \OT1/cmr/m/n/10 +3\OML/cmm/m/it/10 uv [] []Y \OT1/c
+mr/m/n/10 + [] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 u[] \OMS/cmsy/m/n/10 ^^@ \
+OML/cmm/m/it/10 v[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 uv[] [] \OMS/cmsy/m/n
+/10 ^^@\OML/cmm/m/it/10 u[]v [] [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--81
+
+[2]
+Overfull \hbox (20.80125pt too wide) in paragraph at lines 82--84
+[]$\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 uv \OT1/cmr/m/n/10 = \
+OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][](\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 q
+ \OT1/cmr/m/n/10 + [][]) \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10
+ ^^@\OML/cmm/m/it/10 q \OMS/cmsy/m/n/10 ^^@ [][]\OT1/cmr/m/n/10 )[][] = \OMS/cm
+sy/m/n/10 ^^@\OT1/cmr/m/n/10 3[][][]\OML/cmm/m/it/10 q[] \OMS/cmsy/m/n/10 ^^@ [
+]\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 D\OT1/c
+mr/m/n/10 )[][][] =
+[3] (./AlgUebung1.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmm
+i5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/rsfs/rsfs10.pfb></usr/share/texmf-texlive/fonts/typ
+e1/hoekwater/stmaryrd/stmary10.pfb></usr/share/texmf-texlive/fonts/type1/hoekwa
+ter/stmaryrd/stmary7.pfb>
+Output written on AlgUebung1.pdf (3 pages, 158031 bytes).
+Transcript written on AlgUebung1.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose AlgUebung1.pdf[0] -resize 70x AlgUebung1.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-h0MGak48-%08d" "-f/tmp/magick-qulYXLux" "-f/tmp/magick-e0aUMhVV"
+/tmp/magick-h0MGak48-00000001 PNG 612x792 612x792+0+0 8-bit DirectClass 31.6KB 0.010u 0:00.000
+AlgUebung1.pdf[0]=>AlgUebung1.pdf PDF 612x792 612x792+0+0 16-bit DirectClass 31.6KB 0.000u 0:00.000
+AlgUebung1.pdf[0]=>AlgUebung1.png PDF 612x792=>70x91 70x91+0+0 16-bit DirectClass 0.330u 0:00.080
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose AlgUebung1.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: AlgUebung1.png
+70x91 pixels, 2x8 bits/pixel, grayscale+alpha
+Reducing image to 8 bits/pixel, 46 colors (45 transparent) in palette
+Input IDAT size = 1410 bytes
+Input file size = 4033 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1006
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1005
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 996
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Selecting parameters:
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 996
+
+Output IDAT size = 996 bytes (414 bytes decrease)
+Output file size = 3825 bytes (208 bytes = 5.16% decrease)
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess

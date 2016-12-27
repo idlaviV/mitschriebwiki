@@ -1,0 +1,768 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2016.12.27)  27 DEC 2016 08:47
+entering extended mode
+ %&-line parsing enabled.
+**Numerik1Latex.tex
+(data/Numerik1Latex.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2009/07/24 v3.04a KOMA-Script document class (article)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-dependent 
+basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2009/07/24 v3.04a KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
+
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2009/06/08 v3.03b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 115.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 116.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 117.
+Class scrartcl Info: File `scrsize11pt.clo' used instead of
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 117
+1.
+
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2009/07/24 v3.04a KOMA-Script font size class option (11p
+t)
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package: typearea 2009/07/24 v3.04a KOMA-Script package (type area)
+
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1115.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen102
+) (/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen103
+ngerman -- \language number for naustrian undefined, default 17 used.
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks25
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen113
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count102
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
+\Field@toks=\toks26
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count103
+\c@Item=\count104
+\c@Hfootnote=\count105
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count106
+) (./Numerik1Latex.aux)
+\openout1 = `Numerik1Latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+Package hyperref Info: Link coloring OFF on input line 4.
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count107
+)
+LaTeX Info: Redefining \ref on input line 4.
+LaTeX Info: Redefining \pageref on input line 4.
+
+(./Numerik1Latex.out) (./Numerik1Latex.out)
+\@outlinefile=\write3
+\openout3 = `Numerik1Latex.out'.
+
+\AtBeginShipoutBox=\box29
+\c@Lemma=\count108
+\c@Thm=\count109
+\c@Satz=\count110
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) (./Numerik1Latex.toc
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 3.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 17.
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 29.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Class scrartcl Info: You've told me to use the font selection of the element
+(scrartcl)           `sectioning' that is an alias of element `disposition'
+(scrartcl)            on input line 69.
+)
+\tf@toc=\write4
+\openout4 = `Numerik1Latex.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 69.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 102--106
+
+ []
+
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+[6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+[9]
+Overfull \hbox (4.9042pt too wide) in paragraph at lines 328--332
+\OT1/cmr/m/n/10.95 Formuliere dies als ein Glei-chungs-sys-tem in Ma-trix-schre
+ib-wei-se f[]ur den Vek-tor $[\OML/cmm/m/it/10.95 u[]; [] ; u[]\OT1/cmr/m/n/10.
+95 ]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+[10]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 381.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 431--434
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 434--437
+
+ []
+
+
+Overfull \hbox (12.78355pt too wide) in paragraph at lines 445--447
+ \OT1/cmss/bx/n/10.95 Dif-fe-ren-zen-quo-ti-ent:   \OT1/cmr/m/n/10.95 Wir hal-t
+en in 1.1 die Dif-fe-ren-zen-quo-ti-en-ten $\OML/cmm/m/it/10.95 g[]\OT1/cmr/m/n
+/10.95 (\OML/cmm/m/it/10.95 x; h\OT1/cmr/m/n/10.95 )$ und $\OML/cmm/m/it/10.95 
+g[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x; h\OT1/cmr/m/n/10.95 )$
+ []
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+
+ []
+
+
+Overfull \hbox (0.52403pt too wide) in paragraph at lines 480--481
+[]\OT1/cmr/bx/n/10.95 Theorem 1. \OT1/cmr/m/it/10.95 F[]ur die Sum-ma-ti-on von
+ $\OML/cmm/m/it/10.95 n$ \OT1/cmr/m/it/10.95 Zah-len in Rech-ne-ra-rith-me-tik 
+gilt die Absch[]atzung 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+[14] [15] [16]
+Overfull \hbox (13.55458pt too wide) in paragraph at lines 578--579
+\OT1/cmr/bx/n/10.95 Definition. \OT1/cmr/m/it/10.95 Der \OT1/cmr/m/n/10.95 Sta-
+bi-lit[]atsin-di-ka-tor \OT1/cmr/m/it/10.95 der R[]uckw[]arts-ana-ly-se des Al-
+go-rith-mus $\OML/cmm/m/it/10.95 x \OMS/cmsy/m/n/10.95 7! []\OT1/cmr/m/n/10.95 
+(\OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ;  x \OMS/cmsy/m/
+n/10.95 2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 685--687
+
+ []
+
+[19]
+
+LaTeX Warning: Command \L invalid in math mode on input line 699.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 703--705
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 724--726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--750
+
+ []
+
+[21] [22]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 843--846
+
+ []
+
+[24]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 875.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 875.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--904
+
+ []
+
+[25] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1028
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
+
+ []
+
+[29]
+
+LaTeX Warning: Command \grqq invalid in math mode on input line 1083.
+
+[30]
+Overfull \hbox (8.28513pt too wide) in paragraph at lines 1120--1123
+ \OT1/cmss/bx/n/10.95 SSOR-Verfahren (Sym-me-tri-sches SOR)[] \OT1/cmr/m/n/10.9
+5 Erst SOR mit Durch-lauf $1\OML/cmm/m/it/10.95 ; [] ; n$ \OT1/cmr/m/n/10.95 da
+nn $\OML/cmm/m/it/10.95 n; [] ; \OT1/cmr/m/n/10.95 1$. 
+ []
+
+[31]
+Missing character: There is no Â in font cmti10!
+Missing character: There is no ´ in font cmti10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1160
+
+ []
+
+[32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1229
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1238
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1292--1294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1312
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1323
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1355
+
+ []
+
+[38] [39]
+Overfull \hbox (10.76375pt too wide) in paragraph at lines 1437--1439
+$\OMS/cmsy/m/n/10.95 ) \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 e[]; q\OT1/cmr/m
+/n/10.95 )[] = 0$ f[]ur al-le $\OML/cmm/m/it/10.95 q \OMS/cmsy/m/n/10.95 2 \OML
+/cmm/m/it/10.95 V[]$\OT1/cmr/m/n/10.95 . Wir nen-nen die-se Ei-gen-schaft von $
+\OML/cmm/m/it/10.95 e[]$ $A$\OT1/cmr/m/it/10.95 -Orthogonalit[]at
+ []
+
+[40]
+Overfull \hbox (36.74146pt too wide) in paragraph at lines 1446--1448
+\OT1/cmr/m/n/10.95 und $\OML/cmm/m/it/10.95 Ad[]$ \OT1/cmr/m/n/10.95 ist ge-nau
+ dann li-ne-ar un-abh[]angig von $\OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 d[];
+ [] ; d[]\OMS/cmsy/m/n/10.95 g$ \OT1/cmr/m/n/10.95 so-lan-ge $\OML/cmm/m/it/10.
+95 A[]d[] [] []\OMS/cmsy/m/n/10.95 f\OML/cmm/m/it/10.95 d[]; [] ; A[]d[]\OMS/cm
+sy/m/n/10.95 g$
+ []
+
+[41] [42] [43] [44]
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no œ in font cmti10!
+ [45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1677
+
+ []
+
+[48] [49] [50]
+Overfull \hbox (9.39778pt too wide) in paragraph at lines 1760--1764
+\OT1/cmr/m/n/10.95 Das Mi-ni-mum wird f[]ur $\OML/cmm/m/it/10.95 ![] \OT1/cmr/m
+/n/10.95 = \OML/cmm/m/it/10.95 R[]b[]$ \OT1/cmr/m/n/10.95 an-ge-nom-men ($[](\O
+ML/cmm/m/it/10.95 R[]\OT1/cmr/m/n/10.95 ) = [](\OML/cmm/m/it/10.95 A[]\OT1/cmr/
+m/n/10.95 ) = [](\OML/cmm/m/it/10.95 A\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 
+v[]\OT1/cmr/m/n/10.95 ) =
+ []
+
+[51] [52] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1856--1858
+
+ []
+
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1885
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1932--1933
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1974
+
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2024
+
+ []
+
+[58] [59]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ® in font cmr10!
+ [60]
+Underfull \hbox (badness 10000) in paragraph at lines 2119--2121
+
+ []
+
+[61] [62]
+Overfull \hbox (3.14435pt too wide) in paragraph at lines 2191--2195
+\OT1/cmr/m/it/10.95 Insbesondere folgt der Ab-bruch nach end-lich vie-len Schri
+t-ten bzgl. des Kri-te-ri-ums $\OML/cmm/m/it/10.95 E\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 u[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^T
+ []
+
+[63]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no Ÿ in font cmr10!
+ [64] (./Numerik1Latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 6036 strings out of 493857
+ 86184 string characters out of 1153304
+ 182622 words of memory out of 3000000
+ 8906 multiletter control sequences out of 15000+50000
+ 14669 words of font info for 56 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 43i,19n,39p,483b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symb
+ols/msbm10.pfb>
+Output written on Numerik1Latex.pdf (64 pages, 526389 bytes).
+PDF statistics:
+ 957 PDF objects out of 1000 (max. 8388607)
+ 326 named destinations out of 1000 (max. 500000)
+ 577 words of extra memory for PDF output out of 10000 (max. 10000000)
+

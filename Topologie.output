@@ -1,0 +1,744 @@
+
+Running /usr/bin/pdflatex Topologie.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Topologie.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/latex/ntgclass/a4.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/units/nicefrac.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+No file Topologie.aux.
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (70.36902pt too wide) in paragraph at lines 67--67
+ [][] 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 72.
+
+[3] [4]
+Kapitel 2.
+[5] [6]
+Kapitel I.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [7]
+
+LaTeX Warning: Reference `Fundamentalsatz' on page 8 undefined on input line 18
+3.
+
+[8] [9] [10] [11]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 395.
+
+[12] [13] [14] [15] [16] [17] [18]
+
+LaTeX Warning: Reference `Normen' on page 19 undefined on input line 719.
+
+[19] [20]
+Kapitel II.
+[21]
+
+LaTeX Warning: Reference `Spurtopologie' on page 22 undefined on input line 791
+.
+
+[22] [23] [24] [25] [26] [27]
+
+LaTeX Warning: Reference `heineborel' on page 28 undefined on input line 1072.
+
+
+LaTeX Warning: Reference `L_unendlich' on page 28 undefined on input line 1076.
+
+
+[28]
+
+LaTeX Warning: Reference `Quotienten' on page 29 undefined on input line 1110.
+
+[29] [30] [31]
+Overfull \hbox (2.85547pt too wide) in paragraph at lines 1270--1277
+[]\OT1/cmr/m/n/12 Nat[]urlich m[]ochte man ei-ne []Uber-sicht ge-win-nen, wann 
+zwei to-po-lo-gi-sche R[]aume
+[32] [33]
+
+LaTeX Warning: Reference `Normen' on page 34 undefined on input line 1377.
+
+
+LaTeX Warning: Reference `Erhaltungssatz' on page 34 undefined on input line 13
+90.
+
+[34]
+Overfull \hbox (20.66156pt too wide) in paragraph at lines 1412--1414
+\OT1/cmr/m/n/12 Weiter gibt es ei-ne Um-ge-bung $\OML/cmm/m/it/12 U[]$ \OT1/cmr
+/m/n/12 von $\OML/cmm/m/it/12 x$\OT1/cmr/m/n/12 , so dass f[]ur je-des $\OML/cm
+m/m/it/12 y \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 U[]$ \OT1/cmr/m/n/12 gilt: $\OM
+L/cmm/m/it/12 d\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 y\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\
+OT1/cmr/m/n/12 )) \OML/cmm/m/it/12 <
+[35]
+Overfull \hbox (30.08331pt too wide) in paragraph at lines 1488--1489
+[]$\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/
+12 , al-so exi-stier-ten $\OML/cmm/m/it/12 y[]; [] ; y[]$ \OT1/cmr/m/n/12 mit $
+\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/12 
+. Set-ze $\OML/cmm/m/it/12 g []\OT1/cmr/m/n/12 = [][](\OML/cmm/m/it/12 g[]\OT1/
+cmr/m/n/12 ) \OMS/cmsy/m/n/12 2
+[36] [37]
+Overfull \hbox (8.1471pt too wide) in paragraph at lines 1550--1551
+[]\OT1/cmr/m/n/12 Ein Bei-spiel f[]ur einen zu-sam-menh[]angen-den Raum, der ni
+cht weg-zu-sam-menh[]angend
+[38] [39]
+
+LaTeX Warning: Reference `kte Wurzel' on page 40 undefined on input line 1636.
+
+
+LaTeX Warning: Reference `Erhaltungssatz' on page 40 undefined on input line 16
+57.
+
+
+LaTeX Warning: Reference `fuer Liouville' on page 40 undefined on input line 16
+58.
+
+
+LaTeX Warning: Reference `Liouville' on page 40 undefined on input line 1664.
+
+
+LaTeX Warning: Reference `Polynom-offen' on page 40 undefined on input line 167
+4.
+
+
+LaTeX Warning: Reference `Lasso' on page 40 undefined on input line 1675.
+
+[40]
+Overfull \hbox (4.71677pt too wide) in paragraph at lines 1713--1713
+[]\OT1/cmr/bx/n/12 Eindeutigkeitsunterstellung und Abz[]ahl-bar-keitsaxio-
+[41] [42] [43] [44]
+
+LaTeX Warning: Reference `fuer Liouville' on page 45 undefined on input line 19
+11.
+
+[45] [46]
+Overfull \hbox (2.88603pt too wide) in paragraph at lines 1997--1999
+[]\OT1/cmr/m/n/12 So kommt man zum Be-griff der Dif-fe-ren-zier-ba-ren Man-nig-
+fal-tig-keit, dem Haupt-
+[47] [48] [49]
+Overfull \hbox (11.71242pt too wide) in paragraph at lines 2158--2159
+[]\OT1/cmr/m/it/12 Beweis. \OT1/cmr/m/n/12 Zur Vor-be-rei-tung be-trach-ten wir
+ $\OML/cmm/m/it/12 ^^Y \OT1/cmr/m/n/12 : \U/msb/m/n/12 R \OMS/cmsy/m/n/12 ! \OM
+L/cmm/m/it/12 S[]$ \OT1/cmr/m/n/12 mit $\OML/cmm/m/it/12 ^^Y\OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = ([] 2\OML/cmm/m/it/12 ^^Yx; [] \OT1/cmr/m/n
+/12 2\OML/cmm/m/it/12 ^^Yx\OT1/cmr/m/n/12 )$.
+
+Overfull \hbox (37.35924pt too wide) in paragraph at lines 2158--2159
+\OT1/cmr/m/n/12 Wei-ter sei $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 [0\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 1] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 S[]$ \OT1/cmr/m/n
+/12 ein ste-ti-ger Weg und $\OML/cmm/m/it/12 [] \OMS/cmsy/m/n/12 2 \U/msb/m/n/
+12 R$\OT1/cmr/m/n/12 , so dass $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 (0) = ([] 2
+\OML/cmm/m/it/12 ^^Y[]; [] \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ^^Y[]\OT1/cmr/m/
+n/12 )$.
+[50] [51] [52] [53] [54] [55] (./Topologie.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/symbols/msbm10.pfb>
+Output written on Topologie.pdf (55 pages, 548603 bytes).
+Transcript written on Topologie.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Topologie.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Topologie.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/latex/ntgclass/a4.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/units/nicefrac.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def) (./Topologie.aux)
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Topologie.out)
+(./Topologie.out) (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (70.36902pt too wide) in paragraph at lines 67--67
+ [][] 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 72.
+
+(./Topologie.toc (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Overfull \hbox (2.45734pt too wide) detected at line 12
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.1. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 13
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.2. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 14
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.3. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 16
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.4. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 17
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.5. 
+) [3] [4]
+Kapitel 2.
+[5] [6]
+Kapitel I.
+[7] [8] [9] [10] [11]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 395.
+
+[12] [13] [14] [15] [16] [17] [18] [19] [20]
+Kapitel II.
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
+Overfull \hbox (2.85547pt too wide) in paragraph at lines 1270--1277
+[]\OT1/cmr/m/n/12 Nat[]urlich m[]ochte man ei-ne []Uber-sicht ge-win-nen, wann 
+zwei to-po-lo-gi-sche R[]aume
+[32] [33] [34]
+Overfull \hbox (20.66156pt too wide) in paragraph at lines 1412--1414
+\OT1/cmr/m/n/12 Weiter gibt es ei-ne Um-ge-bung $\OML/cmm/m/it/12 U[]$ \OT1/cmr
+/m/n/12 von $\OML/cmm/m/it/12 x$\OT1/cmr/m/n/12 , so dass f[]ur je-des $\OML/cm
+m/m/it/12 y \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 U[]$ \OT1/cmr/m/n/12 gilt: $\OM
+L/cmm/m/it/12 d\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 y\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\
+OT1/cmr/m/n/12 )) \OML/cmm/m/it/12 <
+[35]
+Overfull \hbox (30.08331pt too wide) in paragraph at lines 1488--1489
+[]$\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/
+12 , al-so exi-stier-ten $\OML/cmm/m/it/12 y[]; [] ; y[]$ \OT1/cmr/m/n/12 mit $
+\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/12 
+. Set-ze $\OML/cmm/m/it/12 g []\OT1/cmr/m/n/12 = [][](\OML/cmm/m/it/12 g[]\OT1/
+cmr/m/n/12 ) \OMS/cmsy/m/n/12 2
+[36] [37]
+Overfull \hbox (8.1471pt too wide) in paragraph at lines 1550--1551
+[]\OT1/cmr/m/n/12 Ein Bei-spiel f[]ur einen zu-sam-menh[]angen-den Raum, der ni
+cht weg-zu-sam-menh[]angend
+[38] [39] [40]
+Overfull \hbox (4.71677pt too wide) in paragraph at lines 1713--1713
+[]\OT1/cmr/bx/n/12 Eindeutigkeitsunterstellung und Abz[]ahl-bar-keitsaxio-
+[41] [42] [43] [44] [45] [46]
+Overfull \hbox (2.88603pt too wide) in paragraph at lines 1997--1999
+[]\OT1/cmr/m/n/12 So kommt man zum Be-griff der Dif-fe-ren-zier-ba-ren Man-nig-
+fal-tig-keit, dem Haupt-
+[47] [48] [49]
+Overfull \hbox (11.71242pt too wide) in paragraph at lines 2158--2159
+[]\OT1/cmr/m/it/12 Beweis. \OT1/cmr/m/n/12 Zur Vor-be-rei-tung be-trach-ten wir
+ $\OML/cmm/m/it/12 ^^Y \OT1/cmr/m/n/12 : \U/msb/m/n/12 R \OMS/cmsy/m/n/12 ! \OM
+L/cmm/m/it/12 S[]$ \OT1/cmr/m/n/12 mit $\OML/cmm/m/it/12 ^^Y\OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = ([] 2\OML/cmm/m/it/12 ^^Yx; [] \OT1/cmr/m/n
+/12 2\OML/cmm/m/it/12 ^^Yx\OT1/cmr/m/n/12 )$.
+
+Overfull \hbox (37.35924pt too wide) in paragraph at lines 2158--2159
+\OT1/cmr/m/n/12 Wei-ter sei $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 [0\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 1] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 S[]$ \OT1/cmr/m/n
+/12 ein ste-ti-ger Weg und $\OML/cmm/m/it/12 [] \OMS/cmsy/m/n/12 2 \U/msb/m/n/
+12 R$\OT1/cmr/m/n/12 , so dass $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 (0) = ([] 2
+\OML/cmm/m/it/12 ^^Y[]; [] \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ^^Y[]\OT1/cmr/m/
+n/12 )$.
+[50] [51] [52] [53] [54] [55] (./Topologie.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/symbols/msbm10.pfb>
+Output written on Topologie.pdf (55 pages, 558185 bytes).
+Transcript written on Topologie.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Topologie.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Topologie.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2009/07/24 v3.04a KOMA-Script document class (book)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrkbase.sty
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrbase.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrlfile.sty
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/share/texmf-texlive/tex/latex/koma-script/tocbasic.sty)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrsize12pt.clo)
+(/usr/share/texmf-texlive/tex/latex/koma-script/typearea.sty
+Package typearea, 2009/07/24 v3.04a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+)) (data/latexki.sty) (/usr/share/texmf-texlive/tex/latex/ntgclass/a4.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu)
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu)))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3
+(/usr/share/texmf-texlive/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.6 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded))
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08)
+(data/faktor.sty) (/usr/share/texmf-texlive/tex/latex/units/nicefrac.sty
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty))
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def) (./Topologie.aux)
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Topologie.out)
+(./Topologie.out) (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (70.36902pt too wide) in paragraph at lines 67--67
+ [][] 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+Package hyperref Warning: No destination for bookmark of \addcontentsline,
+(hyperref)                destination is added on input line 72.
+
+(./Topologie.toc (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd)
+Overfull \hbox (2.45734pt too wide) detected at line 12
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.1. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 13
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.2. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 14
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.3. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 16
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.4. 
+
+Overfull \hbox (2.45734pt too wide) detected at line 17
+\OMS/cmsy/b/n/12 x\OT1/cmr/m/n/12 II.5. 
+) [3] [4]
+Kapitel 2.
+[5] [6]
+Kapitel I.
+[7] [8] [9] [10] [11]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 395.
+
+[12] [13] [14] [15] [16] [17] [18] [19] [20]
+Kapitel II.
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31]
+Overfull \hbox (2.85547pt too wide) in paragraph at lines 1270--1277
+[]\OT1/cmr/m/n/12 Nat[]urlich m[]ochte man ei-ne []Uber-sicht ge-win-nen, wann 
+zwei to-po-lo-gi-sche R[]aume
+[32] [33] [34]
+Overfull \hbox (20.66156pt too wide) in paragraph at lines 1412--1414
+\OT1/cmr/m/n/12 Weiter gibt es ei-ne Um-ge-bung $\OML/cmm/m/it/12 U[]$ \OT1/cmr
+/m/n/12 von $\OML/cmm/m/it/12 x$\OT1/cmr/m/n/12 , so dass f[]ur je-des $\OML/cm
+m/m/it/12 y \OMS/cmsy/m/n/12 2 \OML/cmm/m/it/12 U[]$ \OT1/cmr/m/n/12 gilt: $\OM
+L/cmm/m/it/12 d\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/i
+t/12 y\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\
+OT1/cmr/m/n/12 )) \OML/cmm/m/it/12 <
+[35]
+Overfull \hbox (30.08331pt too wide) in paragraph at lines 1488--1489
+[]$\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/
+12 , al-so exi-stier-ten $\OML/cmm/m/it/12 y[]; [] ; y[]$ \OT1/cmr/m/n/12 mit $
+\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 U[]$\OT1/cmr/m/n/12 
+. Set-ze $\OML/cmm/m/it/12 g []\OT1/cmr/m/n/12 = [][](\OML/cmm/m/it/12 g[]\OT1/
+cmr/m/n/12 ) \OMS/cmsy/m/n/12 2
+[36] [37]
+Overfull \hbox (8.1471pt too wide) in paragraph at lines 1550--1551
+[]\OT1/cmr/m/n/12 Ein Bei-spiel f[]ur einen zu-sam-menh[]angen-den Raum, der ni
+cht weg-zu-sam-menh[]angend
+[38] [39] [40]
+Overfull \hbox (4.71677pt too wide) in paragraph at lines 1713--1713
+[]\OT1/cmr/bx/n/12 Eindeutigkeitsunterstellung und Abz[]ahl-bar-keitsaxio-
+[41] [42] [43] [44] [45] [46]
+Overfull \hbox (2.88603pt too wide) in paragraph at lines 1997--1999
+[]\OT1/cmr/m/n/12 So kommt man zum Be-griff der Dif-fe-ren-zier-ba-ren Man-nig-
+fal-tig-keit, dem Haupt-
+[47] [48] [49]
+Overfull \hbox (11.71242pt too wide) in paragraph at lines 2158--2159
+[]\OT1/cmr/m/it/12 Beweis. \OT1/cmr/m/n/12 Zur Vor-be-rei-tung be-trach-ten wir
+ $\OML/cmm/m/it/12 ^^Y \OT1/cmr/m/n/12 : \U/msb/m/n/12 R \OMS/cmsy/m/n/12 ! \OM
+L/cmm/m/it/12 S[]$ \OT1/cmr/m/n/12 mit $\OML/cmm/m/it/12 ^^Y\OT1/cmr/m/n/12 (\O
+ML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = ([] 2\OML/cmm/m/it/12 ^^Yx; [] \OT1/cmr/m/n
+/12 2\OML/cmm/m/it/12 ^^Yx\OT1/cmr/m/n/12 )$.
+
+Overfull \hbox (37.35924pt too wide) in paragraph at lines 2158--2159
+\OT1/cmr/m/n/12 Wei-ter sei $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 [0\OML/cmm/m/i
+t/12 ; \OT1/cmr/m/n/12 1] \OMS/cmsy/m/n/12 ! \OML/cmm/m/it/12 S[]$ \OT1/cmr/m/n
+/12 ein ste-ti-ger Weg und $\OML/cmm/m/it/12 [] \OMS/cmsy/m/n/12 2 \U/msb/m/n/
+12 R$\OT1/cmr/m/n/12 , so dass $\OML/cmm/m/it/12 ^^M\OT1/cmr/m/n/12 (0) = ([] 2
+\OML/cmm/m/it/12 ^^Y[]; [] \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 ^^Y[]\OT1/cmr/m/
+n/12 )$.
+[50] [51] [52] [53] [54] [55] (./Topologie.aux) )
+(see the transcript file for additional information)</usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
+r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/symbols/msbm10.pfb>
+Output written on Topologie.pdf (55 pages, 558185 bytes).
+Transcript written on Topologie.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose Topologie.pdf[0] -resize 70x Topologie.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-YMXxNFKa-%08d" "-f/tmp/magick-2aMyowAX" "-f/tmp/magick-WtwdMqqK"
+/tmp/magick-YMXxNFKa-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 11.3KB 0.010u 0:00.010
+Topologie.pdf[0]=>Topologie.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 11.3KB 0.000u 0:00.000
+Topologie.pdf[0]=>Topologie.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 0.270u 0:00.070
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose Topologie.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: Topologie.png
+70x99 pixels, 2x8 bits/pixel, grayscale+alpha
+Reducing image to 8 bits/pixel, 81 colors (80 transparent) in palette
+Input IDAT size = 414 bytes
+Input file size = 3044 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 310
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 308
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 300
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Topologie.png is already optimized.
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess
